@@ -1,0 +1,912 @@
+[
+  {
+    "id": "algernonsterrainsampler",
+    "files": 7,
+    "dlls": 7,
+    "parsed": 7,
+    "failed": []
+  },
+  {
+    "id": "watersheds",
+    "files": 15,
+    "dlls": 8,
+    "parsed": 8,
+    "failed": []
+  },
+  {
+    "id": "thetruearchimedesscrew",
+    "files": 8,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "betterandimprovedweather2",
+    "files": 43,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "betterhandbook",
+    "files": 4,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "betternails",
+    "files": 2,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "billposting",
+    "files": 5,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "bloodtrail",
+    "files": 71,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "bricklayers",
+    "files": 371,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "brickyard",
+    "files": 17,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "butcheringseraphlevelingcompatibility",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "butchering",
+    "files": 182,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "candela",
+    "files": 97,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "carryon",
+    "files": 106,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "carryonlib",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "cartcarryonpatch",
+    "files": 1,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "cartwrightscaravan",
+    "files": 77,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "chinesecompass",
+    "files": 25,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "cbr",
+    "files": 4,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "chiseledgroundplacement",
+    "files": 3,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "chiseledwallmounting",
+    "files": 3,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "chiseltools",
+    "files": 113,
+    "dlls": 2,
+    "parsed": 2,
+    "failed": []
+  },
+  {
+    "id": "classesremoved",
+    "files": 1,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "clickuptorches",
+    "files": 2,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "coinage",
+    "files": 39,
+    "dlls": 2,
+    "parsed": 2,
+    "failed": []
+  },
+  {
+    "id": "comfybeds",
+    "files": 12,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "commercially",
+    "files": 2,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "cottageindustry",
+    "files": 118,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "crawlanddive",
+    "files": 3,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "creaturefootsteps",
+    "files": 66,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "dead",
+    "files": 18,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "desirepaths",
+    "files": 9,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "downed",
+    "files": 13,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "duncansgrass",
+    "files": 1,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "dynamicseasonaltemperature",
+    "files": 4,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "easybuilding",
+    "files": 1,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "envelopes",
+    "files": 26,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "equusferus",
+    "files": 23,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "em",
+    "files": 155,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "extrainfo",
+    "files": 23,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "extremeweather",
+    "files": 18,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "farmingrevamped",
+    "files": 25,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "fastpackeddirtpaths",
+    "files": 1,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "fieldsofsalt",
+    "files": 17,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "foodshelves",
+    "files": 131,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "footprints",
+    "files": 78,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "foragersgamble",
+    "files": 7,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "fromgoldencombs",
+    "files": 55,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "genelib",
+    "files": 13,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "glazedpots",
+    "files": 17,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "grasstoropes",
+    "files": 21,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "vscngroundworks",
+    "files": 3,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "gui",
+    "files": 12,
+    "dlls": 12,
+    "parsed": 9,
+    "failed": [
+      "native/win-arm64/native/libHarfBuzzSharp.dll",
+      "native/win-x64/native/libHarfBuzzSharp.dll",
+      "native/win-x86/native/libHarfBuzzSharp.dll"
+    ]
+  },
+  {
+    "id": "hudclockpatch",
+    "files": 14,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "spinningwheel",
+    "files": 44,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "hideracks",
+    "files": 15,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "immersivemaps",
+    "files": 18,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "invfarming",
+    "files": 19,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "jaunt",
+    "files": 9,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "jsonpatcheslib",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "kevinsfurniture",
+    "files": 51,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "launchergoserverbridge",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "loggingmod",
+    "files": 27,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "longtermfood",
+    "files": 156,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "vsmechanicallocks",
+    "files": 16,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "mountlogoutguard",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "naturalfertilizer",
+    "files": 28,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "offlinenospoil",
+    "files": 3,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "oillampsanywhere",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "ovensmoking",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "primitivesurvival",
+    "files": 220,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "progressivebleeding",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "purposefulstorage",
+    "files": 124,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "pyrogenesiscontinued",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "realsmokeqppatch",
+    "files": 2,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "realsmoke",
+    "files": 24,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "realisticrapids",
+    "files": 3,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "realisticwater",
+    "files": 37,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "rkncrafting",
+    "files": 22,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "roughseas",
+    "files": 144,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "rusticcookery",
+    "files": 24,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "scaffolding",
+    "files": 20,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "scribe",
+    "files": 60,
+    "dlls": 2,
+    "parsed": 2,
+    "failed": []
+  },
+  {
+    "id": "seasonalflowers",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "vsscpmod",
+    "files": 17,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "vsscsmod",
+    "files": 15,
+    "dlls": 3,
+    "parsed": 3,
+    "failed": []
+  },
+  {
+    "id": "seraphleveling",
+    "files": 4,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "launchergoauth",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "shipwright",
+    "files": 87,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "simplevoicechat",
+    "files": 7,
+    "dlls": 5,
+    "parsed": 3,
+    "failed": [
+      "native/runtimes/win-x64/rnnoise.dll",
+      "native/runtimes/win-x86/rnnoise.dll"
+    ]
+  },
+  {
+    "id": "slowtox",
+    "files": 4,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "smithingplusplus",
+    "files": 34,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "smokescent",
+    "files": 2,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "soapandlyecontinued",
+    "files": 19,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "spyglassfork",
+    "files": 15,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "stickroast",
+    "files": 6,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "stonebakeoven",
+    "files": 27,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "stonequarryrepckfipil",
+    "files": 45,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "storagetweaks",
+    "files": 6,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "survivalcomplements",
+    "files": 28,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "tandemwaterwheelfix",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "tankardsandgoblets",
+    "files": 24,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "terraprety",
+    "files": 7,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "toolsmith",
+    "files": 210,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "torchesheat",
+    "files": 5,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "unbindhotkeys",
+    "files": 5,
+    "dlls": 4,
+    "parsed": 4,
+    "failed": []
+  },
+  {
+    "id": "ashes",
+    "files": 34,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "vinconomy",
+    "files": 54,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "vintagecanvas",
+    "files": 59,
+    "dlls": 4,
+    "parsed": 4,
+    "failed": []
+  },
+  {
+    "id": "visibleoresandminerals",
+    "files": 7,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "vsinstrumentsreduxexpansionc",
+    "files": 79,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "vsrestraints",
+    "files": 12,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "vsroofing",
+    "files": 28,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "vscnfirearrows",
+    "files": 5,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "vscnroping",
+    "files": 8,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "vscnlangpack",
+    "files": 163,
+    "dlls": 0,
+    "parsed": 0,
+    "failed": []
+  },
+  {
+    "id": "vscnlangpackupdater",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "vsinstrumentsredux",
+    "files": 42,
+    "dlls": 2,
+    "parsed": 2,
+    "failed": []
+  },
+  {
+    "id": "vsslssmod",
+    "files": 75,
+    "dlls": 3,
+    "parsed": 3,
+    "failed": []
+  },
+  {
+    "id": "vsslssmoddebug",
+    "files": 3,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "walkableentities",
+    "files": 35,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "toolsmithweapons",
+    "files": 4,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "wildfarmingfork",
+    "files": 68,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "chineselinebreak",
+    "files": 3,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "fontsettings",
+    "files": 4,
+    "dlls": 2,
+    "parsed": 2,
+    "failed": []
+  },
+  {
+    "id": "pinyinsearch",
+    "files": 2,
+    "dlls": 2,
+    "parsed": 2,
+    "failed": []
+  },
+  {
+    "id": "betterentityinteraction",
+    "files": 1,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "betterchinese",
+    "files": 232,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  },
+  {
+    "id": "precisepickedup",
+    "files": 3,
+    "dlls": 1,
+    "parsed": 1,
+    "failed": []
+  }
+]

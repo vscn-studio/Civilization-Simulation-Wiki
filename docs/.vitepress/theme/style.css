@@ -1,0 +1,33 @@
+:root { --vp-c-brand-1:#98502b; --vp-c-brand-2:#aa6039; --vp-c-brand-3:#ba754a; --vp-home-hero-name-color:#98502b; --vp-layout-max-width:1520px; }
+.dark { --vp-c-brand-1:#edb68a; --vp-c-brand-2:#dda071; --vp-c-brand-3:#bf8053; }
+.VPHomeHero .name { letter-spacing:.04em; }
+.vp-doc { line-height:1.85; overflow-wrap:break-word; }
+.vp-doc p,.vp-doc li { line-height:1.9; }
+.vp-doc h2 { margin-top:2.6rem; padding-top:1.3rem; }
+.vp-doc h3 { margin-top:1.8rem; }
+.vp-doc table { display:block; width:100%; max-width:100%; overflow-x:auto; font-size:14px; }
+.vp-doc td { vertical-align:top; min-width:5rem; }
+.vp-doc td code { overflow-wrap:anywhere; }
+.vp-doc th { white-space:nowrap; }
+.vp-doc details { border:1px solid var(--vp-c-divider); border-radius:8px; padding:.65rem 1rem; margin:1rem 0; background:var(--vp-c-bg-soft); }
+.vp-doc summary { cursor:pointer; color:var(--vp-c-brand-1); font-weight:600; }
+.vp-doc summary:focus-visible,.portal-card:focus-visible { outline:2px solid var(--vp-c-brand-1); outline-offset:4px; }
+.vp-doc td details { margin:0; min-width:7rem; padding:.25rem .5rem; border:0; background:transparent; }
+.vp-doc td summary { font-size:13px; font-weight:500; }
+.vp-doc td details[open] { min-width:16rem; }
+.portal-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:14px; margin:1.5rem 0; }
+.vp-doc .portal-card { display:block; border:1px solid var(--vp-c-divider); border-radius:10px; padding:18px; text-decoration:none; color:var(--vp-c-text-1); background:var(--vp-c-bg-soft); transition:border-color .15s; }
+.portal-card:hover { border-color:var(--vp-c-brand-1); }
+.portal-card strong { color:var(--vp-c-brand-1); display:block; font-size:17px; }
+.portal-card span { display:block; margin-top:6px; color:var(--vp-c-text-2); font-size:14px; line-height:1.7; }
+.wide-page .VPDoc.has-aside .content-container { max-width:1000px; }
+.wide-page .VPDoc .content { min-width:0; }
+@media (min-width:1280px) { .wide-page .VPDoc.has-aside .content { max-width:1100px; } }
+@media (max-width:640px) { .portal-grid { grid-template-columns:1fr; } .vp-doc th,.vp-doc td { padding:9px 10px; } .vp-doc details { padding:.6rem .75rem; } }
+/* Six Chinese sections need more space than VitePress's default 768px cutoff. */
+@media (min-width:768px) and (max-width:1099px) {
+  .VPNavBarMenu { display:none !important; }
+  .VPNavBarHamburger { display:flex !important; }
+  .VPNavScreen { display:block !important; }
+  .VPNavBarAppearance,.VPNavBarExtra { display:none !important; }
+}

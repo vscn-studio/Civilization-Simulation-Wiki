@@ -1,0 +1,36 @@
+# Dependencies and generated website
+node_modules/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+.vite/
+
+# Test output and local generation drafts (published data stays tracked)
+test-results/
+playwright-report/
+blob-report/
+coverage/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+scripts/generated/
+scripts/editorial-backup/
+
+# Local settings, credentials and logs
+.env
+.env.*
+!.env.example
+.npmrc.local
+*.log
+*.pem
+*.key
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~

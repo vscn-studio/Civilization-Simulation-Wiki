@@ -1,0 +1,26 @@
+name: 网站问题
+description: 报告页面打不开、搜索异常、表格或排版问题。
+title: "[网站] "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: 页面地址
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 操作步骤、实际表现与预期结果
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: 浏览器与设备
+      placeholder: Chrome / Windows / 1440px，或手机型号
+  - type: textarea
+    id: details
+    attributes:
+      label: 补充信息
+      description: 可以粘贴截图或报错信息；请去除个人信息和服务器凭据。

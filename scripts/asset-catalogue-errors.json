@@ -1,0 +1,62 @@
+[
+  {
+    "mod": "envelopes",
+    "file": "assets/envelopes/recipes/grid/remove-wax-parcel.json",
+    "error": "JSON5: invalid end of input at 26:1"
+  },
+  {
+    "mod": "farmingrevamped",
+    "file": "assets/farmingoverhaul/lang/en.json",
+    "error": "JSON5: invalid character '\\r' at 4:66"
+  },
+  {
+    "mod": "longtermfood",
+    "file": "assets/pemmican/itemtypes/food/cookedvegetable.json",
+    "error": "JSON5: invalid end of input at 458:2"
+  },
+  {
+    "mod": "stonebakeoven",
+    "file": "assets/stonebakeoven/lang/ja.json",
+    "error": "JSON5: invalid character '\\r' at 8:122"
+  },
+  {
+    "mod": "stonebakeoven",
+    "file": "assets/stonebakeoven/lang/pt-br.json",
+    "error": "JSON5: invalid character '\\r' at 4:112"
+  },
+  {
+    "mod": "stonebakeoven",
+    "file": "assets/stonebakeoven/lang/uk.json",
+    "error": "JSON5: invalid character '\\r' at 4:109"
+  },
+  {
+    "mod": "tankardsandgoblets",
+    "file": "assets/tankardsandgoblets/recipes/grid/alcoholbandage.json",
+    "error": "JSON5: invalid end of input at 187:1"
+  },
+  {
+    "mod": "vsroofing",
+    "file": "assets/vsroofing/lang/en.json",
+    "error": "JSON5: invalid character '\\n' at 78:0"
+  },
+  {
+    "mod": "vsroofing",
+    "file": "assets/vsroofing/lang/ru.json",
+    "error": "JSON5: invalid character '\\n' at 71:0"
+  },
+  {
+    "mod": "vsroofing",
+    "file": "assets/vsroofing/lang/uk.json",
+    "error": "JSON5: invalid character '\\n' at 67:0"
+  },
+  {
+    "mod": "betterchinese",
+    "file": "assets/firestarters/lang/zh-cn.json",
+    "error": "JSON5: invalid character '\\n' at 6:0"
+  },
+  {
+    "mod": "betterchinese",
+    "file": "assets/swordz/lang/zh-cn.json",
+    "error": "JSON5: invalid character '\\n' at 6:0"
+  }
+]

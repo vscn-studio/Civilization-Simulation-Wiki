@@ -1,0 +1,23 @@
+name: 内容纠错或补充
+description: 报告玩法说明、译名、数值、配置或源码解释问题。
+title: "[内容] "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: 页面链接或文件路径
+      placeholder: docs/guide/diseases.md
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 问题与建议修改
+      description: 请指出具体段落，以及你认为正确的说明。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 版本与依据
+      description: 模组版本、源码文件或游戏内验证步骤；无法确认的部分请说明。

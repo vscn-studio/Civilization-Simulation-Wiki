@@ -1,0 +1,30 @@
+{
+  "name": "seraph-civilization-wiki",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "inventory": "python scripts/inventory.py",
+    "config-inventory": "python scripts/config_inventory.py && python scripts/seraph_installed_configs.py",
+    "asset-catalogue": "python scripts/asset_catalogue.py",
+    "source-details": "python scripts/source_details.py",
+    "source-feature-pages": "python scripts/source_feature_pages.py",
+    "config-tables": "python scripts/config_tables.py",
+    "site-catalogue": "python scripts/site_catalogue.py",
+    "check:content": "node scripts/check_content.mjs",
+    "check:generation": "python scripts/check_generation.py",
+    "test:browser": "playwright test wiki.spec.mjs",
+    "test:deployment": "playwright test deployment.spec.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "json5": "^2.2.3",
+    "vitepress": "^1.6.4"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "counts": {
+    "assets": 5488,
+    "parsed": 5476,
+    "errors": 12,
+    "foodRows": 352,
+    "foodMods": 9,
+    "recipeFiles": 1452,
+    "handbookPages": 130
+  }
+}
