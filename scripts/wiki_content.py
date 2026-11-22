@@ -1,6 +1,7 @@
 """Only replace marked generated regions. Unmarked editorial pages receive drafts."""
 from pathlib import Path
 import re
+from public_content import public_markdown, RETIRED_PAGES
 
 ROOT = Path(__file__).resolve().parent.parent
 START = '<!-- generated:start -->'
@@ -8,7 +9,9 @@ END = '<!-- generated:end -->'
 
 def write_generated(path, content):
     path = Path(path)
-    text = content.rstrip() + '\n'
+    if path.relative_to(ROOT / 'docs').as_posix() in RETIRED_PAGES:
+        return
+    text = public_markdown(content).rstrip() + '\n'
     block = START + '\n' + text + END + '\n'
     if path.exists():
         old = path.read_text(encoding='utf-8')

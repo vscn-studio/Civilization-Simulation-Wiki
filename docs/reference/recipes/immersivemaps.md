@@ -7,7 +7,6 @@
 
 ## 手册 1：游戏机制：地图
 
-来源：`assets/immersivemaps/config/handbook/maps.json`。
 
 地图
 
@@ -62,9 +61,8 @@ C
 F
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/immersivemaps/recipes/grid/charcoal-pencil-recipe.json`
 
 ```json
 {
@@ -119,9 +117,8 @@ PPP
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/immersivemaps/recipes/grid/map-papyrus-recipe.json`
 
 ```json
 {
@@ -162,9 +159,8 @@ M
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/immersivemaps/recipes/grid/map-papyrus-temporal-recipe.json`
 
 ```json
 {
@@ -211,9 +207,8 @@ PPP
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/immersivemaps/recipes/grid/map-parchment-recipe.json`
 
 ```json
 {
@@ -254,9 +249,8 @@ M
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/immersivemaps/recipes/grid/map-parchment-temporal-recipe.json`
 
 ```json
 {
@@ -324,9 +318,8 @@ S_
 CK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/immersivemaps/recipes/grid/paper-papyrus-recipe.json`
 
 ```json
 [

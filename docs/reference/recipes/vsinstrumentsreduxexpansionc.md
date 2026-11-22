@@ -30,9 +30,8 @@ CDC
 _E_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/accordion.json`
 
 ```json
 {
@@ -103,9 +102,8 @@ CDC
 EDE
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/bagpipes.json`
 
 ```json
 {
@@ -176,9 +174,8 @@ CDC
 DDD
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/balalaika.json`
 
 ```json
 {
@@ -246,9 +243,8 @@ CDC
 CEC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/banjo.json`
 
 ```json
 {
@@ -320,9 +316,8 @@ CDC
 ECC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/cattoypiano.json`
 
 ```json
 {
@@ -392,9 +387,8 @@ AB
 CD
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/clarinet.json`
 
 ```json
 {
@@ -458,9 +452,8 @@ A
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/conch.json`
 
 ```json
 {
@@ -513,9 +506,8 @@ A
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/crumhorn.json`
 
 ```json
 {
@@ -569,9 +561,8 @@ A__
 BCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/didgeridoo.json`
 
 ```json
 {
@@ -631,9 +622,8 @@ CCD
 EEE
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/dulcimer.json`
 
 ```json
 {
@@ -685,7 +675,7 @@ EEE
 
 </details>
 
-<details><summary>名称未汉化（见物品代码） · fife</summary>
+<details><summary>短笛 · fife</summary>
 
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
@@ -693,7 +683,7 @@ EEE
 | 投入 B | 变体材料（按代码匹配）<br><code>game:chisel-*</code> | 未声明；按配方类型判定 | 工具；耐久消耗：10 |
 | 投入 C | 变体材料（按代码匹配）<br><code>game:metalbit-*</code> | 1 | 未声明附加限制 |
 | 投入 D | 木棍<br><code>game:stick</code> | 1 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>vsinstrumentsredux:instrument-fife</code> | 未声明；按配方类型判定 | 未声明附加限制 |
+| 产物 | 短笛<br><code>vsinstrumentsredux:instrument-fife</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：3；网格高度：2。
 
@@ -704,9 +694,8 @@ AB_
 CDC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/fife.json`
 
 ```json
 {
@@ -773,9 +762,8 @@ _C_
 D_D
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/glockenspiel.json`
 
 ```json
 {
@@ -841,9 +829,8 @@ CDC
 CDC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/guzheng.json`
 
 ```json
 {
@@ -912,9 +899,8 @@ DDE
 FFF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/hammereddulcimer.json`
 
 ```json
 {
@@ -988,9 +974,8 @@ _B_
 _B_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/handpan.json`
 
 ```json
 {
@@ -1046,9 +1031,8 @@ CDC
 CEC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/hurdygurdy.json`
 
 ```json
 {
@@ -1121,9 +1105,8 @@ _D_
 EEE
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/kalimba.json`
 
 ```json
 {
@@ -1194,9 +1177,8 @@ CCC
 CDC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/koto.json`
 
 ```json
 {
@@ -1261,9 +1243,8 @@ A__
 BCB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/logdrum.json`
 
 ```json
 {
@@ -1323,9 +1304,8 @@ CCC
 DED
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/marimba.json`
 
 ```json
 {
@@ -1397,9 +1377,8 @@ CDC
 CCE
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/meowsynth.json`
 
 ```json
 {
@@ -1467,9 +1446,8 @@ A_
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/ocarina.json`
 
 ```json
 {
@@ -1525,9 +1503,8 @@ CDC
 CEC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/oud.json`
 
 ```json
 {
@@ -1596,9 +1573,8 @@ BBB
 BCB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/panflute.json`
 
 ```json
 {
@@ -1657,9 +1633,8 @@ CCC
 DDD
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/piano.json`
 
 ```json
 {
@@ -1724,9 +1699,8 @@ ABA
 CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/pipeorgan.json`
 
 ```json
 {
@@ -1784,9 +1758,8 @@ CDC
 CEC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/shamisen.json`
 
 ```json
 {
@@ -1858,9 +1831,8 @@ CDC
 CDC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/sitar.json`
 
 ```json
 {
@@ -1923,9 +1895,8 @@ _A_
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/standingpiano.json`
 
 ```json
 {
@@ -1977,9 +1948,8 @@ _B_
 CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/steeldrum.json`
 
 ```json
 {
@@ -2038,9 +2008,8 @@ CDC
 DDD
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/taikodrum.json`
 
 ```json
 {
@@ -2107,9 +2076,8 @@ CDC
 CEC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/theremin.json`
 
 ```json
 {
@@ -2176,9 +2144,8 @@ A
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/tinwhistle.json`
 
 ```json
 {
@@ -2230,9 +2197,8 @@ A_
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/trumpet.json`
 
 ```json
 {
@@ -2284,9 +2250,8 @@ A
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/tuba.json`
 
 ```json
 {
@@ -2342,9 +2307,8 @@ _C_
 DCD
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/tubularbells.json`
 
 ```json
 {
@@ -2409,9 +2373,8 @@ _C_
 DCD
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/vibraphone.json`
 
 ```json
 {
@@ -2475,9 +2438,8 @@ A_
 BC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/woodblock.json`
 
 ```json
 {
@@ -2536,9 +2498,8 @@ CCC
 D_D
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/xylophone.json`
 
 ```json
 {

@@ -20,9 +20,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/ashes/compatibility/ancienttools/recipes/barrel/bark_ash_sludge.json`
 
 ```json
 [
@@ -65,9 +64,8 @@
 A
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/ashes/compatibility/meteoricexpansion/recipes/grid/ash.json`
 
 ```json
 [
@@ -95,9 +93,8 @@ A
 
 <details><summary>特殊配方 · lye</summary>
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/ashes/compatibility/soapandlyecontinued/recipes/barrel/lye.json`
 
 ```json
 []
@@ -133,9 +130,8 @@ A
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/ashes/compatibility/soapandlyecontinued/recipes/barrel/soapbar_washingsoda.json`
 
 ```json
 [
@@ -202,9 +198,8 @@ A
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/ashes/recipes/barrel/causticpotash.json`
 
 ```json
 [
@@ -248,9 +243,8 @@ A
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/ashes/recipes/barrel/washingsoda.json`
 
 ```json
 [
@@ -306,9 +300,8 @@ A
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/ashes/recipes/cooking/ash_potash.json`
 
 ```json
 [

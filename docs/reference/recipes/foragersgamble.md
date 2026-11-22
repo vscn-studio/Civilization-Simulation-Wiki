@@ -24,9 +24,8 @@
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foragersgamble/recipes/grid/booktoknowledge.json`
 
 ```json
 {
@@ -68,9 +67,8 @@ B
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foragersgamble/recipes/grid/knowledgetobook.json`
 
 ```json
 {

@@ -41,9 +41,9 @@ def generate_config_semantics(root,src):
     for line in (root/'docs/reference/configs/9ed44761146e.md').read_text(encoding='utf-8').splitlines():
         m=re.match(r'\| <code>(.*?)</code> \| (.*?) \| <code>(.*?)</code> \|',line)
         if m: rows.append(m.groups())
-    out=['# 生存配置：中文含义、当前值与源码来源','','当前值来自指定服务器配置文件；不是源码默认值，也不证明运行中的服务器已加载它。修改文件后按[配置操作流程](/pack/configuration)重启并验证。','',
-      '## 阅读方法','','每项先给中文含义，再保留可搜索的原字段。展开查看声明与校验来源。危险参数、病原负荷和概率不是同一种数值，不能统一换算为百分比。','',
-      '| 中文含义 | 原字段路径 | 当前值 | 源码与校验 |','| --- | --- | --- | --- |']
+    out=['# 生存配置：中文含义、当前值与校验','','这里列出服务器配置表中的当前值。修改文件后按[配置操作流程](/pack/configuration)重启并验证。','',
+      '## 阅读方法','','每项先给中文含义，再保留可搜索的原字段。危险参数、病原负荷和概率不是同一种数值，不能统一换算为百分比。','',
+      '| 中文含义 | 原字段路径 | 当前值 | 校验说明 |','| --- | --- | --- | --- |']
     for path,typ,val in rows:
         parts=html.unescape(path).strip('/').split('/'); parent=parts[0]; name=parts[-1]
         filename,owner,group=GROUP_FILES.get(parent,('Seraph.Application/SeraphServerConfig.cs','SeraphServerConfig','基础配置'))
@@ -53,13 +53,10 @@ def generate_config_semantics(root,src):
         boundary=re.search(r'\npublic (?:sealed |static )?(?:record|class)\b',text[start+1:])
         body=text[start:start+1+boundary.start()] if boundary else text[start:]
         property_name=name if parent in GROUP_FILES else parent
-        prop=re.search(r'public\s+[^\n]+?\b'+re.escape(property_name)+r'\s*(?:\{[^\n]*|=>[^\n]*)',body)
-        location=f'{filename}:{text[:start+(prop.start() if prop else 0)].count(chr(10))+1}'
-        label=LABELS.get(property_name,'含义尚未逐项核实；请查声明与调用')
+        label=LABELS.get(property_name,'含义尚未逐项核实')
         if parent not in GROUP_FILES and name!=parent: label+=' / '+name
-        declaration=prop.group(0).strip() if prop else '未匹配到明确属性声明；不猜测同名字段。'
         validation=re.search(re.escape(property_name)+r' is < ([^\n?]+?) or > ([^\s?]+)',body)
-        limits='直接数值边界：'+validation.group(1)+'～'+validation.group(2) if validation else '范围与联合约束请查该类型的 Validate()；未自动推导。'
-        out.append(f'| {esc(label)} | <code>{path}</code> | <code>{val}</code> | <details><summary>{group}：声明与校验</summary><code>{esc(location)}</code><br><code>{esc(declaration)}</code><br>{esc(limits)}</details> |')
+        limits='直接数值边界：'+validation.group(1)+'～'+validation.group(2) if validation else '未单独列出数值范围；仍需通过完整配置的联合校验。'
+        out.append(f'| {esc(label)} | <code>{path}</code> | <code>{val}</code> | {esc(limits)} |')
     out += ['', '## 配置变更与单位','','- 格式要求为 `Format=seraph.release.config` 和 `ConfigVersion=1`。','- `ResolveUnits()` 将五项非空的游戏小时字段乘 3600，覆盖对应秒字段；空值保留原秒值。','- 模式支持 `survival`、`shadow`、`observe`；生理速度必须为有限数，范围 0.1～20。','- 运行时设置会校验权限和修订号；无效变更不会提交。启动加载失败与运行时拒绝变更应分别排查。','- 字典项要求依各字段校验而定。水污染来源支持完整代码及末尾星号模式，不能笼统要求所有映射都必须是精确物品代码。','', '[全部配置表](/admin/config-tables) · [源码默认值](/admin/survival-config-full)']
     write_generated(root/'docs/admin/seraph-config-semantics.md','\n'.join(out))

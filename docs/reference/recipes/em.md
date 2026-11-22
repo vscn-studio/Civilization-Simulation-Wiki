@@ -26,9 +26,8 @@ C
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/compatibility/ancienttools/recipes/grid/pitch_pot.json`
 
 ```json
 [
@@ -70,9 +69,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/compatibility/tailorsdelight/recipes/cooking/picricacid_down.json`
 
 ```json
 [
@@ -232,9 +230,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/compatibility/wool/recipes/barrel/mordant_wool.json`
 
 ```json
 [
@@ -414,9 +411,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/compatibility/wool/recipes/cooking/picricacid_fleece.json`
 
 ```json
 [
@@ -490,9 +486,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/alum.json`
 
 ```json
 [
@@ -574,9 +569,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/ash_sludge.json`
 
 ```json
 [
@@ -689,9 +683,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/causticpotash.json`
 
 ```json
 [
@@ -732,9 +725,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/causticsoda.json`
 
 ```json
 [
@@ -791,9 +783,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/cleaning_pots.json`
 
 ```json
 [
@@ -886,9 +877,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/cobaltsulfate.json`
 
 ```json
 [
@@ -932,9 +922,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/colored_leather.json`
 
 ```json
 [
@@ -980,9 +969,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/curing/curing_meat.json`
 
 ```json
 [
@@ -1035,9 +1023,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/curing/curing_vegetables.json`
 
 ```json
 [
@@ -1091,9 +1078,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/diluted_saltpeter.json`
 
 ```json
 [
@@ -1134,9 +1120,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dilutedalum.json`
 
 ```json
 [
@@ -1177,9 +1162,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dilutedcassiterite.json`
 
 ```json
 [
@@ -1220,9 +1204,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dilutedchromite.json`
 
 ```json
 [
@@ -1376,9 +1359,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dye/black.json`
 
 ```json
 [
@@ -1773,9 +1755,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dye/blue.json`
 
 ```json
 [
@@ -2103,9 +2084,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dye/gray.json`
 
 ```json
 [
@@ -2308,9 +2288,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dye/green.json`
 
 ```json
 [
@@ -2715,9 +2694,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dye/orange.json`
 
 ```json
 [
@@ -3027,9 +3005,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dye/pink.json`
 
 ```json
 [
@@ -3205,9 +3182,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dye/purple.json`
 
 ```json
 [
@@ -3548,9 +3524,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dye/red.json`
 
 ```json
 [
@@ -3931,9 +3906,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dye/white.json`
 
 ```json
 [
@@ -4367,9 +4341,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/dye/yellow.json`
 
 ```json
 [
@@ -4606,9 +4579,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/gypsum.json`
 
 ```json
 [
@@ -4674,9 +4646,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/hematite.json`
 
 ```json
 [
@@ -4735,9 +4706,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/kernite_to_borax.json`
 
 ```json
 [
@@ -4797,9 +4767,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/magnesia_nigra.json`
 
 ```json
 [
@@ -4844,9 +4813,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/magnesiumhydroxide.json`
 
 ```json
 [
@@ -4929,9 +4897,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/mordantcloth.json`
 
 ```json
 [
@@ -5042,9 +5009,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/rust.json`
 
 ```json
 [
@@ -5127,9 +5093,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/soaking_hides.json`
 
 ```json
 [
@@ -5346,9 +5311,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/soaking_hides_lye.json`
 
 ```json
 [
@@ -5665,9 +5629,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/soaking_hides_soda_lye.json`
 
 ```json
 [
@@ -5985,9 +5948,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/soaking_hides_sulfate.json`
 
 ```json
 [
@@ -6268,9 +6230,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/verdigris.json`
 
 ```json
 [
@@ -6406,9 +6367,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/washingsoda.json`
 
 ```json
 [
@@ -6451,9 +6411,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/barrel/yellowcake.json`
 
 ```json
 [
@@ -6497,9 +6456,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/alum.json`
 
 ```json
 [
@@ -6584,9 +6542,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/antiseptics.json`
 
 ```json
 [
@@ -6703,9 +6660,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/blue_pigments.json`
 
 ```json
 [
@@ -6971,9 +6927,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/cadmiumsulfide.json`
 
 ```json
 [
@@ -7043,9 +6998,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/cobaltsulfate.json`
 
 ```json
 [
@@ -7105,9 +7059,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/coppersulfate.json`
 
 ```json
 [
@@ -7180,9 +7133,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/green_pigments.json`
 
 ```json
 [
@@ -7274,9 +7226,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/gypsum.json`
 
 ```json
 [
@@ -7338,9 +7289,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/hydrochloricacid.json`
 
 ```json
 [
@@ -7440,9 +7390,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/ironsulfate.json`
 
 ```json
 [
@@ -7513,9 +7462,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/lead_oxide.json`
 
 ```json
 [
@@ -7586,9 +7534,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/magnesiumhydroxide.json`
 
 ```json
 [
@@ -7663,9 +7610,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/manganeseviolet.json`
 
 ```json
 [
@@ -7798,9 +7744,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/mercury.json`
 
 ```json
 [
@@ -8089,9 +8034,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/nitricacid.json`
 
 ```json
 [
@@ -8250,9 +8194,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/picricacid.json`
 
 ```json
 [
@@ -8374,9 +8317,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/pitch_glue.json`
 
 ```json
 [
@@ -8448,9 +8390,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/saltpeter.json`
 
 ```json
 [
@@ -8548,9 +8489,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/soda.json`
 
 ```json
 [
@@ -8762,9 +8702,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/titaniumdioxide.json`
 
 ```json
 [
@@ -8836,9 +8775,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/verdigris.json`
 
 ```json
 [
@@ -8913,9 +8851,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/white_lead.json`
 
 ```json
 [
@@ -9010,9 +8947,8 @@ P
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/cooking/zincsulfate.json`
 
 ```json
 [
@@ -9165,9 +9101,8 @@ PSC
 _R_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/grid/blastingpowder.json`
 
 ```json
 [
@@ -9500,9 +9435,8 @@ SPT
 CBF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/grid/bombs.json`
 
 ```json
 [
@@ -9890,9 +9824,8 @@ H
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/grid/crushing.json`
 
 ```json
 [
@@ -9995,9 +9928,8 @@ C
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/grid/metalbit.json`
 
 ```json
 [
@@ -10100,9 +10032,8 @@ CS
 CS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/grid/pigments.json`
 
 ```json
 [
@@ -10230,9 +10161,8 @@ CS
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/grid/powdered_coal.json`
 
 ```json
 [
@@ -10304,9 +10234,8 @@ QB
 P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/grid/rawrefractorybrick.json`
 
 ```json
 [
@@ -10464,9 +10393,8 @@ KSK
 CBC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/em/recipes/grid/terra_preta.json`
 
 ```json
 [

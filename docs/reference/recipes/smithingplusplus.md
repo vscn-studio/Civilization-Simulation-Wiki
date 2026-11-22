@@ -7,7 +7,6 @@
 
 ## 手册 1：锻造增强——入门指南
 
-来源：`assets/smithingplus/config/handbook/smithingplusguide.json`。
 
 锻造增强——锻造功能扩展
 
@@ -67,9 +66,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/smithingplus/compatibility/alchemy/recipes/smithing/smithingplus/1hook.json`
 
 ```json
 {
@@ -133,9 +131,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/smithingplus/compatibility/butchering/recipes/smithing/smithingplus/1hook.json`
 
 ```json
 [
@@ -196,9 +193,8 @@ C
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/smithingplus/recipes/grid/chiselworkitem.json`
 
 ```json
 [
@@ -256,9 +252,8 @@ F
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/smithingplus/recipes/grid/forlornestoc.json`
 
 ```json
 [
@@ -304,9 +299,8 @@ S
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/smithingplus/recipes/smithing/bits/1arrowhead.json`
 
 ```json
 [
@@ -361,9 +355,8 @@ S
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/smithingplus/recipes/smithing/bits/3arrowhead.json`
 
 ```json
 [
@@ -418,9 +411,8 @@ S
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/smithingplus/recipes/smithing/bits/nails.json`
 
 ```json
 [
@@ -476,9 +468,8 @@ S
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/smithingplus/recipes/smithing/forlornblade.json`
 
 ```json
 {
@@ -520,9 +511,8 @@ S
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/smithingplus/recipes/smithing/ingot.json`
 
 ```json
 [

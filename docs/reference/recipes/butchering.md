@@ -7,7 +7,6 @@
 
 ## 手册 1：屠宰：指南
 
-来源：`assets/butchering/config/handbook/01_butcheringguide.json`。
 
 屠宰指南
 
@@ -59,7 +58,6 @@
 
 ## 手册 2：屠宰：信息
 
-来源：`assets/butchering/config/handbook/02_butcheringinfo.json`。
 
 屠宰信息
 
@@ -149,9 +147,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/barrel/cleanoffal.json`
 
 ```json
 {
@@ -194,9 +191,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/barrel/curedhealingprimemeat.json`
 
 ```json
 {
@@ -237,9 +233,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/cooking/fatrender.json`
 
 ```json
 [
@@ -348,9 +343,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/cooking/glue.json`
 
 ```json
 [
@@ -576,9 +570,8 @@ H
 F
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/blackpudding.json`
 
 ```json
 [
@@ -689,9 +682,8 @@ R
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/bloodbait.json`
 
 ```json
 [
@@ -904,9 +896,8 @@ WF
 WF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/blooddough.json`
 
 ```json
 [
@@ -1099,9 +1090,8 @@ H
 M
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/bloodsausage.json`
 
 ```json
 [
@@ -1244,9 +1234,8 @@ M
 BK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/bone.json`
 
 ```json
 [
@@ -1314,9 +1303,8 @@ BK
 BK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/boneneedle.json`
 
 ```json
 [
@@ -1428,9 +1416,8 @@ H
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/bonetools.json`
 
 ```json
 [
@@ -1698,9 +1685,8 @@ C
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/butcherhook.json`
 
 ```json
 [
@@ -2123,9 +2109,8 @@ KSL
 PIP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/butchertables.json`
 
 ```json
 [
@@ -2376,9 +2361,8 @@ FTF
 KTP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/butcherybags/butcherybaghide.json`
 
 ```json
 [
@@ -2536,9 +2520,8 @@ FTF
 KTP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/butcherybags/butcherybagleather.json`
 
 ```json
 [
@@ -2621,9 +2604,8 @@ RTR
 KTS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/butcherybags/butcherybagreed.json`
 
 ```json
 [
@@ -2717,9 +2699,8 @@ FTF
 KTP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/butcherybags/butcherybagsturdyleather.json`
 
 ```json
 [
@@ -2781,9 +2762,8 @@ H
 M
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/healingprimemeat.json`
 
 ```json
 [
@@ -2846,9 +2826,8 @@ ICI
 III
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/ivory.json`
 
 ```json
 [
@@ -2897,9 +2876,8 @@ III
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/rot.json`
 
 ```json
 {
@@ -2963,9 +2941,8 @@ MMK
 MMF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/sewingkitbone.json`
 
 ```json
 [
@@ -3315,9 +3292,8 @@ BLT
 MFT
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/sinewbows.json`
 
 ```json
 [
@@ -3799,9 +3775,8 @@ SRS
 HPH
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/smokingrack.json`
 
 ```json
 [
@@ -3908,9 +3883,8 @@ PTP
 RMR
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/grid/temporalbutcherbox.json`
 
 ```json
 [
@@ -3979,9 +3953,8 @@ RMR
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/knapping/bone-arrowhead.json`
 
 ```json
 {
@@ -4024,9 +3997,8 @@ RMR
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/knapping/bone-pick.json`
 
 ```json
 {
@@ -4069,9 +4041,8 @@ RMR
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/knapping/flint-hook.json`
 
 ```json
 {
@@ -4147,9 +4118,8 @@ RMR
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/kneading/bloodmeatnuggetsausages.json`
 
 ```json
 [
@@ -4283,9 +4253,8 @@ RMR
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/kneading/cleaningoffal.json`
 
 ```json
 [
@@ -4388,9 +4357,8 @@ RMR
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/kneading/fishnuggetsausages.json`
 
 ```json
 [
@@ -4679,9 +4647,8 @@ RMR
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/kneading/meatnuggetsausages.json`
 
 ```json
 [
@@ -4918,9 +4885,8 @@ RMR
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/smithing/fourbutcheringhook.json`
 
 ```json
 {
@@ -4973,9 +4939,8 @@ RMR
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/butchering/recipes/smithing/onebutcheringhook.json`
 
 ```json
 {

@@ -1,8 +1,8 @@
 import re, pathlib
 roots={
-'文明模拟':pathlib.Path(r'E:\vintagestory\Seraph Civilization Simulation\src'),
-'文明补丁':pathlib.Path(r'E:\vintagestory\Seraph Civilization Patches\src'),
-'生存模拟':pathlib.Path(r'E:\vintagestory\Seraph Living Survival Simulation\src')}
+'文明模拟':(pathlib.Path(__file__).resolve().parent.parent.parent/'Seraph Civilization Simulation'/'src'),
+'文明补丁':(pathlib.Path(__file__).resolve().parent.parent.parent/'Seraph Civilization Patches'/'src'),
+'生存模拟':(pathlib.Path(__file__).resolve().parent.parent.parent/'Seraph Living Survival Simulation'/'src')}
 for n,root in roots.items():
  print('\n##',n)
  for p in sorted(root.rglob('*.cs')):

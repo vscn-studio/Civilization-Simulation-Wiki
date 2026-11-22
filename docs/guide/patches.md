@@ -2,7 +2,7 @@
 > 本页按补丁项目 `src/` 中的兼容检测、Harmony 目标、配置和客户端/服务端分工核验；README 只用于版本与许可交叉核对。兼容功能只有在目标模组被检测到且补丁成功应用时才生效。
 
 
-Vintage Story 整合包兼容补丁，模组 ID 为 `vsscpmod`，版本为 `1.0.1`，支持游戏 `1.22.3+`。客户端和服务端均需安装同一发布包，相关兼容功能随对应模组启用。
+Vintage Story 整合包兼容补丁，模组 ID 为 `vsscpmod`，版本为 `1.0.2`，支持游戏 `1.22.3+`。客户端和服务端均需安装同一发布包，相关兼容功能随对应模组启用。
 
 ## 功能
 
@@ -26,7 +26,7 @@ Vintage Story 整合包兼容补丁，模组 ID 为 `vsscpmod`，版本为 `1.0.
 
 玩家常用操作见上文。需要命令或权限时，查阅[管理员命令参考](/admin/commands-full)，完整原始清单也保留在下面。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 | 指令 | 权限与条件 | 用途 |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Vintage Story 整合包兼容补丁，模组 ID 为 `vsscpmod`，版本为 `1.0.
 
 配置由服务器管理员维护；玩家无需修改配置文件。详见[管理员入口](/admin/)。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 配置保存在服务端游戏数据目录的 `ModConfig` 中，启动时自动生成。
 
@@ -84,7 +84,7 @@ Vintage Story 整合包兼容补丁，模组 ID 为 `vsscpmod`，版本为 `1.0.
 
 迁移备份与日志位置供管理员排障使用。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 以下路径相对于各端游戏数据目录。
 

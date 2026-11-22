@@ -5,10 +5,10 @@
 ## 修改内容
 
 - 玩家正文先解释操作、效果和应对方式，英文代码与公式放在技术说明中。
-- 数值、API、命令和实现说明应依据对应版本的源码、资源或配置，保留可追溯来源。
+- 数值、API、命令和实现说明应依据对应版本的源码、资源或配置，在维护记录中核实版本；网页只展示玩法、参数与接口，不展示本机路径、源码索引或安装包证据。
 - 不能从名字推断功能；尚未确认的行为明确标注“未核实”。
 - `generated:start` 与 `generated:end` 内是生成内容，修改时同步更新对应脚本。标记外可写人工说明。
-- 导航维护于 `docs/.vitepress/navigation.mjs`；生成规则与本地源目录见[维护说明](docs/develop/maintenance.md)。
+- 导航维护于 `docs/.vitepress/navigation.mjs`；生成规则与本地源目录见[维护说明](MAINTENANCE.md)。
 - 提交网站使用的 `docs/public/data/` 和 `scripts/*manifest.json` 等快照。GitHub 构建依赖这些文件，不会访问维护者的本地模组目录。
 
 ## 提交前验证

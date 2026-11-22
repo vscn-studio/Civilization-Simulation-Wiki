@@ -29,9 +29,8 @@
 LCF	HHH	PWP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/comfybeds/compatibility/bdtree/recipes/grid/comfybed.json`
 
 ```json
 [
@@ -141,9 +140,8 @@ LCF	HHH	PWP
 LCF	HHH	PWP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/comfybeds/compatibility/tailorsdelight/recipes/grid/comfybed.json`
 
 ```json
 [
@@ -304,9 +302,8 @@ LCF	HHH	PWP
 LCF	HHH	PWP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/comfybeds/compatibility/tailorsdelight/recipes/grid/comfybed_tailorsdelight_bdtree.json`
 
 ```json
 [
@@ -498,9 +495,8 @@ C__	HHH	PWP
 C__	HHH	PWP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/comfybeds/compatibility/wool/recipes/grid/bed.json`
 
 ```json
 [
@@ -684,9 +680,8 @@ LCF	HHH	PWP
 LCF	HHH	PWP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/comfybeds/compatibility/wool/recipes/grid/comfybed.json`
 
 ```json
 [
@@ -955,9 +950,8 @@ LCF	HHH	PWP
 LCF	HHH	PWP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/comfybeds/compatibility/wool/recipes/grid/comfybed_wool_bdtree.json`
 
 ```json
 [
@@ -1213,9 +1207,8 @@ LCF	HHH	PWP
 LCF	HHH	PWP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/comfybeds/compatibility/wool/recipes/grid/comfybed_wool_tailorsdelight.json`
 
 ```json
 [
@@ -1376,9 +1369,8 @@ LCF	HHH	PWP
 LCF	HHH	PWP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/comfybeds/compatibility/wool/recipes/grid/comfybed_wool_tailorsdelight_bdtree.json`
 
 ```json
 [
@@ -1537,9 +1529,8 @@ C__	HHH	PWP
 LCF	HHH	PWP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/comfybeds/recipes/grid/comfybed.json`
 
 ```json
 [

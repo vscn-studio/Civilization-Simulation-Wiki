@@ -7,7 +7,6 @@
 
 ## 手册 1：农耕全指南
 
-来源：`assets/farmingoverhaul/config/handbook/FarmingRevampedGuide.json`。
 
 欢迎阅读农耕指南！
 
@@ -186,9 +185,8 @@ V
 V
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/farmingoverhaul/recipes/grid/seed.json`
 
 ```json
 [

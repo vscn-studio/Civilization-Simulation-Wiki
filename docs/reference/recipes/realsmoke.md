@@ -7,7 +7,6 @@
 
 ## 手册 1：真实烟雾
 
-来源：`assets/realsmoke/config/handbook/realsmokeguide.json`。
 
 真实的烟雾
 

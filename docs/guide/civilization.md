@@ -1,6 +1,5 @@
 # 炽天使文明模拟
-> 以下介绍依据源码与资源整理；实际规则可能受服务器配置影响。
-
+> 实际规则可能受服务器配置影响。
 
 
 Seraph Civilization Simulation（`vsscsmod`），版本 **1.0.0**。
@@ -32,13 +31,13 @@ Seraph Civilization Simulation（`vsscsmod`），版本 **1.0.0**。
 | 地图窗口 → 设置 | 调整地图文字及标记图标缩放 |
 | 文明核心 → 管理员设置 | 查看、保存、热重载、重置或刷新配置，仅管理员可见 |
 
-窗口的实际类、权限边界和服务端快照来源见[窗口与面板清单](/guide/windows)；领地、生命和聚落计算见[文明源码核验](/guide/civilization-source)。
+各窗口的功能与权限规则见[窗口与面板清单](/guide/windows)；领地、生命和聚落计算见[文明机制说明](/guide/civilization-source)。
 
 ## 指令
 
 玩家常用操作见上文。需要命令或权限时，查阅[管理员命令参考](/admin/commands-full)，完整原始清单也保留在下面。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 `/vscncs` 是 `/vsscsmod` 的兼容别名。下表中“管理员”指拥有 `controlserver` 权限，或从服务器控制台执行。
 
@@ -80,7 +79,7 @@ Seraph Civilization Simulation（`vsscsmod`），版本 **1.0.0**。
 
 世界数据与配置分别保存。具体位置和修改步骤见[管理员入口](/admin/)。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 以下路径均相对于对应客户端或服务端的游戏数据目录。配置首次运行时自动生成，可在管理员设置窗口中编辑。
 

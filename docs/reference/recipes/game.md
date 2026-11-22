@@ -7,7 +7,6 @@
 
 ## 手册 1：新手指南
 
-来源：`assets/survival/config/handbook/00-starterguide.json`。
 
 新手生存指南
 
@@ -53,7 +52,6 @@
 
 ## 手册 2：进阶指南
 
-来源：`assets/survival/config/handbook/01-progressionguide.json`。
 
 进阶指南
 
@@ -135,7 +133,6 @@
 
 ## 手册 3：制作机制：打制石器
 
-来源：`assets/survival/config/handbook/02-knapping.json`。
 
 打制石器
 
@@ -163,7 +160,6 @@
 
 ## 手册 4：制作机制：粘土塑形
 
-来源：`assets/survival/config/handbook/03-clayforming.json`。
 
 粘土塑形
 
@@ -183,7 +179,6 @@
 
 ## 手册 5：制作机制：烹饪菜肴
 
-来源：`assets/survival/config/handbook/04-mealcooking.json`。
 
 烹饪菜肴
 
@@ -205,7 +200,6 @@
 
 ## 手册 6：制作机制：烧制木炭
 
-来源：`assets/survival/config/handbook/05-charcoalburning.json`。
 
 烧制木炭
 
@@ -227,7 +221,6 @@
 
 ## 手册 7：游戏机制：耕作
 
-来源：`assets/survival/config/handbook/06-farming.json`。
 
 耕作
 
@@ -265,7 +258,6 @@
 
 ## 手册 8：游戏机制：食物保存
 
-来源：`assets/survival/config/handbook/07-foodpreservation.json`。
 
 食物保存
 
@@ -293,7 +285,6 @@
 
 ## 手册 9：游戏机制：动物养殖
 
-来源：`assets/survival/config/handbook/08-animalhusbandry.json`。
 
 畜牧业
 
@@ -333,7 +324,6 @@
 
 ## 手册 10：游戏机制：淘沙
 
-来源：`assets/survival/config/handbook/09-panning.json`。
 
 淘沙
 
@@ -361,7 +351,6 @@
 
 ## 手册 11：制作机制：冶炼金属
 
-来源：`assets/survival/config/handbook/10-smelting.json`。
 
 冶炼金属
 
@@ -391,7 +380,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 12：制作机制：锻造
 
-来源：`assets/survival/config/handbook/11-smithing.json`。
 
 锻造
 
@@ -411,7 +399,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 13：游戏机制：矿物勘探
 
-来源：`assets/survival/config/handbook/12-prospecting.json`。
 
 矿物勘探
 
@@ -479,7 +466,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 14：游戏机制：时空稳态
 
-来源：`assets/survival/config/handbook/13-temporalstability.json`。
 
 时空稳态
 
@@ -523,7 +509,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 15：制作机制：盔甲
 
-来源：`assets/survival/config/handbook/14-armor.json`。
 
 盔甲
 
@@ -589,7 +574,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 16：游戏机制：机械动力
 
-来源：`assets/survival/config/handbook/15-mechanicalpower.json`。
 
 机械动力
 
@@ -629,7 +613,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 17：游戏机制：炼钢
 
-来源：`assets/survival/config/handbook/16-steelmaking.json`。
 
 炼钢
 
@@ -661,7 +644,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 18：制作机制：焦炉
 
-来源：`assets/survival/config/handbook/17-cokeoven.json`。
 
 焦炉
 
@@ -677,7 +659,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 19：游戏机制：天气
 
-来源：`assets/survival/config/handbook/18-weather.json`。
 
 天气
 
@@ -697,7 +678,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 20：游戏机制：岩层
 
-来源：`assets/survival/config/handbook/19-stonelayers.json`。
 
 《Vintage Story》中的岩石一般分为三种类型：
 
@@ -743,7 +723,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 21：制作机制：奶酪制作
 
-来源：`assets/survival/config/handbook/20-cheese.json`。
 
 奶酪制作
 
@@ -773,7 +752,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 22：制作机制：淬火与回火
 
-来源：`assets/survival/config/handbook/21-quenching.json`。
 
 铁类金属（铁、陨铁和钢）制成的工具头和武器头，在正确淬火和／或回火后可以获得额外属性。有色金属不会通过这些工艺获得加成或惩罚
 
@@ -799,7 +777,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 23：游戏机制：果树
 
-来源：`assets/survival/config/handbook/22-fruittrees.json`。
 
 如何寻找
 
@@ -817,7 +794,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 24：制作机制：酿造与蒸馏酒精
 
-来源：`assets/survival/config/handbook/23-alcohol.json`。
 
 发酵
 
@@ -839,7 +815,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 25：制作机制：染料制作
 
-来源：`assets/survival/config/handbook/24-dyemaking.json`。
 
 媒染剂
 
@@ -873,7 +848,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 26：游戏机制：地面存放
 
-来源：`assets/survival/config/handbook/25-groundstorage.json`。
 
 地面存放
 
@@ -891,7 +865,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 27：制作机制：皮革制作
 
-来源：`assets/survival/config/handbook/26-leathermaking.json`。
 
 皮革制造是一个多步骤过程，至少需要 [handbook://block-barrel] 桶，但如果有更多，这个进程
 
@@ -907,7 +880,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 28：游戏机制：温室
 
-来源：`assets/survival/config/handbook/27-greenhouses.json`。
 
 温室
 
@@ -917,7 +889,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 29：游戏机制：蜂窝窑
 
-来源：`assets/survival/config/handbook/28-beehivekiln.json`。
 
 蜂窝窑
 
@@ -939,7 +910,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 30：游戏机制：建造帆船
 
-来源：`assets/survival/config/handbook/29-shipbuilding.json`。
 
 帆船建造
 
@@ -965,7 +935,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 31：游戏机制：驯服坐骑
 
-来源：`assets/survival/config/handbook/30-mountableanimals.json`。
 
 已驯服的可骑乘动物
 
@@ -1007,7 +976,6 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 ## 手册 32：游戏机制：钓鱼
 
-来源：`assets/survival/config/handbook/31-fishing.json`。
 
 你需要的装备
 
@@ -1050,9 +1018,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/alloy/bismuthbronze.json`
 
 ```json
 {
@@ -1098,9 +1065,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/alloy/blackbronze.json`
 
 ```json
 {
@@ -1145,9 +1111,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/alloy/brass.json`
 
 ```json
 {
@@ -1186,9 +1151,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/alloy/cupronickel.json`
 
 ```json
 {
@@ -1227,9 +1191,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/alloy/electrum.json`
 
 ```json
 {
@@ -1268,9 +1231,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/alloy/leadsolder.json`
 
 ```json
 {
@@ -1309,9 +1271,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/alloy/molybdochalkos.json`
 
 ```json
 {
@@ -1350,9 +1311,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/alloy/silversolder.json`
 
 ```json
 {
@@ -1391,9 +1351,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/alloy/tinbronze.json`
 
 ```json
 {
@@ -1432,9 +1391,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/brine.json`
 
 ```json
 {
@@ -1475,9 +1433,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/cheesemaking/cottagecheese.json`
 
 ```json
 {
@@ -1518,9 +1475,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/cheesemaking/curdledmilk-alt.json`
 
 ```json
 {
@@ -1572,9 +1528,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/cheesemaking/curdledmilk.json`
 
 ```json
 {
@@ -1698,9 +1653,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/cider.json`
 
 ```json
 [
@@ -1860,9 +1814,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/compost.json`
 
 ```json
 {
@@ -1899,9 +1852,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/curedmeat.json`
 
 ```json
 {
@@ -2012,9 +1964,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/daub-dyed.json`
 
 ```json
 [
@@ -2205,9 +2156,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dilutedalum.json`
 
 ```json
 {
@@ -2246,9 +2196,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dilutedborax.json`
 
 ```json
 {
@@ -2287,9 +2236,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dilutedcassiterite.json`
 
 ```json
 {
@@ -2328,9 +2276,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dilutedchromite.json`
 
 ```json
 {
@@ -2385,9 +2332,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/black.json`
 
 ```json
 [
@@ -2466,9 +2412,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/blue.json`
 
 ```json
 [
@@ -2583,9 +2528,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/dyedcloth.json`
 
 ```json
 [
@@ -2745,9 +2689,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/dyedleather.json`
 
 ```json
 [
@@ -2841,9 +2784,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/gray.json`
 
 ```json
 [
@@ -2922,9 +2864,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/green.json`
 
 ```json
 [
@@ -3015,9 +2956,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/mordantcloth.json`
 
 ```json
 [
@@ -3106,9 +3046,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/orange.json`
 
 ```json
 [
@@ -3152,9 +3091,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/pink.json`
 
 ```json
 [
@@ -3212,9 +3150,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/purple.json`
 
 ```json
 [
@@ -3279,9 +3216,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/red.json`
 
 ```json
 [
@@ -3325,9 +3261,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/white.json`
 
 ```json
 [
@@ -3371,9 +3306,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/woad.json`
 
 ```json
 [
@@ -3431,9 +3365,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/dye/yellow.json`
 
 ```json
 [
@@ -3536,9 +3469,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/leather.json`
 
 ```json
 [
@@ -3647,9 +3579,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/limewater.json`
 
 ```json
 {
@@ -3688,9 +3619,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/mortar.json`
 
 ```json
 {
@@ -3747,9 +3677,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/pickledlegume.json`
 
 ```json
 {
@@ -3796,9 +3725,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/pickledvegetable.json`
 
 ```json
 {
@@ -3891,9 +3819,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/preparedhide.json`
 
 ```json
 [
@@ -4030,9 +3957,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/pulp.json`
 
 ```json
 [
@@ -4124,9 +4050,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/slakedlime.json`
 
 ```json
 {
@@ -4167,9 +4092,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/soakedcassava.json`
 
 ```json
 {
@@ -4299,9 +4223,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/soakedhide-borax.json`
 
 ```json
 [
@@ -4618,9 +4541,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/soakedhide-lime.json`
 
 ```json
 [
@@ -4865,9 +4787,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/strongtannin.json`
 
 ```json
 [
@@ -4946,9 +4867,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/taxidermy-fish.json`
 
 ```json
 [
@@ -5014,9 +4934,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/waterfromslush.json`
 
 ```json
 {
@@ -5066,9 +4985,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/barrel/weaktannin.json`
 
 ```json
 [
@@ -5131,9 +5049,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/anvilmold.json`
 
 ```json
 {
@@ -5368,9 +5285,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/axemold.json`
 
 ```json
 {
@@ -5438,9 +5354,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/blade-falxmold.json`
 
 ```json
 {
@@ -5508,9 +5423,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/bowl.json`
 
 ```json
 {
@@ -5562,9 +5476,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/bullets.json`
 
 ```json
 {
@@ -5646,9 +5559,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/clayoven.json`
 
 ```json
 {
@@ -5970,9 +5882,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/clayplanter.json`
 
 ```json
 {
@@ -6134,9 +6045,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/claypot.json`
 
 ```json
 {
@@ -6226,9 +6136,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/crock.json`
 
 ```json
 {
@@ -6313,9 +6222,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/crucible.json`
 
 ```json
 {
@@ -6407,9 +6315,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/flowerpot.json`
 
 ```json
 {
@@ -6501,9 +6408,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/fourbowls.json`
 
 ```json
 {
@@ -6570,9 +6476,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/fourclaypots.json`
 
 ```json
 {
@@ -6711,9 +6616,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/fourcrock.json`
 
 ```json
 {
@@ -6855,9 +6759,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/fourcrucible.json`
 
 ```json
 {
@@ -6984,9 +6887,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/fourflowerpot.json`
 
 ```json
 {
@@ -7135,9 +7037,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/hammermold.json`
 
 ```json
 {
@@ -7205,9 +7106,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/helvehammer.json`
 
 ```json
 {
@@ -7279,9 +7179,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/hoemold.json`
 
 ```json
 {
@@ -7349,9 +7248,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/ingotmold.json`
 
 ```json
 {
@@ -7411,9 +7309,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/jug.json`
 
 ```json
 {
@@ -7529,9 +7426,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/lamellaemold.json`
 
 ```json
 {
@@ -7597,9 +7493,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/oillamp-genie.json`
 
 ```json
 {
@@ -7662,9 +7557,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/pickaxemold.json`
 
 ```json
 {
@@ -7732,9 +7626,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/propickmold.json`
 
 ```json
 {
@@ -7802,9 +7695,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/shingles.json`
 
 ```json
 {
@@ -7858,9 +7750,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/shovelmold.json`
 
 ```json
 {
@@ -7928,9 +7819,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/storagevessel.json`
 
 ```json
 {
@@ -8190,9 +8080,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/tiles.json`
 
 ```json
 {
@@ -8244,9 +8133,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/twoingotmold.json`
 
 ```json
 {
@@ -8331,9 +8219,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/clayforming/wateringcan.json`
 
 ```json
 {
@@ -8536,9 +8423,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/acid.json`
 
 ```json
 {
@@ -8617,9 +8503,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/candle.json`
 
 ```json
 {
@@ -8729,9 +8614,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/fishingbait.json`
 
 ```json
 [
@@ -9097,9 +8981,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/glue.json`
 
 ```json
 [
@@ -9218,9 +9101,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/hide-chromium.json`
 
 ```json
 [
@@ -9342,9 +9224,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/jam.json`
 
 ```json
 {
@@ -9425,9 +9306,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/leather.json`
 
 ```json
 [
@@ -9552,9 +9432,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/meatystew.json`
 
 ```json
 {
@@ -10036,9 +9915,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/oil.json`
 
 ```json
 [
@@ -10273,9 +10151,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/porridge.json`
 
 ```json
 {
@@ -10518,9 +10395,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/potash.json`
 
 ```json
 [
@@ -10645,9 +10521,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/scrambledeggs.json`
 
 ```json
 {
@@ -10932,9 +10807,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/soup.json`
 
 ```json
 {
@@ -11284,9 +11158,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/sulfate.json`
 
 ```json
 [
@@ -11408,9 +11281,8 @@ rightmouse即可将熔融金属浇铸到模具中。大部分模具只需倒入1
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/cooking/vegetablestew.json`
 
 ```json
 {
@@ -11791,9 +11663,8 @@ CXR
 _FR
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/anchor.json`
 
 ```json
 {
@@ -11900,9 +11771,8 @@ P_P
 PLP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/antlermount.json`
 
 ```json
 [
@@ -12247,9 +12117,8 @@ PHP
 _G_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armor/antique.json`
 
 ```json
 [
@@ -12603,9 +12472,8 @@ PJP
 P_P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armor/brigandine.json`
 
 ```json
 [
@@ -12790,9 +12658,8 @@ TCT
 TJT
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armor/chain.json`
 
 ```json
 [
@@ -12992,9 +12859,8 @@ L_L
 T_T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armor/gambeson.json`
 
 ```json
 [
@@ -13168,9 +13034,8 @@ _R_
 BHB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armor/hide.json`
 
 ```json
 [
@@ -13346,9 +13211,8 @@ FXF
 FXF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armor/improvisedwoodarmor.json`
 
 ```json
 [
@@ -13436,9 +13300,8 @@ Q_Q
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armor/jerkin.json`
 
 ```json
 [
@@ -13740,9 +13603,8 @@ KKK
 K_K
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armor/lamellar.json`
 
 ```json
 [
@@ -14292,9 +14154,8 @@ LTL
 K_K
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armor/leather.json`
 
 ```json
 [
@@ -14439,9 +14300,8 @@ PPP
 PCP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armor/plate.json`
 
 ```json
 [
@@ -14667,9 +14527,8 @@ SCS
 S_S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armor/scale.json`
 
 ```json
 [
@@ -14886,9 +14745,8 @@ L_L
 T_T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armor/tailoredgambeson.json`
 
 ```json
 [
@@ -15264,9 +15122,8 @@ C
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorrepair/antique.json`
 
 ```json
 [
@@ -15648,9 +15505,8 @@ L
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorrepair/brigandine.json`
 
 ```json
 [
@@ -15868,9 +15724,8 @@ L
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorrepair/chain.json`
 
 ```json
 [
@@ -16086,9 +15941,8 @@ G
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorrepair/gambeson.json`
 
 ```json
 [
@@ -16275,9 +16129,8 @@ P
 F
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorrepair/hide.json`
 
 ```json
 [
@@ -16458,9 +16311,8 @@ F
 
 <details><summary>特殊配方 · improvisedwoodarmor</summary>
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorrepair/improvisedwoodarmor.json`
 
 ```json
 []
@@ -16506,9 +16358,8 @@ J
 Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorrepair/jerkin.json`
 
 ```json
 [
@@ -16671,9 +16522,8 @@ B
 K
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorrepair/lamellar.json`
 
 ```json
 [
@@ -16929,9 +16779,8 @@ A
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorrepair/leather.json`
 
 ```json
 [
@@ -17076,9 +16925,8 @@ C_
 P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorrepair/plate.json`
 
 ```json
 [
@@ -17355,9 +17203,8 @@ C_
 S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorrepair/scale.json`
 
 ```json
 [
@@ -17607,9 +17454,8 @@ B
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorrepair/tailoredgambeson.json`
 
 ```json
 [
@@ -17761,9 +17607,8 @@ BHB
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/armorstand.json`
 
 ```json
 {
@@ -17824,9 +17669,8 @@ L_	LL	L_
 L_	LL	LL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/backpack.json`
 
 ```json
 [
@@ -17903,9 +17747,8 @@ KB
 KB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/bambooshoot.json`
 
 ```json
 [
@@ -18062,9 +17905,8 @@ X
 X
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/bandage.json`
 
 ```json
 [
@@ -18254,9 +18096,8 @@ _P_
 SPS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/barrel.json`
 
 ```json
 {
@@ -18316,9 +18157,8 @@ KB
 KB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/basket-deconstruct.json`
 
 ```json
 [
@@ -18411,9 +18251,8 @@ L_L	LLL
 P_P	PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/basket.json`
 
 ```json
 [
@@ -18492,9 +18331,8 @@ BS
 BS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/baskettrap.json`
 
 ```json
 [
@@ -18600,9 +18438,8 @@ HHH
 HK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/bed.json`
 
 ```json
 [
@@ -18714,9 +18551,8 @@ _L_	LBL	CLC
 _P_	PBP	CPC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/beenade.json`
 
 ```json
 [
@@ -18871,9 +18707,8 @@ LLL
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/bellows.json`
 
 ```json
 [
@@ -19054,9 +18889,8 @@ PPP
 SXC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/blastingpowder.json`
 
 ```json
 {
@@ -19108,9 +18942,8 @@ SXC
 BBB	BBB	B_B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/bloomerybase.json`
 
 ```json
 {
@@ -19151,9 +18984,8 @@ BBB	BBB	B_B
 _B_	BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/bloomerychimney.json`
 
 ```json
 {
@@ -19193,9 +19025,8 @@ _B_	BBB
 WWW	W_W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/boat-seat.json`
 
 ```json
 [
@@ -19325,9 +19156,8 @@ SPT
 CBF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/bomb.json`
 
 ```json
 [
@@ -19766,9 +19596,8 @@ L	P	M
 L	P	M
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/books.json`
 
 ```json
 [
@@ -20200,9 +20029,8 @@ _P_
 P_P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/bookshelf.json`
 
 ```json
 [
@@ -20313,9 +20141,8 @@ _S_
 S__
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/butterflynet.json`
 
 ```json
 [
@@ -20473,9 +20300,8 @@ PGP
 PGP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/cabinet.json`
 
 ```json
 [
@@ -20885,9 +20711,8 @@ K
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/cassava.json`
 
 ```json
 {
@@ -20935,9 +20760,8 @@ P
 WLW	W_W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/chair.json`
 
 ```json
 [
@@ -21001,9 +20825,8 @@ S
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/chest-labeled.json`
 
 ```json
 {
@@ -21056,9 +20879,8 @@ WNW
 WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/chest.json`
 
 ```json
 {
@@ -21119,9 +20941,8 @@ WWW
 _B_	CBC	BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/chimney.json`
 
 ```json
 {
@@ -21171,9 +20992,8 @@ C
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/chiseledblockcombine.json`
 
 ```json
 {
@@ -21219,9 +21039,8 @@ PBP
 PRP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/churn.json`
 
 ```json
 {
@@ -21378,9 +21197,8 @@ S_
 PH
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/chute.json`
 
 ```json
 [
@@ -21558,9 +21376,8 @@ CCC	CDC	CCC
 CCC	CDC	CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clay.json`
 
 ```json
 [
@@ -22172,9 +21989,8 @@ B
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/claybrickblock.json`
 
 ```json
 [
@@ -22959,9 +22775,8 @@ B
 TC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/claycovering.json`
 
 ```json
 {
@@ -23066,9 +22881,8 @@ SS
 SS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clayshinglesblock.json`
 
 ```json
 {
@@ -23110,9 +22924,8 @@ SS
 LS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/cloth.json`
 
 ```json
 {
@@ -23314,9 +23127,8 @@ S
 LTL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clothes/arm.json`
 
 ```json
 [
@@ -23777,9 +23589,8 @@ RBR
 _S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clothes/blanket.json`
 
 ```json
 [
@@ -24296,9 +24107,8 @@ VV
 LL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clothes/face.json`
 
 ```json
 [
@@ -24992,9 +24802,8 @@ PHP
 CSC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clothes/foot.json`
 
 ```json
 [
@@ -25983,9 +25792,8 @@ _T_
 RSR
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clothes/hand.json`
 
 ```json
 [
@@ -26935,9 +26743,8 @@ _B_
 BSB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clothes/head.json`
 
 ```json
 [
@@ -28096,9 +27903,8 @@ C_C
 CSC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clothes/lowerbody.json`
 
 ```json
 [
@@ -29613,9 +29419,8 @@ R
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clothes/neck.json`
 
 ```json
 [
@@ -30523,9 +30328,8 @@ SB_
 _R_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clothes/shoulder.json`
 
 ```json
 [
@@ -31760,9 +31564,8 @@ HKH
 KH
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clothes/upperbody.json`
 
 ```json
 [
@@ -33342,9 +33145,8 @@ HK
 H_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clothes/upperbodyover.json`
 
 ```json
 [
@@ -34475,9 +34277,8 @@ SRR
 _G_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/clothes/waist.json`
 
 ```json
 [
@@ -34573,9 +34374,8 @@ _G_
 GDG	DGD	GDG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/cob.json`
 
 ```json
 {
@@ -34987,9 +34787,8 @@ SLG	LLL	LLL
 LLL	LCL	LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/cobblestone.json`
 
 ```json
 [
@@ -35725,9 +35524,8 @@ LLL	LCL	LLL
 ST	IT
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/condenser.json`
 
 ```json
 {
@@ -35785,9 +35583,8 @@ _PS
 PP_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/crank.json`
 
 ```json
 {
@@ -35836,9 +35633,8 @@ S
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/crate-labeled.json`
 
 ```json
 {
@@ -35903,9 +35699,8 @@ C
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/crate-opened.json`
 
 ```json
 [
@@ -35979,9 +35774,8 @@ WSW
 WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/crate.json`
 
 ```json
 {
@@ -36140,9 +35934,8 @@ HC
 HC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/crystalsmash/amethyst.json`
 
 ```json
 [
@@ -36428,9 +36221,8 @@ HC
 HC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/crystalsmash/milkyquartz.json`
 
 ```json
 [
@@ -36716,9 +36508,8 @@ HC
 HC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/crystalsmash/olivine.json`
 
 ```json
 [
@@ -37004,9 +36795,8 @@ HC
 HC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/crystalsmash/rosequartz.json`
 
 ```json
 [
@@ -37292,9 +37082,8 @@ HC
 HC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/crystalsmash/smokyquartz.json`
 
 ```json
 [
@@ -37760,9 +37549,8 @@ DG
 WC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/daub-raw.json`
 
 ```json
 [
@@ -38350,9 +38138,8 @@ WC
 AHL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/debarkedlog.json`
 
 ```json
 [
@@ -38500,9 +38287,8 @@ TEX	DMD	_E_
 TFX	GMH	_J_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/diamondtile.json`
 
 ```json
 [
@@ -38816,9 +38602,8 @@ G
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/displaycase.json`
 
 ```json
 [
@@ -38918,9 +38703,8 @@ RR	TT	RR
 WR	WW	WW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/door-metal.json`
 
 ```json
 [
@@ -39190,9 +38974,8 @@ BN
 BR
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/doors.json`
 
 ```json
 [
@@ -39611,9 +39394,8 @@ WF
 WF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/dough.json`
 
 ```json
 [
@@ -39756,9 +39538,8 @@ WF
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/drygrass.json`
 
 ```json
 {
@@ -39799,9 +39580,8 @@ H
 ___	GSG	GSG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/drypackeddirt.json`
 
 ```json
 {
@@ -39880,9 +39660,8 @@ DEF
 GHI
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/drystone.json`
 
 ```json
 [
@@ -40071,9 +39850,8 @@ LLL
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/drystonefence.json`
 
 ```json
 [
@@ -40269,9 +40047,8 @@ HLS
 CLA
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/figurehead.json`
 
 ```json
 [
@@ -40564,9 +40341,8 @@ GS
 S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/firestarter.json`
 
 ```json
 {
@@ -40701,9 +40477,8 @@ A	L
 A	L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/firewood.json`
 
 ```json
 [
@@ -40983,9 +40758,8 @@ P
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/fishinggear.json`
 
 ```json
 [
@@ -41141,9 +40915,8 @@ B
 C_C	C_C	CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/forge.json`
 
 ```json
 {
@@ -41190,9 +40963,8 @@ CPR
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/fruitpress.json`
 
 ```json
 [
@@ -41277,9 +41049,8 @@ PPP
 WLW	_G_	W_W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/glasspane.json`
 
 ```json
 {
@@ -41347,9 +41118,8 @@ WLW	_G_	W_W
 SSSCPCGLG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/glider.json`
 
 ```json
 {
@@ -41433,9 +41203,8 @@ PAP
 PNP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/grindstone.json`
 
 ```json
 [
@@ -41566,9 +41335,8 @@ GG
 GG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/haybale.json`
 
 ```json
 {
@@ -41612,9 +41380,8 @@ B
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/helvehammer.json`
 
 ```json
 {
@@ -41668,9 +41435,8 @@ B
 PHP	PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/henbox.json`
 
 ```json
 {
@@ -41972,9 +41738,8 @@ F
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/hide-oiled.json`
 
 ```json
 [
@@ -42431,9 +42196,8 @@ K
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/hide-pelt-divide.json`
 
 ```json
 [
@@ -42545,9 +42309,8 @@ F
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/hide-salted.json`
 
 ```json
 [
@@ -42763,9 +42526,8 @@ K
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/hide-scraped.json`
 
 ```json
 [
@@ -42985,9 +42747,8 @@ I_I
 _I_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/hopper.json`
 
 ```json
 {
@@ -43100,9 +42861,8 @@ DDD
 DDD
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/hunterbackpack.json`
 
 ```json
 [
@@ -43386,9 +43146,8 @@ C	A
 C	A
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/ingot.json`
 
 ```json
 [
@@ -43630,9 +43389,8 @@ C	A
 WF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/inkandquill.json`
 
 ```json
 [
@@ -43689,9 +43447,8 @@ WF
 A	L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/instrument.json`
 
 ```json
 [
@@ -43829,9 +43586,8 @@ WX
 YZ
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/jonas/nightvisiondevice.json`
 
 ```json
 [
@@ -44027,9 +43783,8 @@ IGE
 CHD
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/jonas/resonator.json`
 
 ```json
 {
@@ -44171,9 +43926,8 @@ ST
 UV
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/jonas/returnbaserecipes.json`
 
 ```json
 [
@@ -44401,9 +44155,8 @@ ST
 UV
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/jonas/returndeath.json`
 
 ```json
 [
@@ -44578,9 +44331,8 @@ IGE
 CHD
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/jonas/riftward.json`
 
 ```json
 {
@@ -44690,9 +44442,8 @@ P_P	PSP	P_P
 _S_	RSR	_S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/ladder.json`
 
 ```json
 [
@@ -44924,9 +44675,8 @@ _P_
 _L_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/lantern.json`
 
 ```json
 [
@@ -45389,9 +45139,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/leather.json`
 
 ```json
 [
@@ -45466,9 +45215,8 @@ R	R	R
 C	R
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/lightningrod.json`
 
 ```json
 [
@@ -45630,9 +45378,8 @@ KL
 KL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/linen.json`
 
 ```json
 [
@@ -45818,9 +45565,8 @@ KL
 T	L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/linensack.json`
 
 ```json
 {
@@ -45866,9 +45612,8 @@ W
 N
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/linkage.json`
 
 ```json
 {
@@ -46012,9 +45757,8 @@ AG	GG
 __G	_AG	GGG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/log-quad.json`
 
 ```json
 [
@@ -46394,9 +46138,8 @@ T
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/mannequin.json`
 
 ```json
 [
@@ -46736,9 +46479,8 @@ CL_
 _L_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/mechpowerblocks-pulverizer.json`
 
 ```json
 [
@@ -47315,9 +47057,8 @@ _H_
 BAB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/mechpowerblocks.json`
 
 ```json
 [
@@ -48628,9 +48369,8 @@ C	I
 C	I
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/metalbit-jewelryscrap.json`
 
 ```json
 [
@@ -49308,9 +49048,8 @@ C	I
 C	I
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/metalbit.json`
 
 ```json
 [
@@ -49512,9 +49251,8 @@ GGG
 GGG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/metalblock.json`
 
 ```json
 {
@@ -49581,9 +49319,8 @@ N
 C	R
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/metalplaque.json`
 
 ```json
 [
@@ -49728,9 +49465,8 @@ PLP
 SSS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/miningbag.json`
 
 ```json
 [
@@ -49853,9 +49589,8 @@ SSS
 S_S	S_S	PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/moldrack.json`
 
 ```json
 {
@@ -49920,9 +49655,8 @@ G_G	CSC	GLG
 G_G	CLC	G_G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/mudbricks.json`
 
 ```json
 [
@@ -50245,9 +49979,8 @@ H	S
 H	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/nuggets.json`
 
 ```json
 [
@@ -50748,9 +50481,8 @@ BF
 BF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/oillamp.json`
 
 ```json
 [
@@ -50888,9 +50620,8 @@ BF
 GGG	GGG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/packeddirt.json`
 
 ```json
 {
@@ -50952,9 +50683,8 @@ LK
 LK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/pan.json`
 
 ```json
 [
@@ -51056,9 +50786,8 @@ P
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/parchment.json`
 
 ```json
 [
@@ -51160,9 +50889,8 @@ DBM	BFB	MBD
 DBM	BFB	MBD
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/pemmican.json`
 
 ```json
 [
@@ -51259,9 +50987,8 @@ K
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/pieslice.json`
 
 ```json
 [
@@ -51321,9 +51048,8 @@ K
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/pineappleslice.json`
 
 ```json
 {
@@ -51463,9 +51189,8 @@ SL
 SL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/plank.json`
 
 ```json
 [
@@ -51679,9 +51404,8 @@ PP
 PP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/planks.json`
 
 ```json
 [
@@ -51731,9 +51455,8 @@ PP
 W__	_P_	__W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/plaster/diagonal.json`
 
 ```json
 {
@@ -51777,9 +51500,8 @@ W__	_P_	__W
 L	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/plaster/plain.json`
 
 ```json
 {
@@ -51823,9 +51545,8 @@ L	S
 _W_	WPW	_W_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/plaster/square.json`
 
 ```json
 {
@@ -51869,9 +51590,8 @@ _W_	WPW	_W_
 W	P	W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/plaster/stripes.json`
 
 ```json
 {
@@ -51918,9 +51638,8 @@ _TS
 R__
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/plumbandsquare.json`
 
 ```json
 {
@@ -51969,9 +51688,8 @@ C
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/polishedrock.json`
 
 ```json
 {
@@ -52133,9 +51851,8 @@ H	P
 SBS	_P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/poultice.json`
 
 ```json
 [
@@ -52328,9 +52045,8 @@ SBS	_P_
 T	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/prospectingpick.json`
 
 ```json
 {
@@ -52378,9 +52094,8 @@ T	S
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/pumpkinseed.json`
 
 ```json
 {
@@ -52421,9 +52136,8 @@ K
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/pumpkinslice.json`
 
 ```json
 {
@@ -52472,9 +52186,8 @@ P
 _S_	SQS	_S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/quartzglass.json`
 
 ```json
 {
@@ -52521,9 +52234,8 @@ RRR
 H_C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/quern.json`
 
 ```json
 {
@@ -52665,9 +52377,8 @@ LRL
 LRL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/raft.json`
 
 ```json
 [
@@ -52877,9 +52588,8 @@ G
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/rammedearth.json`
 
 ```json
 [
@@ -53008,9 +52718,8 @@ G
 R_R	RRR	R_R
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/ratlines.json`
 
 ```json
 {
@@ -53051,9 +52760,8 @@ R_R	RRR	R_R
 DD	DD
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/rawbrick.json`
 
 ```json
 {
@@ -53140,9 +52848,8 @@ QB
 PI
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/rawrefractorybrick.json`
 
 ```json
 [
@@ -53256,9 +52963,8 @@ PI
 BBB	BCB		BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/refractorybrickblock.json`
 
 ```json
 {
@@ -53326,9 +53032,8 @@ BCB
 B_B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/refractorygratingblock.json`
 
 ```json
 [
@@ -53395,9 +53100,8 @@ B_B
 FFF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/roller.json`
 
 ```json
 {
@@ -55087,9 +54791,8 @@ __H
 ___
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/roofing.json`
 
 ```json
 [
@@ -56991,9 +56694,8 @@ LLL
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/rope.json`
 
 ```json
 [
@@ -57106,9 +56808,8 @@ AS_	PSP
 AS_	PSP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/roughhewnfence.json`
 
 ```json
 [
@@ -57222,9 +56923,8 @@ APS	PSP	SPS
 APS	PSP	SPS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/roughhewngate.json`
 
 ```json
 [
@@ -57343,9 +57043,8 @@ PP_
 PP_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/rushmat.json`
 
 ```json
 [
@@ -57418,9 +57117,8 @@ PP_
 SP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/schematiccopy.json`
 
 ```json
 {
@@ -57470,9 +57168,8 @@ SP
 ABC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/scrapweaponkit.json`
 
 ```json
 {
@@ -57523,9 +57220,8 @@ NW_
 W_W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/scrollrack.json`
 
 ```json
 {
@@ -57588,9 +57284,8 @@ W_W
 FFS	FF_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/sewingkit.json`
 
 ```json
 {
@@ -57636,9 +57331,8 @@ __
 PP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/shelf.json`
 
 ```json
 {
@@ -57678,9 +57372,8 @@ PP
 FPF	PFP	FPF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/sieve.json`
 
 ```json
 [
@@ -57729,9 +57422,8 @@ FPF	PFP	FPF
 P	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/sign.json`
 
 ```json
 {
@@ -57778,9 +57470,8 @@ S
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/signpost.json`
 
 ```json
 {
@@ -57842,9 +57533,8 @@ LLL	LLL	LCL
 LLL	LLL	LCL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/skep.json`
 
 ```json
 [
@@ -57946,9 +57636,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabmode/claybrick.json`
 
 ```json
 [
@@ -58028,9 +57717,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabmode/cobble.json`
 
 ```json
 {
@@ -58071,9 +57759,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabmode/glass.json`
 
 ```json
 {
@@ -58114,9 +57801,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabmode/mudbrick.json`
 
 ```json
 {
@@ -58158,9 +57844,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabmode/planks.json`
 
 ```json
 {
@@ -58201,9 +57886,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabmode/polishedrock.json`
 
 ```json
 {
@@ -58244,9 +57928,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabmode/quartz.json`
 
 ```json
 {
@@ -58286,9 +57969,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabmode/shingle.json`
 
 ```json
 {
@@ -58329,9 +58011,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabmode/stonebrick.json`
 
 ```json
 {
@@ -58390,9 +58071,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabmode/tileslab.json`
 
 ```json
 [
@@ -58511,9 +58191,8 @@ BCB		BBB
 CBM
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabs/claybrickslab.json`
 
 ```json
 [
@@ -58619,9 +58298,8 @@ CBM
 SS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabs/clayshingleslab.json`
 
 ```json
 {
@@ -58663,9 +58341,8 @@ SS
 _C_	LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabs/cobbleslabs.json`
 
 ```json
 {
@@ -58731,9 +58408,8 @@ _C_	LLL
 GS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabs/glassslabs.json`
 
 ```json
 {
@@ -58818,9 +58494,8 @@ CSC
 GLG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabs/mudbrickslab.json`
 
 ```json
 [
@@ -58918,9 +58593,8 @@ GLG
 PP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabs/plankslabs.json`
 
 ```json
 {
@@ -58963,9 +58637,8 @@ C
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabs/polishedrockslab.json`
 
 ```json
 {
@@ -59042,9 +58715,8 @@ S
 LCL	LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabs/stonebrickslab.json`
 
 ```json
 {
@@ -59108,9 +58780,8 @@ LCL	LLL
 LSL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabs/stonepathslab.json`
 
 ```json
 {
@@ -59194,9 +58865,8 @@ BCB
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/slabs/tileslab.json`
 
 ```json
 [
@@ -59327,9 +58997,8 @@ SB
 NB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/snowballvariants.json`
 
 ```json
 [
@@ -59418,9 +59087,8 @@ CBC	BSB	CBC
 CBC	KSK	CBC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/soil-compost.json`
 
 ```json
 [
@@ -59524,9 +59192,8 @@ CI
 CI
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/solderbar.json`
 
 ```json
 [
@@ -59602,9 +59269,8 @@ CI
 SS	SS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stackedbamboo.json`
 
 ```json
 {
@@ -59679,9 +59345,8 @@ BB_	BCB		BBB
 CBM
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stairs/claybrickstairs.json`
 
 ```json
 [
@@ -59788,9 +59453,8 @@ S_
 SS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stairs/clayshinglestairs.json`
 
 ```json
 {
@@ -59833,9 +59497,8 @@ SS
 _LL	LCL	LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stairs/cobblestairs.json`
 
 ```json
 {
@@ -59902,9 +59565,8 @@ P_
 PP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stairs/plankstairs.json`
 
 ```json
 {
@@ -59946,9 +59608,8 @@ PP
 _LL	LCL	LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stairs/stonebrickstairs.json`
 
 ```json
 {
@@ -60014,9 +59675,8 @@ LM
 S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stairs/stonepathstairs.json`
 
 ```json
 {
@@ -60085,9 +59745,8 @@ KB
 KB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stationarybasket-deconstruct.json`
 
 ```json
 [
@@ -60186,9 +59845,8 @@ LLL	L_L	LLL
 LLL	L_L	LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stationarybasket.json`
 
 ```json
 [
@@ -60254,9 +59912,8 @@ LLL	L_L	LLL
 GGG	GGG	GGG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stickslayer.json`
 
 ```json
 {
@@ -60317,9 +59974,8 @@ C
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stonebrick.json`
 
 ```json
 [
@@ -60424,9 +60080,8 @@ S
 LLL	LCL	LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stonebricks.json`
 
 ```json
 {
@@ -60491,9 +60146,8 @@ SCS
 _S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stonecoffin.json`
 
 ```json
 {
@@ -60556,9 +60210,8 @@ _C_
 _SF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stonecoffinlid.json`
 
 ```json
 {
@@ -60626,9 +60279,8 @@ _SF
 L	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/stonepath.json`
 
 ```json
 {
@@ -60675,9 +60327,8 @@ L	S
 ___	SSS	GGG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/strawbedding.json`
 
 ```json
 {
@@ -60727,9 +60378,8 @@ ___	SSS	GGG
 H	H	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/strawdummy.json`
 
 ```json
 {
@@ -60773,9 +60423,8 @@ H	H	S
 HL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/supportbeams.json`
 
 ```json
 [
@@ -60882,9 +60531,8 @@ M	S	T
 M	S	T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/table.json`
 
 ```json
 [
@@ -61185,9 +60833,8 @@ __M	LLL
 __M	LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tack.json`
 
 ```json
 [
@@ -61581,9 +61228,8 @@ BCB
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tile-block.json`
 
 ```json
 [
@@ -61696,9 +61342,8 @@ S
 R
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tile-stone.json`
 
 ```json
 {
@@ -61760,9 +61405,8 @@ R
 PEBNLRGDG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tobtranslocator.json`
 
 ```json
 {
@@ -61872,9 +61516,8 @@ H	S	F
 H	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/arrow.json`
 
 ```json
 [
@@ -61981,9 +61624,8 @@ T	B
 T	B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/axe.json`
 
 ```json
 [
@@ -62169,9 +61811,8 @@ P
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/blade.json`
 
 ```json
 [
@@ -62388,9 +62029,8 @@ _FT	BLT	_FT
 MFT	BLT	MFT
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/bow.json`
 
 ```json
 [
@@ -62599,9 +62239,8 @@ S	L	L
 S	B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/bowstave.json`
 
 ```json
 [
@@ -62703,9 +62342,8 @@ S	B
 T	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/cleaver.json`
 
 ```json
 {
@@ -62770,9 +62408,8 @@ A	L
 A	L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/club.json`
 
 ```json
 [
@@ -62861,9 +62498,8 @@ TM
 MS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/hackingspear.json`
 
 ```json
 {
@@ -62918,9 +62554,8 @@ MS
 T	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/hammer.json`
 
 ```json
 {
@@ -62969,9 +62604,8 @@ T	S
 T	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/hoe.json`
 
 ```json
 {
@@ -63134,9 +62768,8 @@ T	B
 T	B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/knife.json`
 
 ```json
 [
@@ -63327,9 +62960,8 @@ T	B
 T	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/pickaxe.json`
 
 ```json
 {
@@ -63395,9 +63027,8 @@ T	S
 T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/punchset.json`
 
 ```json
 [
@@ -64074,9 +63705,8 @@ PBP
 Y_O
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/roundshield.json`
 
 ```json
 [
@@ -66276,9 +65906,8 @@ Y_O
 T	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/saw.json`
 
 ```json
 {
@@ -66327,9 +65956,8 @@ T	S
 T	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/scythe.json`
 
 ```json
 {
@@ -66439,9 +66067,8 @@ VBV
 LVL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/shield.json`
 
 ```json
 [
@@ -66585,9 +66212,8 @@ _P_
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/shovel.json`
 
 ```json
 [
@@ -66688,9 +66314,8 @@ R	L
 R	L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/sling.json`
 
 ```json
 [
@@ -66789,9 +66414,8 @@ R	L
 T	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/solderingiron.json`
 
 ```json
 {
@@ -66836,9 +66460,8 @@ T	S
 T	S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/spear.json`
 
 ```json
 {
@@ -66903,9 +66526,8 @@ T	S
 SRS	S_S	S_S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/tongs.json`
 
 ```json
 {
@@ -66952,9 +66574,8 @@ SRS	S_S	S_S
 SK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/tool/wormgrunter.json`
 
 ```json
 {
@@ -67001,9 +66622,8 @@ SK
 SSS	___	SSS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/toolrack.json`
 
 ```json
 {
@@ -67110,9 +66730,8 @@ F	B	S
 B	T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/torch.json`
 
 ```json
 [
@@ -67275,9 +66894,8 @@ B	T
 I	I
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/torchholder.json`
 
 ```json
 {
@@ -67320,9 +66938,8 @@ WWW
 NWN
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/trap-crate.json`
 
 ```json
 {
@@ -67426,9 +67043,8 @@ NN	WW
 NN	RR	RR
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/trapdoor.json`
 
 ```json
 [
@@ -67538,9 +67154,8 @@ P_P
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/trough-large.json`
 
 ```json
 {
@@ -67580,9 +67195,8 @@ P_P
 _P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/trough-small.json`
 
 ```json
 {
@@ -67621,9 +67235,8 @@ _P_
 WW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/trunk.json`
 
 ```json
 {
@@ -67669,9 +67282,8 @@ WW
 FF	FF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/twine.json`
 
 ```json
 {
@@ -67713,9 +67325,8 @@ FF	FF
 ST	IU	_U
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/verticalboiler.json`
 
 ```json
 {
@@ -67794,9 +67405,8 @@ KG
 GG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/wattlefence.json`
 
 ```json
 [
@@ -67870,9 +67480,8 @@ C
 F
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/waxedcheese.json`
 
 ```json
 [
@@ -67966,9 +67575,8 @@ W
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/wildvine.json`
 
 ```json
 [
@@ -68081,9 +67689,8 @@ W
  F 	W_W	WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/woodbucket.json`
 
 ```json
 [
@@ -68165,9 +67772,8 @@ PSP	PSP
 BBB	BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/woodenfence.json`
 
 ```json
 [
@@ -68264,9 +67870,8 @@ SPS	SPS
 SBS	SBS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/woodenfencegate.json`
 
 ```json
 [
@@ -68348,9 +67953,8 @@ SBS	SBS
 SP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/grid/woodenpath.json`
 
 ```json
 {
@@ -68408,9 +68012,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/knapping/arrowhead-obsidian.json`
 
 ```json
 {
@@ -68453,9 +68056,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/knapping/flint-arrowhead.json`
 
 ```json
 {
@@ -68498,9 +68100,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/knapping/flint-hatchet.json`
 
 ```json
 {
@@ -68542,9 +68143,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/knapping/flint-hoe.json`
 
 ```json
 {
@@ -68582,9 +68182,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/knapping/flint-knife.json`
 
 ```json
 {
@@ -68627,9 +68226,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/knapping/flint-shovel.json`
 
 ```json
 {
@@ -68671,9 +68269,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/knapping/flint-spear.json`
 
 ```json
 {
@@ -68715,9 +68312,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/knapping/stone-hatchet.json`
 
 ```json
 {
@@ -68769,9 +68365,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/knapping/stone-hoe.json`
 
 ```json
 {
@@ -68819,9 +68414,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/knapping/stone-knife.json`
 
 ```json
 {
@@ -68874,9 +68468,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/knapping/stone-shovel.json`
 
 ```json
 {
@@ -68928,9 +68521,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/knapping/stone-spear.json`
 
 ```json
 {
@@ -68982,9 +68574,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/6arrowhead.json`
 
 ```json
 {
@@ -69035,9 +68626,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/9arrowhead.json`
 
 ```json
 {
@@ -69091,9 +68681,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/anvilbase.json`
 
 ```json
 {
@@ -69190,9 +68779,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/anviltop.json`
 
 ```json
 {
@@ -69269,9 +68857,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/axe.json`
 
 ```json
 {
@@ -69321,9 +68908,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/blade-falx.json`
 
 ```json
 {
@@ -69374,9 +68960,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/blade-short.json`
 
 ```json
 {
@@ -69416,9 +69001,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/boss.json`
 
 ```json
 {
@@ -69474,9 +69058,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/bracket.json`
 
 ```json
 {
@@ -69527,9 +69110,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/chain.json`
 
 ```json
 {
@@ -69583,9 +69165,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/chisel.json`
 
 ```json
 {
@@ -69631,9 +69212,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/chutesection.json`
 
 ```json
 {
@@ -69682,9 +69262,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/cleaver.json`
 
 ```json
 {
@@ -69733,9 +69312,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/cokeovendoor.json`
 
 ```json
 {
@@ -69803,9 +69381,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/crowbar.json`
 
 ```json
 {
@@ -69856,9 +69433,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/hammer.json`
 
 ```json
 {
@@ -69913,9 +69489,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/helvehammer.json`
 
 ```json
 {
@@ -69973,9 +69548,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/hoe.json`
 
 ```json
 {
@@ -70028,9 +69602,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/hoop.json`
 
 ```json
 {
@@ -70088,9 +69661,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/hub-metal.json`
 
 ```json
 {
@@ -70160,9 +69732,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/ingot.json`
 
 ```json
 {
@@ -70203,9 +69774,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/knife.json`
 
 ```json
 {
@@ -70263,9 +69833,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/nails.json`
 
 ```json
 [
@@ -70365,9 +69934,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/padlock.json`
 
 ```json
 {
@@ -70413,9 +69981,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/pickaxe.json`
 
 ```json
 {
@@ -70463,9 +70030,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/plate.json`
 
 ```json
 {
@@ -70531,9 +70097,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/poundercap.json`
 
 ```json
 {
@@ -70585,9 +70150,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/prospectingpick.json`
 
 ```json
 {
@@ -70637,9 +70201,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/punchset.json`
 
 ```json
 {
@@ -70703,9 +70266,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/rod.json`
 
 ```json
 {
@@ -70758,9 +70320,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/saw.json`
 
 ```json
 {
@@ -70807,9 +70368,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/scale.json`
 
 ```json
 {
@@ -70862,9 +70422,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/scythe.json`
 
 ```json
 {
@@ -70912,9 +70471,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/shears.json`
 
 ```json
 {
@@ -70964,9 +70522,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/shovel.json`
 
 ```json
 {
@@ -71017,9 +70574,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/spear-blackbronze.json`
 
 ```json
 {
@@ -71068,9 +70624,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/spear-bronze.json`
 
 ```json
 {
@@ -71116,9 +70671,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/spear-copper.json`
 
 ```json
 {
@@ -71160,9 +70714,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/spear-iron.json`
 
 ```json
 {
@@ -71212,9 +70765,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/spear-meteoriciron.json`
 
 ```json
 {
@@ -71259,9 +70811,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/steel.json`
 
 ```json
 {
@@ -71306,9 +70857,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/tongs.json`
 
 ```json
 {
@@ -71358,9 +70908,8 @@ SP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survival/recipes/smithing/wrench.json`
 
 ```json
 {

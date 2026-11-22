@@ -1,6 +1,6 @@
-# 生存配置字段（源码默认值）
+# 生存配置字段（默认值）
 
-> 从 `SeraphServerConfig.cs` 顶层属性声明提取；嵌套 `SurfaceWater`、`DiseaseExposure`、`Sanitation`、`Exertion`、`ThermalAdaptation`、`Pain`、`Circulation`、`Digestion` 仍需展开对应类型的 `Validate` 与默认值。
+> 以下为生存配置的默认表达式；嵌套 `SurfaceWater`、`DiseaseExposure`、`Sanitation`、`Exertion`、`ThermalAdaptation`、`Pain`、`Circulation`、`Digestion` 仍需展开对应类型的 `Validate` 与默认值。
 
 | 类型 | 字段 | 默认表达式 |
 | --- | --- | --- |

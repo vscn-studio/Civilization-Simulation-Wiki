@@ -18,7 +18,7 @@ def player_tables(text):
             if code:
                 cells[0]=cells[0][:code.start()]
                 cells[-1]=f'标识：<code>{code.group(1)}</code><br>'+cells[-1]
-            cells[-1]='<details><summary>源码与计算</summary>'+cells[-1]+'</details>'
+            cells[-1]='<details><summary>标识与计算</summary>'+cells[-1]+'</details>'
             line='| '+' | '.join(cells)+' |'
         elif not line.startswith('|'):
             table_kind=None

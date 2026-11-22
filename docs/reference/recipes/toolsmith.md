@@ -7,7 +7,6 @@
 
 ## 手册 1：工具锻造 - 制作与拆解方法
 
-来源：`assets/toolsmith/config/handbook/toolsmithing-craftingmethods.json`。
 
 徒手制作
 
@@ -31,7 +30,6 @@
 
 ## 手册 2：工具锻造 - 耐久度、锋利度与磨损
 
-来源：`assets/toolsmith/config/handbook/toolsmithing-durabilityandwear.json`。
 
 锋利度与耐久度
 
@@ -49,7 +47,6 @@
 
 ## 手册 3：工具锻造 - 其他新增内容
 
-来源：`assets/toolsmith/config/handbook/toolsmithing-miscaddons.json`。
 
 铜的冷锻
 
@@ -59,7 +56,6 @@
 
 ## 手册 4：工具锻造 - 重铸的秘密
 
-来源：`assets/toolsmith/config/handbook/toolsmithing-reforging.json`。
 
 重铸
 
@@ -69,7 +65,6 @@
 
 ## 手册 5：工具锻造 - 基础知识
 
-来源：`assets/toolsmith/config/handbook/toolsmithing-the-basics.json`。
 
 工具锻造
 
@@ -91,7 +86,6 @@
 
 ## 手册 6：工具锻造 - 工具部件及用途
 
-来源：`assets/toolsmith/config/handbook/toolsmithing-toolhandles.json`。
 
 工具头
 
@@ -115,7 +109,6 @@
 
 ## 手册 7：工具锻造 - 工具类型与你
 
-来源：`assets/toolsmith/config/handbook/toolsmithing-tooltypes.json`。
 
 组合工具
 
@@ -359,9 +352,8 @@ KC
 KC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/ancienttools/recipes/grid/fabricstrips-atleather-cloth.json`
 
 ```json
 [
@@ -874,9 +866,8 @@ SG
 P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/butchering/recipes/grid/sandpaper-from-glues.json`
 
 ```json
 [
@@ -1103,9 +1094,8 @@ KS
 W_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonescaperegion/recipes/grid/cape-carpentedhandle.json`
 
 ```json
 [
@@ -1219,9 +1209,8 @@ QQQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonescaperegion/recipes/grid/cape-grindstone.json`
 
 ```json
 [
@@ -1349,9 +1338,8 @@ K
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonescaperegion/recipes/grid/cape-handle.json`
 
 ```json
 [
@@ -1402,9 +1390,8 @@ QSQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonescaperegion/recipes/grid/cape-workbench.json`
 
 ```json
 [
@@ -1460,9 +1447,8 @@ KS
 W_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonescaribbeanregion/recipes/grid/caribbean-carpentedhandle.json`
 
 ```json
 [
@@ -1576,9 +1562,8 @@ QQQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonescaribbeanregion/recipes/grid/caribbean-grindstone.json`
 
 ```json
 [
@@ -1706,9 +1691,8 @@ K
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonescaribbeanregion/recipes/grid/caribbean-handle.json`
 
 ```json
 [
@@ -1759,9 +1743,8 @@ QSQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonescaribbeanregion/recipes/grid/caribbean-workbench.json`
 
 ```json
 [
@@ -1817,9 +1800,8 @@ KS
 W_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonescentralaustralianregion/recipes/grid/centralaustralian-carpentedhandle.json`
 
 ```json
 [
@@ -1933,9 +1915,8 @@ QQQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonescentralaustralianregion/recipes/grid/centralaustralian-grindstone.json`
 
 ```json
 [
@@ -2063,9 +2044,8 @@ K
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonescentralaustralianregion/recipes/grid/centralaustralian-handle.json`
 
 ```json
 [
@@ -2116,9 +2096,8 @@ QSQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonescentralaustralianregion/recipes/grid/centralaustralian-workbench.json`
 
 ```json
 [
@@ -2174,9 +2153,8 @@ KS
 W_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonesmediterraneanregion/recipes/grid/mediterranean-carpentedhandle.json`
 
 ```json
 [
@@ -2290,9 +2268,8 @@ QQQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonesmediterraneanregion/recipes/grid/mediterranean-grindstone.json`
 
 ```json
 [
@@ -2420,9 +2397,8 @@ K
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonesmediterraneanregion/recipes/grid/mediterranean-handle.json`
 
 ```json
 [
@@ -2473,9 +2449,8 @@ QSQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonesmediterraneanregion/recipes/grid/mediterranean-workbench.json`
 
 ```json
 [
@@ -2531,9 +2506,8 @@ KS
 W_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonesneozeylandicregion/recipes/grid/neozeylandicregion-carpentedhandle.json`
 
 ```json
 [
@@ -2647,9 +2621,8 @@ QQQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonesneozeylandicregion/recipes/grid/neozeylandicregion-grindstone.json`
 
 ```json
 [
@@ -2777,9 +2750,8 @@ K
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonesneozeylandicregion/recipes/grid/neozeylandicregion-handle.json`
 
 ```json
 [
@@ -2830,9 +2802,8 @@ QSQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/floralzonesneozeylandicregion/recipes/grid/neozeylandicregion-workbench.json`
 
 ```json
 [
@@ -2929,9 +2900,8 @@ QQQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/geoaddons/recipes/grid/grindstone.json`
 
 ```json
 [
@@ -3025,9 +2995,8 @@ Q_Q
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/geoaddons/recipes/knapping/whetstone.json`
 
 ```json
 [
@@ -3079,9 +3048,8 @@ Q_Q
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/mngeology/recipes/knapping/whetstone.json`
 
 ```json
 [
@@ -3191,9 +3159,8 @@ KC
 KC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/tailorsdelight/recipes/grid/fabricstrips-tailorsdelight-cloth.json`
 
 ```json
 [
@@ -3398,9 +3365,8 @@ KL
 KL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/tailorsdelight/recipes/grid/fabricstrips-tailorsdelight-leather.json`
 
 ```json
 [
@@ -3574,9 +3540,8 @@ KS
 W_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/wildcrafttree/recipes/grid/tree-carpentedhandle.json`
 
 ```json
 [
@@ -3629,9 +3594,8 @@ K
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/wildcrafttree/recipes/grid/tree-handle.json`
 
 ```json
 [
@@ -3741,9 +3705,8 @@ QQQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/wildcrafttree/recipes/grid/trees-grindstone.json`
 
 ```json
 [
@@ -3873,9 +3836,8 @@ QSQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/wildcrafttree/recipes/grid/trees-workbench.json`
 
 ```json
 [
@@ -4187,9 +4149,8 @@ KC
 KC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/compatibility/wool/recipes/grid/fabricstrips-wool-cloth.json`
 
 ```json
 [
@@ -4694,9 +4655,8 @@ KS
 W_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/recipes/grid/carpentedhandle.json`
 
 ```json
 [
@@ -4749,9 +4709,8 @@ K
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/recipes/grid/crudehandle.json`
 
 ```json
 [
@@ -5057,9 +5016,8 @@ KC
 KC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/recipes/grid/fabricstrips-cloth.json`
 
 ```json
 [
@@ -5724,9 +5682,8 @@ KL
 KL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/recipes/grid/fabricstrips-leather.json`
 
 ```json
 [
@@ -6111,9 +6068,8 @@ KR
 KR
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/recipes/grid/fabricstrips-rawhide.json`
 
 ```json
 [
@@ -6224,9 +6180,8 @@ KR
 KS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/recipes/grid/fabricstrips-sturdy.json`
 
 ```json
 [
@@ -6336,9 +6291,8 @@ QQQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/recipes/grid/grindstone.json`
 
 ```json
 [
@@ -6466,9 +6420,8 @@ K
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/recipes/grid/handle.json`
 
 ```json
 [
@@ -6550,9 +6503,8 @@ KH
 KH
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/recipes/grid/recyclehandles.json`
 
 ```json
 [
@@ -6682,9 +6634,8 @@ SG
 P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/recipes/grid/sandpaper.json`
 
 ```json
 [
@@ -6813,9 +6764,8 @@ QSQ
 Q_Q
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/recipes/grid/workbench.json`
 
 ```json
 [
@@ -6861,9 +6811,8 @@ Q_Q
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/toolsmith/recipes/knapping/whetstone.json`
 
 ```json
 [

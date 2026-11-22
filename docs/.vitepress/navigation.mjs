@@ -17,12 +17,12 @@ const pack = [
 const reference = [group('快速查阅', [item('资料查询首页', '/reference/'), item('食物营养表', '/guide/food-catalogue'), item('疾病速查 ↗', '/guide/diseases'), item('属性速查 ↗', '/guide/metric-sources'), item('配方与手册', '/reference/recipes/'), item('模组分类目录', '/mods/'), item('常用术语', '/reference/glossary')])]
 const admin = [
   group('运行与维护', [item('管理员首页', '/admin/'), item('配置修改流程', '/pack/configuration'), item('命令与故障排查', '/admin/commands'), item('命令参考', '/admin/commands-full')]),
-  group('核心模组配置', [item('文明模拟配置', '/admin/civilization-config'), item('生存配置说明', '/admin/survival-config'), item('生存配置源码默认值', '/admin/survival-config-full'), item('生存配置字段与来源', '/admin/seraph-config-semantics'), item('已安装配置实值', '/admin/installed-configs')]),
+  group('核心模组配置', [item('文明模拟配置', '/admin/civilization-config'), item('生存配置说明', '/admin/survival-config'), item('生存配置默认值', '/admin/survival-config-full'), item('生存配置字段与校验', '/admin/seraph-config-semantics'), item('已安装配置实值', '/admin/installed-configs')]),
   group('整合包配置', [item('全部配置字段', '/admin/config-tables'), item('配置文件清单', '/admin/modconfig-inventory')])
 ]
 const develop = [
   group('接入与实现', [item('开发者首页', '/develop/'), item('API 与适配器', '/develop/api'), item('生理公式与单位', '/develop/formulas'), item('文明系统实现', '/guide/civilization-source'), item('生存系统实现', '/guide/survival-source'), item('兼容补丁实现', '/guide/patches-source')]),
-  group('源码与原始资料', [item('源码覆盖状态', '/develop/source-inventory'), item('文明源码索引', '/develop/sources/vsscsmod'), item('生存源码索引', '/develop/sources/vsslssmod'), item('补丁源码索引', '/develop/sources/vsscpmod'), item('食品校准原始表', '/develop/food-calibration'), item('来源与维护', '/develop/maintenance')])
+  group('营养参数', [item('食品校准参数表', '/develop/food-calibration')])
 ]
 export const sidebar = {
   '/guide/': player, '/core/': core, '/pack/': pack, '/mods/': reference,

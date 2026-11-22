@@ -7,7 +7,6 @@
 
 ## 手册 1：信封与包裹
 
-来源：`assets/envelopes/config/handbook/envelopesguide.json`。
 
 信封用于给其他玩家寄信；寄送物品则需要包裹。
 
@@ -103,9 +102,8 @@ P
 E
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/add-letter.json`
 
 ```json
 [
@@ -221,9 +219,8 @@ P
 E
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/add-parchment-to-parcel.json`
 
 ```json
 [
@@ -273,9 +270,8 @@ P
 R
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/envelope.json`
 
 ```json
 {
@@ -324,9 +320,8 @@ F
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/parcel.json`
 
 ```json
 {
@@ -379,9 +374,8 @@ K_
 E_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/remove-wax.json`
 
 ```json
 [
@@ -431,9 +425,8 @@ E_
 EB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/repair-stamp.json`
 
 ```json
 {
@@ -504,9 +497,8 @@ W_
 P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/seal-parcel.json`
 
 ```json
 [
@@ -596,9 +588,8 @@ _C_
 _RS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/signetring-disassemble.json`
 
 ```json
 {
@@ -662,9 +653,8 @@ _H_
 _C_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/signetring-engrave.json`
 
 ```json
 {
@@ -740,9 +730,8 @@ _C_
 _S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/stamp-reengrave.json`
 
 ```json
 {
@@ -799,9 +788,8 @@ _H_
 _C_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/wax-seal-stamp.json`
 
 ```json
 {
@@ -882,9 +870,8 @@ W_
 E_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/wax-seal.json`
 
 ```json
 [
@@ -1160,9 +1147,8 @@ W
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/envelopes/recipes/grid/waxstick.json`
 
 ```json
 [

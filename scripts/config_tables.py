@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
+from local_inputs import required_dir, source_dir
 """All installed configuration leaf values, with credentials and identity data redacted."""
 import hashlib, html, json, os, re
 from pathlib import Path
 from asset_catalogue import parse_many, esc, write
 ROOT=Path(__file__).resolve().parent.parent
-CFG=Path(os.environ.get('SERAPH_MODCONFIG_DIR',r'C:\Users\29596\AppData\Roaming\MVL\Modpack\测试服务器\Logs\服务器相关\ModConfig'))
+CFG = required_dir('SERAPH_MODCONFIG_DIR')
 # Never copy server authentication material or lists of real player identities into public pages.
 SECRET=re.compile(r'password|passwd|secret|token|credential|authorization|privatekey|apikey|authkey|connectionstring|webhook|endpoint|serveraddress|ipaddress|\bhost\b|playeruid|playername|allowedplayers|adminuid|owneruid|whitelistedplayers',re.I)
 PRIVATE_FILE=re.compile(r'auth|player.?history|audit|clientlog|identity|account',re.I)

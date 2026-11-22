@@ -12,7 +12,7 @@ for (const width of [375,768,1440]) {
         await expect(page.locator('h1').first()).toBeVisible()
         await expect(page.locator('html')).toHaveClass(theme==='dark' ? /dark/ : /^(?!.*\bdark\b)/)
         if (route.includes('food-catalogue')) await expect(page.getByText(/找到 \d+ 条记录/)).toBeVisible()
-        if (route==='/mods/') await expect(page.getByText('129 个模组',{exact:true})).toBeVisible()
+        if (route==='/mods/') await expect(page.getByText('132 个模组',{exact:true})).toBeVisible()
         expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth+1),route).toBeTruthy()
         if ((width===375 && route.includes('/guide/')) || (width===1440 && (route==='/' || route.includes('/admin/')))) {
           await page.screenshot({path:test.info().outputPath(route.replace(/[^a-z0-9]/gi,'_')+'.png'),fullPage:false})
@@ -63,7 +63,7 @@ test('营养校准完整性、中文搜索、份量与分页',async ({page})=>{
 
 test('模组目录中文分类及代码搜索',async ({page})=>{
   await page.goto('/mods/')
-  await expect(page.getByText('129 个模组',{exact:true})).toBeVisible()
+  await expect(page.getByText('132 个模组',{exact:true})).toBeVisible()
   await page.getByLabel('搜索名称或模组代码').fill('采石')
   await expect(page.locator('.mod-catalogue tbody tr')).toHaveCount(1)
   await page.getByLabel('搜索名称或模组代码').fill('vsslssmod')

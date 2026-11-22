@@ -25,9 +25,8 @@
 SC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/disabled_recipies/reimbursement-shop.json`
 
 ```json
 [
@@ -286,9 +285,8 @@ SC
 SC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/disabled_recipies/reimbursement-stall.json`
 
 ```json
 [
@@ -642,9 +640,8 @@ G_
 T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/disabled_recipies/tenretni.json`
 
 ```json
 [
@@ -730,9 +727,8 @@ T
 BQ
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/catalog.json`
 
 ```json
 {
@@ -782,9 +778,8 @@ WHW
 ICI
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/clothingstall.json`
 
 ```json
 {
@@ -878,9 +873,8 @@ __C
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/couponcutter.json`
 
 ```json
 {
@@ -929,9 +923,8 @@ GC
 SS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/gachastall.json`
 
 ```json
 [
@@ -1030,9 +1023,8 @@ SS
 BQ
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/ledger.json`
 
 ```json
 {
@@ -1080,9 +1072,8 @@ WCW
 W_W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/mealtable.json`
 
 ```json
 {
@@ -1147,9 +1138,8 @@ WOW
 WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/producecrate.json`
 
 ```json
 {
@@ -1416,9 +1406,8 @@ WOW
 WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/purchasecrate.json`
 
 ```json
 [
@@ -1938,9 +1927,8 @@ _C_
 WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/sculpturestand.json`
 
 ```json
 {
@@ -2009,9 +1997,8 @@ IWI
 SWS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/shopbarrel.json`
 
 ```json
 [
@@ -2101,9 +2088,8 @@ WWW
 WIW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/shopdispenser.json`
 
 ```json
 [
@@ -2193,9 +2179,8 @@ _S_
 CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/shopmat.json`
 
 ```json
 {
@@ -2264,9 +2249,8 @@ _OC
 CCW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/shopmatdouble.json`
 
 ```json
 [
@@ -2358,9 +2342,8 @@ COC
 WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/shopregister.json`
 
 ```json
 [
@@ -2452,9 +2435,8 @@ __C
 WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/shopshelf.json`
 
 ```json
 {
@@ -2522,9 +2504,8 @@ _C_
 WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/shoptoolrack.json`
 
 ```json
 {
@@ -2593,9 +2574,8 @@ COC
 WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/tellermachine.json`
 
 ```json
 [
@@ -2687,9 +2667,8 @@ WCW
 _W_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vinconomy/recipes/grid/weaponplaque.json`
 
 ```json
 {

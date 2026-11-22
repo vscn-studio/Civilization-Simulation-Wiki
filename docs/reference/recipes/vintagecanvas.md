@@ -7,7 +7,6 @@
 
 ## 手册 1：复古画布入门
 
-来源：`assets/vintagecanvas/config/handbook/1-basics.json`。
 
 复古画布的第一步
 
@@ -23,7 +22,6 @@
 
 ## 手册 2：绘制画布画
 
-来源：`assets/vintagecanvas/config/handbook/2-painting.json`。
 
 颜料绘画
 
@@ -47,7 +45,6 @@
 
 ## 手册 3：绘制壁画
 
-来源：`assets/vintagecanvas/config/handbook/3-frescos.json`。
 
 最直接的作画方式
 
@@ -59,7 +56,6 @@
 
 ## 手册 4：画布升级与装饰
 
-来源：`assets/vintagecanvas/config/handbook/4-largepaintings.json`。
 
 大幅画作
 
@@ -75,7 +71,6 @@
 
 ## 手册 5：无限颜料与其他设置
 
-来源：`assets/vintagecanvas/config/handbook/5-finitepaint.json`。
 
 默认情况下，使用画笔、调色板和颜料罐会缓慢消耗颜料。若想不受颜料用量限制地作画，可在模组配置中关闭此设置（PaintDepletion: false）。也可调整设置，让同样数量的颜料能画得更多。
 
@@ -95,9 +90,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/barrel/brazilwood.json`
 
 ```json
 {
@@ -137,9 +131,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/barrel/leadwhite.json`
 
 ```json
 {
@@ -180,9 +173,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/barrel/ultramarine.json`
 
 ```json
 {
@@ -224,9 +216,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/barrel/verdigris.json`
 
 ```json
 {
@@ -268,9 +259,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/barrel/vermillion.json`
 
 ```json
 {
@@ -312,9 +302,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/barrel/woadpigment.json`
 
 ```json
 {
@@ -352,9 +341,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/clayforming/fourpaintjars.json`
 
 ```json
 {
@@ -466,9 +454,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/clayforming/paintjar.json`
 
 ```json
 {
@@ -544,9 +531,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/cooking/turpentine.json`
 
 ```json
 {
@@ -625,9 +611,8 @@ CSC
 CSC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/beret.json`
 
 ```json
 [
@@ -746,9 +731,8 @@ CS_
 __S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/brush.json`
 
 ```json
 [
@@ -930,9 +914,8 @@ SLS
 _S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/canvas-vellum.json`
 
 ```json
 [
@@ -1179,9 +1162,8 @@ SLS
 _S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/canvas.json`
 
 ```json
 [
@@ -1338,9 +1320,8 @@ PSP
 P_P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/easel.json`
 
 ```json
 [
@@ -1431,9 +1412,8 @@ QJS
 QJS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/frescoplaster.json`
 
 ```json
 [
@@ -1565,9 +1545,8 @@ PNP
 PSP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/heasel.json`
 
 ```json
 [
@@ -1657,9 +1636,8 @@ CC
 CC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/largecanvas.json`
 
 ```json
 [
@@ -1736,9 +1714,8 @@ CC
 KP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/palette.json`
 
 ```json
 [
@@ -1826,9 +1803,8 @@ CK
 CK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/pastel.json`
 
 ```json
 [
@@ -1930,9 +1906,8 @@ CK
 PKJ
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/rag.json`
 
 ```json
 [
@@ -1998,9 +1973,8 @@ S
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/roller.json`
 
 ```json
 [
@@ -2086,9 +2060,8 @@ PKJ
 PKJ
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vintagecanvas/recipes/grid/vellum.json`
 
 ```json
 [

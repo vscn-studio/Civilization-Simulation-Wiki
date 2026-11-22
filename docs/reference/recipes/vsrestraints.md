@@ -26,9 +26,8 @@ I I
  L 
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsrestraints/recipes/grid/handcuffs.json`
 
 ```json
 {
@@ -71,9 +70,8 @@ I I
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsrestraints/recipes/grid/ironchain.json`
 
 ```json
 {
@@ -114,9 +112,8 @@ I I
 ILI
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsrestraints/recipes/grid/legshackles.json`
 
 ```json
 {
@@ -162,9 +159,8 @@ PLP
 P P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsrestraints/recipes/grid/pillory.json`
 
 ```json
 {

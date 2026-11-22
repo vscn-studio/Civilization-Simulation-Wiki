@@ -1,6 +1,6 @@
-# 生理公式与数值来源
+# 生理公式与单位
 
-> 本页只写入可以在当前源码中定位到的公式、常量和单位。源码路径均相对于 `Seraph Living Survival Simulation/src/Seraph.Core/Framework`；配置覆盖源码默认值时，以服务端配置快照为准。
+> 配置可以覆盖默认值；实际数值以当前服务器设置为准。
 
 ## 时间和单位
 
@@ -24,13 +24,13 @@ processed = amount × (1 − exp(−ln(2) × hours × capacity / halfLife))
 throughput = min(1, DigestionGPerGameHour × efficiency × hours / requested)
 ```
 
-宏量能量常量在 `DietaryMetabolism` 中定义：碳水、蛋白和脂肪分别按代码中的 `CarbKJPerG`、`ProteinKJPerG`、`FatKJPerG` 计算，不能用原版饱食度反推。吸收后的碳水先填充 `GlycogenCapacityKJ`，脂肪先填充 `FatCapacityKJ`；溢出的碳水按源码转换规则进入脂肪，剩余才记录为热量溢出。
+宏量能量常量在 `DietaryMetabolism` 中定义：碳水、蛋白和脂肪分别按代码中的 `CarbKJPerG`、`ProteinKJPerG`、`FatKJPerG` 计算，不能用原版饱食度反推。吸收后的碳水先填充 `GlycogenCapacityKJ`，脂肪先填充 `FatCapacityKJ`；溢出的碳水按转换规则进入脂肪，剩余才记录为热量溢出。
 
 微量营养由 `MicroNutrition.Settle` 结算。储备范围为 0–100，低于 20 开始累计缺口（`Deficiency`），高于 20 会恢复缺口。每日参考点数：A 为 `100/30`，C 与 B 复合为 `100/7`，其余铁、锌、钙为 22；半衰期 A=4 小时、C=1 小时、B 复合=2 小时、其余=2 小时。免疫营养加成为六组储备相对值平均数的 0.2 倍。
 
 ## 免疫、病程和败血症
 
-有效免疫在 `ImmuneSystem.Effective` 中按免疫储备、营养支持、躯干结构损伤和毒性求值，并限制在源码规定范围。缺口会缩短潜伏期、延长症状期和恢复期；具体乘数见[疾病页](/guide/diseases)。败血症在 `DiseaseExposure`/`DiseaseSyndromes` 中还要求伤口或系统性感染达到严重度，并持续满足脱水、低血容量或意识危险条件；`SepsisOnsetHours` 与 `SepsisRecoveryHours` 来自配置，不能从病原潜伏期推断。
+有效免疫在 `ImmuneSystem.Effective` 中按免疫储备、营养支持、躯干结构损伤和毒性求值，并限制在0.1～1.5。缺口会缩短潜伏期、延长症状期和恢复期；具体乘数见[疾病页](/guide/diseases)。败血症在 `DiseaseExposure`/`DiseaseSyndromes` 中还要求伤口或系统性感染达到严重度，并持续满足脱水、低血容量或意识危险条件；`SepsisOnsetHours` 与 `SepsisRecoveryHours` 来自配置，不能从病原潜伏期推断。
 
 ## 身体、伤口和行动倍率
 
@@ -56,8 +56,8 @@ throughput = min(1, DigestionGPerGameHour × efficiency × hours / requested)
 
 `RegionalEnvironment` 将空气化学物质夹在 0–1；温度衰减因子为 `clamp(2^((temperatureC−15)/20), 0.25, 4)`。土壤损害为 `clamp(Erosion×0.3,0,1)`，地下水补给倍率为 `clamp((0.5+OrganicMatter×0.5)×(1−Erosion×0.4)×(1−GroundwaterStress×0.3),0.2,1)`。
 
-卫生、污染、洗浴、雨水冲刷、手部转移和伤口感染使用 `SeraphServerConfig` 与其嵌套选项；[完整配置](/admin/survival-config-full)同时列出源码默认值和[当前实例实值](/admin/installed-configs)。
+卫生、污染、洗浴、雨水冲刷、手部转移和伤口感染使用 `SeraphServerConfig` 与其嵌套选项；[完整配置](/admin/survival-config-full)同时列出默认值和[当前实例实值](/admin/installed-configs)。
 
-## 证据边界
+## 使用范围
 
-这些公式描述当前源码路径中的纯函数和配置默认值。原版食物、其他模组运行时 patch、服务器热重载后的状态以及未接入 `AdapterEvidence` 的数据可能改变结果；遇到冲突时记录版本、配置、`/vsslssmod probe` 输出和日志，再按源码版本复核。
+这些公式描述生存模拟的计算规则和配置默认值。原版食物、其他模组运行时 patch、服务器热重载后的状态以及未接入 `AdapterEvidence` 的数据可能改变结果；遇到冲突时记录版本、配置、`/vsslssmod probe` 输出和日志，核对对应模组版本。

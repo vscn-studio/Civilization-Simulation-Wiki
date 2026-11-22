@@ -7,7 +7,6 @@
 
 ## 手册 1：指南：炽天使升级
 
-来源：`assets/seraphleveling/config/handbook/sl-guide.json`。
 
 炽天使升级
 

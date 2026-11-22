@@ -1,9 +1,10 @@
+from local_inputs import required_dir, source_dir
 """Append reproducible package evidence without touching human-authored text."""
 import collections, concurrent.futures, hashlib, json, os, re, subprocess, tempfile, zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-PACK = Path(os.environ.get('SERAPH_MODS_DIR', r'C:\Users\29596\AppData\Roaming\MVL\Modpack\测试服务器\Mods'))
+PACK = required_dir('SERAPH_MODS_DIR')
 MANIFEST = json.loads((ROOT/'scripts/inventory-manifest.json').read_text(encoding='utf-8-sig'))
 START='<!-- package-evidence:start -->'
 END='<!-- package-evidence:end -->'
@@ -54,7 +55,9 @@ def extract(entry):
                 if len(found)>40: lines += ['其余 {} 个类型未在此列出；可按维护说明重新分析程序集。'.format(len(found)-40),'']
     if failures: lines += ['以下程序集未能解析：'+', '.join('`'+escape(f)+'`' for f in failures)+'。','']
     lines += ['类型索引和资源清单不包含运行时控制流分析；具体操作、默认配置和交互规则仍需逐项核实。','','</details>',END]
-    target=ROOT/'docs/mods/entries'/(entry['slug']+'.md'); text=target.read_text(encoding='utf-8')
+    target=ROOT/'scripts/generated/package-evidence'/(entry['slug']+'.md')
+    target.parent.mkdir(parents=True, exist_ok=True)
+    text=target.read_text(encoding='utf-8') if target.exists() else ''
     # Remove previous generated section, retaining all other content.
     if START in text and END in text: text=text[:text.index(START)]+text[text.index(END)+len(END):]
     target.write_text(text.rstrip()+'\n\n'+'\n'.join(lines)+'\n',encoding='utf-8')

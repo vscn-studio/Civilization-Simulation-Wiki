@@ -7,7 +7,6 @@
 
 ## 手册 1：肥皂与碱液：肥皂基础
 
-来源：`assets/soapandlyecontinued/config/handbook/soapandlyecontinued-basics.json`。
 
 只有肥皂和碱液
 
@@ -81,9 +80,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/soapandlyecontinued/compatibility/wildcrafttree/recipes/grid/woodash.json`
 
 ```json
 [
@@ -200,9 +198,8 @@ L
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/soapandlyecontinued/compatibility/wool/recipes/barrel/undye_twine.json`
 
 ```json
 [
@@ -447,9 +444,8 @@ L
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/soapandlyecontinued/compatibility/wool/recipes/barrel/undye_wool.json`
 
 ```json
 [
@@ -846,9 +842,8 @@ L
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/soapandlyecontinued/compatibility/wool/recipes/barrel/washing_fleece.json`
 
 ```json
 [
@@ -1354,9 +1349,8 @@ L
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/soapandlyecontinued/recipes/barrel/lye.json`
 
 ```json
 [
@@ -1777,9 +1771,8 @@ L
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/soapandlyecontinued/recipes/barrel/soapbar.json`
 
 ```json
 [
@@ -2130,9 +2123,8 @@ L
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/soapandlyecontinued/recipes/cooking/potash.json`
 
 ```json
 {

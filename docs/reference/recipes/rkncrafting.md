@@ -7,7 +7,6 @@
 
 ## 手册 1：RKN 通用制作指南
 
-来源：`assets/rkncrafting/config/handbook/craftingguide.json`。
 
 RKN 通用制作指南
 

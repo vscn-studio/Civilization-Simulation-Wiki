@@ -173,9 +173,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-acacia.json`
 
 ```json
 [
@@ -584,9 +583,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-aged.json`
 
 ```json
 [
@@ -995,9 +993,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-baldcypress.json`
 
 ```json
 [
@@ -1406,9 +1403,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-bamboo.json`
 
 ```json
 [
@@ -1817,9 +1813,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-birch.json`
 
 ```json
 [
@@ -2228,9 +2223,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-blackclay.json`
 
 ```json
 [
@@ -2639,9 +2633,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-brownclay.json`
 
 ```json
 [
@@ -3050,9 +3043,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-copper.json`
 
 ```json
 [
@@ -3461,9 +3453,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-creamclay.json`
 
 ```json
 [
@@ -3872,9 +3863,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-ebony.json`
 
 ```json
 [
@@ -4283,9 +4273,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-fireclay.json`
 
 ```json
 [
@@ -4694,9 +4683,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-grayclay.json`
 
 ```json
 [
@@ -5105,9 +5093,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-kapok.json`
 
 ```json
 [
@@ -5516,9 +5503,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-larch.json`
 
 ```json
 [
@@ -5927,9 +5913,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-maple.json`
 
 ```json
 [
@@ -6338,9 +6323,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-oak.json`
 
 ```json
 [
@@ -6749,9 +6733,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-orangeclay.json`
 
 ```json
 [
@@ -7160,9 +7143,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-pine.json`
 
 ```json
 [
@@ -7571,9 +7553,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-purpleheart.json`
 
 ```json
 [
@@ -7982,9 +7963,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-redclay.json`
 
 ```json
 [
@@ -8393,9 +8373,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-redwood.json`
 
 ```json
 [
@@ -8804,9 +8783,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-slate.json`
 
 ```json
 [
@@ -9215,9 +9193,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-tanclay.json`
 
 ```json
 [
@@ -9626,9 +9603,8 @@ MMM
 __T
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/roofing-walnut.json`
 
 ```json
 [
@@ -10055,9 +10031,8 @@ ___
 MTM
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/survivalcomplements/recipes/grid/supportchains.json`
 
 ```json
 [

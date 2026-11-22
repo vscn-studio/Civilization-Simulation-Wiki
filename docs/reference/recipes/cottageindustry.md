@@ -9,9 +9,8 @@
 
 本章节在当前可读取语言资源中没有中文正文。相关材料和加工条件可在下方中文配方摘要查询；原文保留供核对。
 
-<details><summary>查看手册原文与来源</summary>
+<details><summary>查看手册原文</summary>
 
-来源：`assets/cottageindustry/config/handbook/animalpower.json`。
 
 Animal Power
 
@@ -37,349 +36,265 @@ Animals are living beings and need to eat. As an animal works, the food it has e
 
 </details>
 
-## 手册 2：家庭工坊游戏内手册 2
+## 手册 2：滚动木桶
 
-本章节在当前可读取语言资源中没有中文正文。相关材料和加工条件可在下方中文配方摘要查询；原文保留供核对。
 
-<details><summary>查看手册原文与来源</summary>
+滚动木桶
 
-来源：`assets/cottageindustry/config/handbook/barrels.json`。
+把木桶滚起来
 
-Rolling Barrels
+装满的木桶太重，不适合搬着走远路，但可以滚动。空手对木桶按cottageindustry-barrel + rightmouse，即可盖上桶盖并将它放倒。因配方而密封的木桶在滚动时仍会继续加工。再次对它按cottageindustry-barrel + rightmouse，即可扶正。
 
-Roll out the barrel
+滚动
 
-A full barrel is too heavy to carry far, but it rolls. Use cottageindustry-barrel + rightmouse with an empty hand on a barrel to cap it and tip it on its side. A barrel sealed with a recipe keeps working while it rolls. Use cottageindustry-barrel + rightmouse on it again to stand it back up.
+空手对放倒的木桶按rightmouse将它扶住，然后朝目标方向行走。满桶会让你走得更慢，空桶的影响则较小。再次按rightmouse、按shift，或在手中拿起物品，就会松开木桶。对未扶住的木桶按leftmouse，可以朝你面向的方向推它一把。
 
-Rolling
+木桶轨道
 
-rightmouse a tipped barrel with an empty hand to take hold of it, then walk where you want it to go. A full barrel slows you down while empty ones slow you down less. Use rightmouse again, shift, or take something in hand to let go. leftmouse gives a loose barrel a shove in the direction you are looking.
+[handbook://block-cottageindustry:barrelrun-ns] 木桶轨道是一对铺在地面的轨条。木桶沿轨道滚动更省力，无人扶持的木桶也能在轨道上滚出很远。
 
-Barrel runs
+让木桶停下
 
-A  [handbook://block-cottageindustry:barrelrun-ns] barrel run is a pair of rails laid on the ground. Barrels roll easier along them, and free rolling barrels roll a long way on them.
+稍不留神，木桶就可能越滚越快，直到难以控制。让木桶停下的方法有多种，但最省心的办法是别让它加速过头。也可以手持砾石对一段轨道按rightmouse铺上砾石，让经过的木桶减速。放置几个 [handbook://item-cottageindustry:barrelchock] 木桶止挡，便能拦下已经减速的木桶，让它们整齐堆放。离开轨道的木桶会很快慢下来。
 
-Stopping barrels
+堆放木桶
 
-Barrels can quickly roll to unmanageable speeds if you aren't careful. Halting a barrel can be done in several ways, but the easiest solution is to simply not allow them to speed up. Alternatively using rightmouse, you may add gravel to a section of run, which can help remove extra velocity from passing barrels. A few  [handbook://item-cottageindustry:barrelchock] barrel chocks can be used to halt already slow barrels into a neat stack. Barrels without runs will quickly slow down.
+利用 [handbook://item-cottageindustry:barrelchock] 止挡，可以将木桶滚成整齐的一排或金字塔形堆垛。
 
-Barrel stacking
+木桶滚上带止挡的轨道后，会侧躺着固定下来。此时它的功能与直立木桶相同，还可以安装 [handbook://item-cottageindustry:bung] 木塞或 [handbook://item-cottageindustry:spigot-copper] 龙头来取用液体。木桶缓缓滚入连续设置的止挡时，会一直滚到最远的空位。木桶也能滚到已经固定的木桶上方，停在底下两个木桶之间最远的可用位置，逐层错开堆成金字塔。掉落的木桶若落在已固定的木桶或带止挡的轨道上，不会摔碎，而会同样固定下来。
 
-You can roll barrels into neatly organized pyramids or stacks utilizing  [handbook://item-cottageindustry:barrelchock] chocks.
+地窖滑道
 
-A barrel rolled onto a chocked barrel run will effectively let it rest on its side. This chocked barrel functions the same as an upright barrel, but you have the added benefit of being able to tap them with a  [handbook://item-cottageindustry:bung] bung or  [handbook://item-cottageindustry:spigot-copper] spigot. If a barrel slowly rolls into a continuous row of chocks, that barrel will always roll to the last available space. Barrels may also roll over top of chocked barrels, where they will settle at the last space between the two bottom barrels, making a staggered pyramid. Dropped barrels that land on chocked barrels or chocked barrel runs do not break and instead become chocked themselves.
+木桶无法自行上下哪怕一格高的台阶。 [handbook://block-cottageindustry:cellarskid-north-legs] 地窖滑道是倾斜的轨道，能让木桶在高低不同的地面之间通行。木桶很重，如果你站在桶后推着它下坡，很可能会抓不住。想安全地将木桶滚下滑道，请站在木桶前方，沿楼梯向下走。
 
-Cellar skids
+损坏
 
-A barrel cannot climb or drop even a single block on its own. A  [handbook://block-cottageindustry:cellarskid-north-legs] cellar skid is a sloped run that allows a barrel to travel up and down. As you can imagine, barrels are quite heavy, so you will likely lose your grip if you try to go down a barrel run behind the barrel you are pushing. If you want to safely roll a barrel down a run go down the stairs while in front of the barrel.
+木桶从一格或更高处坠落，或高速撞上坚硬物体时，会碎裂并损失桶内物品。挡在失控木桶前面的人也会受伤。
 
-Breakage
+木桶门
 
-A barrel that falls a block or more, or hits something hard at speed, breaks apart and loses its contents. Anyone in the way of a runaway barrel will be hurt.
+[handbook://block-cottageindustry:barreldoor-north-closed] 木桶门盖在通往地窖的滑道上端。关闭时能封住地窖，使其保持凉爽。按rightmouse打开后，木桶即可通过。
 
-Barrel switches
+## 手册 3：堆肥槽
 
-A  [handbook://block-cottageindustry:barrelswitch-north-flat-hand-legs] barrel switch sorts barrels or changes which run a barrel rolls along. It has two modes, changed with shift + rightmouse with an empty hand. In the first mode, rightmouse with an empty hand switches it by hand between a ramp and a level run. This suits permanent layouts that you switch yourself. In the second mode it sorts full barrels from empty ones. Barrels holding any amount of items or liquid go down the ramp, while empty barrels carry on along the level run. This sends barrels to their own storage areas without you having to be there.
 
-Barrel doors
+堆肥槽
 
-A  [handbook://block-cottageindustry:barreldoor-north-closed] barrel door covers the top of a skid down into a cellar. Closed, it seals the room so the cellar keeps cool. Open it with rightmouse to let barrels through.
+乐趣成堆
 
-</details>
+[handbook://block-cottageindustry:compostbay-north] 堆肥槽能将易腐物品和植物废料批量转化为 [handbook://item-compost] 堆肥。它宽 2 格、深 2 格，放置时开口的一面朝向你。随着堆肥越积越高，需要手持 [handbook://item-plank-oak] 木板对正面按rightmouse，加装挡板。
 
-## 手册 3：家庭工坊游戏内手册 3
+填料
 
-本章节在当前可读取语言资源中没有中文正文。相关材料和加工条件可在下方中文配方摘要查询；原文保留供核对。
+使用堆肥槽时，无须等物品完全腐烂就能开始堆肥。各种易腐物品、 [handbook://item-rot] 腐烂物、干草和其他植物废料都可以加入。将物品直接扔进槽里即可，也可以按rightmouse添加一个，或按ctrl + rightmouse添加一整堆。
 
-<details><summary>查看手册原文与来源</summary>
+翻堆
 
-来源：`assets/cottageindustry/config/handbook/compostbay.json`。
+堆肥中的生物活动需要氧气，因此要定期翻动腐解的材料，让空气进入。手持 [handbook://item-cottageindustry:pitchfork] 干草叉，按住rightmouse即可翻堆。每隔 5 天翻一次，能让有机物保持最佳分解速度。长期不翻堆会使堆肥缺氧，分解速度也会变慢。
 
-Compost Bay
+加快堆肥
 
-Heaps of fun
+还可以通过调整材料来加快堆肥。合理混合绿色材料（食物、腐烂物）与褐色材料（干草、植物废料），可使堆肥速度提高 50%；配比不理想时，材料仍会分解。加入 [handbook://item-creature-earthworm] 蚯蚓还能额外提高 25% 的速度。
 
-A  [handbook://block-cottageindustry:compostbay-north] compost bay turns perishables and plant waste into  [handbook://item-compost] compost in bulk. It is 2 blocks wide, two blocks deep, with the open front facing you when placed. As the compost pile grows in size, you will have to place additional slats on the front side using rightmouse with a  [handbook://item-plank-oak] board.
+挖出堆肥
 
-Filling
+手持铲子，按住rightmouse挖出已经腐熟的堆肥。堆肥升高时需要添加挡板，挖取后堆肥降低，也要相应拆下挡板。
 
-The compost bay uniquely does not require an item to rot completely before you can use it to make compost. All perishables,  [handbook://item-rot] rot, dry grass and other plant waste are accepted. Adding to the pile is as simple as throwing items into the bay or rightmouse to add one, ctrl + rightmouse to add a stack.
+黑土
 
-Turning
+向堆肥中加入 [handbook://item-powder-charcoal] 木炭粉和 [handbook://item-bonemeal] 骨粉。每 16 份堆肥、8 份木炭粉和 8 份骨粉可腐熟为 2 块 [handbook://block-soil-high-none] 黑土。也可以使用整块木炭和骨头，但需要多等 10 天。
 
-Compost is a living thing and needs to have access to oxygen. Periodically, you will need to mix the decaying matter to allow for good aeration. Hold rightmouse with a  [handbook://item-cottageindustry:pitchfork] pitchfork to turn the compost heap. For optimal breakdown of organic material, you will have to turn the heap every 5 days. If you neglect to aerate the compost, it won't decompose as quickly.
+提示：食物残渣会引来浣熊和熊。如果野生动物让你头疼，就尽量多用褐色材料。
 
-Speed
+## 手册 4：晾晒架
 
-A compost bay can be amended further to increase the speed at which items turn into compost. A good mix of greens (food, rot) and browns (dry grass, plant waste) composts 50% faster, though, this mixture ratio isn't required to decompose material. The addition of  [handbook://item-creature-earthworm] earthworms further helps the speed by 25%.
 
-Digging out
+晾晒架
 
-Hold rightmouse with a shovel to dig out finished compost. Just as you had to add slats as the pile grew in size, you will have to take slats off as the heap goes down.
+架子搭好，肉也挂好
 
-Terra preta
+[handbook://block-cottageindustry:dryingrack] 晾晒架能让物品比随意放置时干得更快。它宽 3 格、深 2 格、高 2 格。按rightmouse挂上一个物品，按ctrl + rightmouse可一次挂上一整堆。空手操作即可从架上取下物品。
 
-Add  [handbook://item-powder-charcoal] charcoal and  [handbook://item-bonemeal] bone meal to a compost pile. Every 16 compost, 8 charcoal and 8 bone meal cure into 2  [handbook://block-soil-high-none] terra preta. Whole charcoal and bones work too, but take 10 days longer.
+晾干速度
 
-Tip: Food scraps draw in raccoons and bears, so keep it mostly brown if wildlife is a problem.
+架上物品的晾干速度会随环境变化。温度、风速、烟雾、雨水和遮蔽条件都会影响晾干速度。
 
-</details>
+建造熏房
 
-## 手册 4：家庭工坊游戏内手册 4
+将晾晒架放进密闭的房间，并在房内持续生火，就能建成熏房。房间越大，需要的篝火越多；每 7×7×7 格空间需要一处篝火。
 
-本章节在当前可读取语言资源中没有中文正文。相关材料和加工条件可在下方中文配方摘要查询；原文保留供核对。
+烟熏
 
-<details><summary>查看手册原文与来源</summary>
+挂在熏房里的肉和鱼经过一段时间的熏制后，会变成烟熏食物。带有[已烟熏]标记的食物比普通食物保存得更久。只要烟熏食物仍挂在晾晒架上，且熏房一直生着火，就能无限期保存，代价是持续消耗木柴。
 
-来源：`assets/cottageindustry/config/handbook/dryingrack.json`。
+## 手册 5：发酵筒仓
 
-Drying Rack
 
-Racks and hung meat
+发酵筒仓
 
-A  [handbook://block-cottageindustry:dryingrack] Drying rack dries things faster than leaving them out. It is 3 blocks wide, 2 blocks deep, and two blocks tall. Use rightmouse to hang one item and ctrl + rightmouse to hang a stack of items at a time. Using an empty hand, you can remove items from the rack.
+一个筒仓就够了，何必装满二十个木桶？
 
-Drying speed
+[handbook://block-cottageindustry:fermentationsilo-base-north] 发酵筒仓能批量发酵液体，并将大量液体集中储存。它也适合储存盐水等液体，再分装到木桶中。
 
-Items dry on racks at various speeds depending on their surroundings. Temperature, wind speed, smoke, rain, and shelter all play a role in determining how fast items cure.
+搭建筒仓
 
-Building a smokehouse
+先放置 [handbook://block-cottageindustry:fermentationsilo-stilts-north] 支柱或 [handbook://block-cottageindustry:fermentationsilo-base-north] 底座。支柱只起装饰作用，可以把筒仓垫高，造得像水塔一样。底座才是筒仓功能部分的起点。在底座上叠放 [handbook://block-cottageindustry:fermentationsilo-section-north] 仓体，每节增加一格高度。每座筒仓最多可叠 11 节仓体，每节增加 250 升容量。筒仓没有自带盖子，需要自行用实体方块封顶。强烈建议留一扇活板门，方便从上方灌入液体。
 
-To build a smokehouse, put drying racks in a sealed room with an actively burning fire. You will need more firepits depending on how large the room is (1 Firepit per 7x7x7 blocks of space).
+环境条件
 
-Smoking
+只有所有开口都封住、活板门也关好时，筒仓才会发酵液体。如果筒仓敞开并接触空气，苹果酒等已发酵的液体，以及正在发酵的果汁，都会逐渐变成醋。没有屋顶，或下雨时活板门开着，筒仓还会积存雨水。
 
-Meat and fish hung in a smokehouse will become smoked after a short period of curing. [Smoked] food items have longer shelf-life than normal. When smoked food is hanging on a drying rack in an active smokehouse, the food is preserved indefinitely at the cost of firewood.
+使用筒仓
 
-</details>
+爬上梯子，手持装有液体的桶，对筒仓顶部按rightmouse即可倒入。也可以让龙头直接向筒仓内排液。需要固体材料的配方也从顶部加料，例如酿造啤酒用的面粉，或配制盐水用的盐。手持材料对顶部按rightmouse添加一个，或按ctrl + rightmouse添加一整堆。筒仓信息会显示液体还需要多少材料。空手按shift + rightmouse可取回材料。要取出液体，需在筒仓底部安装 [handbook://item-cottageindustry:spigot-copper] 龙头或 [handbook://item-cottageindustry:bung] 木塞。新装的龙头在用锤子敲紧前会滴漏。装好后，在龙头下方放置木桶或水桶，对龙头按rightmouse即可自动向容器注液。使用龙头时，容器装满后龙头会自动关闭。 [handbook://item-cottageindustry:bung] 木塞虽然便宜，却无法自动止流。
 
-## 手册 5：家庭工坊游戏内手册 5
+提示：尽量别掉进筒仓里。相信这会是个好主意。
 
-本章节在当前可读取语言资源中没有中文正文。相关材料和加工条件可在下方中文配方摘要查询；原文保留供核对。
+## 手册 6：谷物筒仓
 
-<details><summary>查看手册原文与来源</summary>
 
-来源：`assets/cottageindustry/config/handbook/fermentationsilo.json`。
+谷物筒仓
 
-Fermentation Silo
+人类文明的象征
 
-Why fill twenty barrels when one will do?
+谷物筒仓用于大量储存干货，每次只能存放一种物品。谷物、面粉、粉末、豆类、粗粉、堆肥等都可以放入。谷物等干燥易腐食物在筒仓中的保存效果，甚至优于放在地窖里的陶罐。
 
-A  [handbook://block-cottageindustry:fermentationsilo-base-north] fermentation silo ferments liquids in bulk and can store a considerable amount of fluid in one place. They are also useful for storing and dispensing fluid, such as brine, into barrels.
+搭建筒仓
 
-Building the silo
+先放置 [handbook://block-cottageindustry:staddlestone-granite] 防鼠柱石、 [handbook://block-cottageindustry:siloraiser-north] 谷物筒仓支架、 [handbook://block-cottageindustry:silostilt] 谷物筒仓支柱，或直接放置谷物筒仓底座。柱石、支架和支柱只起装饰作用，可以将筒仓垫离地面，呈现传统粮仓防鼠的架高结构。底座才是筒仓功能部分的起点。在底座上叠放仓体，每节增加一格高度和 16 堆容量。筒仓应配上屋顶，可以自行用方块搭建，也可以使用华丽又昂贵的预制铜仓顶。强烈建议留一扇活板门，方便从上方倒入干货。
 
-To start building your silo, you must place either  [handbook://block-cottageindustry:fermentationsilo-stilts-north] stilts or a  [handbook://block-cottageindustry:fermentationsilo-base-north] stand. Stilts are purely decorative and help raise your tower into the sky, like a water tower would be. The stand starts the business portion of the silo. Placing  [handbook://block-cottageindustry:fermentationsilo-section-north] sections on top of the stand builds the silo in single block-layer increments. Each silo can be up to 11 sections tall. Each section adds 250 litres of capacity. The silo has no lid and you must build one yourself with whatever solid blocks you so desire. A trapdoor is highly recommended so you may pour fluid into the silo easily.
+筒仓种类
 
-Environment
+不同谷物筒仓各有所长。 [handbook://block-cottageindustry:grainsilo-small-base-clean-north] 小型谷物筒仓是方形木框架结构，最多可叠 3 节仓体。两种大型筒仓均为圆柱形，可以建得更高。 [handbook://block-cottageindustry:grainsilo-wood-base-clean-north] 大型木制谷物筒仓最多可叠 10 节仓体； [handbook://block-cottageindustry:grainsilo-brick-base-clean-north] 大型砖制谷物筒仓最多可叠 16 节。砖制筒仓达到一定高度后会出现白色花纹，玩家可以调整其样式。手持 [handbook://item-stone-chalk] 白垩岩石块按rightmouse可切换白色环纹，按shift + rightmouse可轮换不同图案。
 
-The silo only ferments fluids while every opening is covered and trapdoors are shut. Fermented fluids such as cider, and juice on its way to becoming one, will turn to vinegar if the silo is left open to the air. If the silo has no roof, or the trap door is open during rain, it will fill with water.
+储粮条件
 
-Using the silo
+要获得最佳保鲜效果，务必为筒仓盖好屋顶。暴露在室外环境中，尤其是淋雨时，仓内食物的腐败速度会变为原来的四倍。
 
-To fill the silo, one must climb the ladder and rightmouse the top with a bucket of fluid to pour in. Spigots emptying into the silo are another handy way to fill the tower. Recipes that need an item, such as flour for ale or salt for brine, take it the same way. Use rightmouse on the top with the item to add one, or ctrl + rightmouse to add a stack. The info shows how many the liquid needs. shift + rightmouse with an empty hand takes the items back out. To take liquid out, one must attach a  [handbook://item-cottageindustry:spigot-copper] spigot or  [handbook://item-cottageindustry:bung] bung to the bottom of the silo. A new spigot drips until it is hammered in. Once fitted, set a barrel or bucket underneath the spigot and use rightmouse on the spigot itself. Fluid from the silo will pour into your smaller vessel automatically and if you are using a spigot, it shuts itself once the smaller vessel is full. A  [handbook://item-cottageindustry:bung] bung is a cheap tap, but it never shuts on its own.
+装入物品
 
-Tip: Maybe don't fall into a silo? Probably a good idea.
+沿梯子爬到顶部，瞄准仓内，按rightmouse逐个加入物品，按ctrl + rightmouse加入一整堆；也可以手持 [handbook://block-cottageindustry:sack] 麻袋按rightmouse，倒入袋中物品。直接扔进去的物品也会被收纳，还可以通过滑槽或漏斗从顶部进料。
 
-</details>
+取出物品
 
-## 手册 6：家庭工坊游戏内手册 6
+对筒仓底座附近的拉环按rightmouse，即可开关底部的出料口。开启后，粮食会落入正下方的麻袋、箱子、食槽、木桶或漏斗。在出口下放一个空麻袋，它就会挂在出口处，直到装满。下方没有容器时，粮食会直接落到地面上。还可以在支撑筒仓的地板底面安装 [handbook://block-cottageindustry:mealspout-north] 出粉槽，在筒仓下层的房间里接取粮食。
 
-本章节在当前可读取语言资源中没有中文正文。相关材料和加工条件可在下方中文配方摘要查询；原文保留供核对。
+提示：最早存入的粮食会优先排出。
 
-<details><summary>查看手册原文与来源</summary>
+## 手册 7：杠杆压榨机
 
-来源：`assets/cottageindustry/config/handbook/grainsilo.json`。
 
-Grain Silo
+杠杆压榨机
 
-The symbol of mankind
+巨梁一压，榨出满城金黄
 
-A grain silo stores dry goods in bulk, one item-type at a time. Grain silos can be filled with grain, flour, powders, beans, meal, compost, among other things. Dry perishables, such as grain, keep better in grain silos than in a storage vessel in a cellar.
+[handbook://block-cottageindustry:leverpress-north] 杠杆压榨机用于批量压榨果泥。长横梁的一端固定，另一端由木螺杆向下拉动；转动带握柄的手轮即可驱动螺杆。这台庞然大物需要长 9 格、宽 3 格、高 6 格的空地，是苹果酒作坊的核心设备。
 
-Building the silo
+搭建
 
-To start building your silo, you must place either  [handbook://block-cottageindustry:staddlestone-granite] Staddles,  [handbook://block-cottageindustry:siloraiser-north] Grain silo raisers,  [handbook://block-cottageindustry:silostilt] Grain silo stilts or a Grain silo base. Staddles, raisers, and stilts are purely decorative and help raise your silos off the ground to prevent from rats getting in. The base starts the business portion of the grain silo. Placing grain silo sections on top of the base build the silo in single-block increments. Each of these layers adds 16 stack of capacity to the structure. The silo should be fitted with a roof made of player-built blocks or the ever-gaudy and expensive copper prefab roofs. A trapdoor is highly recommended so you may pour dry goods into the silo easily.
+先放置压榨底座，再依次手持 [handbook://item-cottageindustry:pressbeam] 压榨横梁和 [handbook://item-cottageindustry:pressscrew] 压榨螺杆，对底座按rightmouse进行安装。也可以在集汁盘上安装 [handbook://item-cottageindustry:spigot-copper] 龙头或 [handbook://item-cottageindustry:bung] 木塞。
 
-Variants
+铺设压榨饼层
 
-There are many kinds of grain silo, each with their own uses. The  [handbook://block-cottageindustry:grainsilo-small-base-clean-north] Small grain silo is square and timber framed, and can be built up to 3 sections tall. The large grain silos, both of witch are cylindrical, can be built much taller. The  [handbook://block-cottageindustry:grainsilo-wood-base-clean-north] large wood grain silo is made of wood and can take up to 10 sections. The  [handbook://block-cottageindustry:grainsilo-brick-base-clean-north] Large brick grain silo is made out of bricks and can be built 16 section tall. The brick silo also allows the player to edit the white pattern that appears once the brick silo reaches certain heights. rightmouse with  [handbook://item-stone-chalk] chalk stone toggles the white patterns while shift + rightmouse cycles through different designs.
+要将果泥榨成果汁，需先用布或干草将果泥逐层叠成压榨饼。手持 [handbook://item-cloth-plain] 布料或干草，对底座按rightmouse铺上一层，再加入果泥。重复这个过程，最多可铺 8 层，也可以只做少量。最上面应盖一层 [handbook://block-cottageindustry:pressspacer] 压榨垫块。布料能让更多果汁流出；干草的榨汁效率稍低，但成本更便宜。
 
-Keeping grain
+压榨垫块
 
-It is important to keep a roof over the grain silo to allow for optimal preservation. Open to the elements, especially rain, food in the silo spoils four times as fast.
+[handbook://block-cottageindustry:pressspacer] 压榨垫块能减少转动手轮的工夫，也让你无须每次都装满果泥。用垫块垫高较矮的压榨饼层，可缩短横梁下压的行程。无论做多少层，最上面都必须至少盖一层垫块。
 
-Filling the silo
+压榨
 
-Climb the ladder to the top of the structure. Looking to the silo bin, use rightmouse to add one item at a time, ctrl + rightmouse to add a full stack, and rightmouse with a  [handbook://block-cottageindustry:sack] sack to add the sack contents. Items thrown in go in too, as does a chute or hopper feeding into the top.
+对手轮按住rightmouse使横梁下降；随时都可以按shift + rightmouse将其抬起。横梁压住饼层后，果汁会迅速流出并汇入集汁盘。如果没有安装木塞或龙头，果汁就会从出液孔流入下方放置的容器。
 
-Emptying
+提示：压榨用过的布取回时都会变成 [handbook://item-cottageindustry:soiledcloth] 脏布。脏布在腐烂前仍可继续用于压榨，也可以拿去堆肥，或放入水中洗回普通布料。
 
-Use rightmouse on the pull ring located towards the base of the silo to toggle the grain chute, which is located underneath the silo. While the grain chute is open, grain runs into whatever is directly below the chute, this could be a sack, chest, trough, barrel or hopper. An empty sack set under the mouth hangs from it until it is full. With nothing under the chute, the grain pours out onto the ground. A  [handbook://block-cottageindustry:mealspout-north] meal chute may be placed under the floor blocks the silo is resting on to access the grain in room below the silo.
+## 手册 8：磨盘
 
-Tip: Grain comes out oldest first.
 
-</details>
+磨盘
 
-## 手册 7：家庭工坊游戏内手册 7
+花结谷粒，谷磨成粉，辛劳尽在其中
 
-本章节在当前可读取语言资源中没有中文正文。相关材料和加工条件可在下方中文配方摘要查询；原文保留供核对。
+大型磨盘的研磨速度远快于 [handbook://block-quern-granite] 手摇石磨。 [handbook://block-cottageindustry:millstones-granite-north] 下磨盘和 [handbook://item-cottageindustry:runnerstone-granite] 上磨盘组装后占地宽 3 格、深 3 格。先放下磨盘，再手持上磨盘按rightmouse安装，就搭好了基本结构。
 
-<details><summary>查看手册原文与来源</summary>
+动力
 
-来源：`assets/cottageindustry/config/handbook/leverpress.json`。
+磨盘由中心的传动轴驱动，传动轴可以从上方或下方接入。这么大的磨盘需要 [handbook://block-windmillrotor-wood-north] 风车、 [handbook://block-waterwheel-3m-north] 水车或 [handbook://block-cottageindustry:largewaterwheel-clean-north] 大型水车提供动力，无法手动转动。
 
-Lever Press
+研磨
 
-By Great Lever's weight, a town is sustained in gold
+谷物以及手摇石磨能研磨的其他物品都可以加入。按rightmouse添加一个，按ctrl + rightmouse添加一整堆，或手持 [handbook://block-cottageindustry:sack] 麻袋按rightmouse倒入袋中物品。磨盘本身一次只能容纳一堆材料，安装 [handbook://item-cottageindustry:millhopper] 磨坊漏斗可以扩大容量。未安装 [handbook://item-cottageindustry:milltun] 磨盘罩时，研磨产物会随机掉落在磨盘周围。
 
-The  [handbook://block-cottageindustry:leverpress-north] lever press squeezes mash in bulk. A long beam pinned at its tail is drawn down at the far end by a wooden screw, wrought down with a pegged wheel. It needs a clear space 9 blocks long, 3 blocks wide and 6 blocks tall. It is a monster, the heart of every cider mill.
+磨盘罩
 
-Building
+手持磨盘罩按rightmouse即可安装。 [handbook://item-cottageindustry:milltun] 磨盘罩是一个简易的桶状罩，用于集中收集研磨产物。只安装罩子时，产物没有出口，装满后磨盘便会堵住。安装 [handbook://block-cottageindustry:mealspout-north] 出粉槽后，产物就能有序地排出。
 
-To start building this rather large machine, you must first place the bed. Then, rightmouse it with the  [handbook://item-cottageindustry:pressbeam] press beam and then a  [handbook://item-cottageindustry:pressscrew] press screw. You may also want to add a  [handbook://item-cottageindustry:spigot-copper] spigot or a  [handbook://item-cottageindustry:bung] bung at the collection tray.
+出粉槽
 
-The cheese
+将 [handbook://block-cottageindustry:mealspout-north] 出粉槽安装在磨盘下方地板的底面。它向外延伸 2 格、向下延伸 3 格，坡度足够陡，能让产物依靠重力顺畅滑下。产物会从槽口进入正下方的容器，包括板条箱、箱子和 [handbook://block-cottageindustry:sack] 麻袋。
 
-To press mash into juice, you must build what is called a "cheese". Simply rightmouse  [handbook://item-cloth-plain] plain cloth or dry grass on the bed, then add your mash. This process repeats up to 8 times, though, you can do smaller batches. The final layer should be a  [handbook://block-cottageindustry:pressspacer] spacer. Plain cloth allows more fluid to pass through while dry grass is slightly inefficient but cheaper.
+磨坊漏斗
 
-Spacers
+手持 [handbook://item-cottageindustry:millhopper] 磨坊漏斗，对磨盘罩按rightmouse即可安装。漏斗可容纳 8 堆能够研磨的物品。谷物顺着漏斗流入喂料槽，拨杆不断敲击喂料槽，使谷物均匀落入磨盘。落到或放到漏斗上的 [handbook://block-cottageindustry:sack] 麻袋，只要装的是可研磨物品，就会自动倒空；空麻袋随后会掉到地上。
 
-[handbook://block-cottageindustry:pressspacer] Press spacers allow you to rapidly use the lever press without having to fiddle with the hand wheel or commit to large batches. A small cheese can be made tall using spacers so that the lever has less distance to travel overall. All cheeses require at least one spacer to be used as a last layer cap.
+提示：在服务器上，这套磨盘不会丢失物品；普通石磨则可能在玩家远离时丢失产物，这是原版掉落物存在的问题。
 
-Pressing
+## 手册 9：石制水果碾磨机
 
-Hold rightmouse on the hand wheel to bring the beam down, and shift + rightmouse to raise it at any time. Once the beam is brought down onto the cheese, juice quickly pours out of the cheese and collects in the tray. If you do not have a bung or spigot, the juice runs out of the tap hole into whatever sits below it.
 
-Tip: Each cloth used in a cheese comes back as  [handbook://item-cottageindustry:soiledcloth] soiled. Soiled cloth can be reused in the machine until it rots. You can compost soiled cloth or clean it in water to get back regular cloth.
+石制水果碾磨机
 
-</details>
+一圈又一圈
 
-## 手册 8：家庭工坊游戏内手册 8
+[handbook://block-cottageindustry:stonemill-granite] 石制水果碾磨机既能碾碎软质水果，也能处理那些太硬、不适合直接踩压或用普通榨汁机压榨的水果。机体宽 3 格、深 3 格，横梁转动时需要周围留出 7×7 格范围的环形空间。
 
-本章节在当前可读取语言资源中没有中文正文。相关材料和加工条件可在下方中文配方摘要查询；原文保留供核对。
+碾磨
 
-<details><summary>查看手册原文与来源</summary>
+石制水果碾磨机需要安装 [handbook://item-cottageindustry:millstone-granite] 碾石，手持碾石对机器按rightmouse即可装上。手持水果按rightmouse添加，也可以直接将水果扔进去。随后走向横梁，用身体推动它前进；碾石会随着横梁转动，将槽中的水果碾碎。
 
-来源：`assets/cottageindustry/config/handbook/millstones.json`。
+果泥
 
-Millstones
+空手按shift + rightmouse取出富含果汁的果泥，再放入 [handbook://block-fruitpress-ns] 榨汁机或 [handbook://block-cottageindustry:leverpress-north] 杠杆压榨机压榨。碾磨后的果泥比完整水果能多榨出一些果汁。
 
-Flower to grain to flour to pain
+## 手册 10：货物储存容器
 
-A mill grinds far faster than a  [handbook://block-quern-granite] hand-quern. The  [handbook://block-cottageindustry:millstones-granite-north] bedstone and  [handbook://item-cottageindustry:runnerstone-granite] upper millstone together are 3 block wide and 3 block deep. Placing the bedstone first, the rightmouse with a upper millstone creates a basic mill.
 
-power
+货物储存容器
 
-The mill is turned by an axle at the middle of the stone, the axle can come from above the stone or alternatively below the stone. Mills of this size require power from a  [handbook://block-windmillrotor-wood-north] windmill or  [handbook://block-waterwheel-3m-north] waterwheel or  [handbook://block-cottageindustry:largewaterwheel-clean-north] large water wheel, it cannot be turned by hand.
+后勤充足，胜券在握
 
-Grinding
+这类储存容器只有半格高，便于搬运货物。每种容器都只能存放适合它的物品，例如苹果放进 [handbook://block-cottageindustry:producecrate] 农产品箱，面粉装进 [handbook://block-cottageindustry:sack] 麻袋。空容器无论放在世界中还是物品栏里，都能整齐堆叠。
 
-Add grain or anything a quern can grind with rightmouse to add one item at a time, ctrl + rightmouse to add a full stack, and rightmouse with a  [handbook://block-cottageindustry:sack] sack to add the sack contents. A mill can only hold a stack of items at a time, though this can be upgraded with a  [handbook://item-cottageindustry:millhopper] mill hopper. The product of the mill is dropped randomly around the stone, unless it is fitted with a  [handbook://item-cottageindustry:milltun] mill tun.
+保鲜
 
-Mill tun
+每个容器可装一整堆物品，自身在物品栏中只占一格。食物放进合适的容器后，腐败速度会比露天存放更慢。按ctrl + rightmouse可将容器直接拿进物品栏，也可以在世界中将它们堆放成方块，或放进陶罐。将这类容器放进陶罐或地窖，还能进一步提升保鲜效果，方便准备远行补给或整理地窖。
 
-To fit a tun onto the mill, use rightmouse. A  [handbook://item-cottageindustry:milltun] mill tun is a simple barrel used for the tidy collection of product produced by the mill. With just the tun fitted, the product has no where to go and the mill will jam once full. Fitting the mill with a  [handbook://block-cottageindustry:mealspout-north] meal spout allows products to neatly funnel out of the mill.
+自动化
 
-Meal Spout
+利用机器并合理布置设施，可以自动装填或倒空许多此类容器。它们可以沿 [handbook://block-cottageindustry:cellarskid-north-legs] 地窖滑道滑下，在失去足够速度的位置停下并堆积。如果 [handbook://block-cottageindustry:sack] 麻袋滑过 [handbook://item-cottageindustry:millhopper] 磨坊漏斗，袋中物品会倒入漏斗，之后需要处理留下的空袋。由机器直接装填的容器，如果正下方有滑道，装满后就会从机器落到滑道上。
 
-Place a  [handbook://block-cottageindustry:mealspout-north] meal spout on the underside of the floor below the mill. It runs at a steep 2 block deep 3 block down angle to allow for product to be easily funneled out through gravity without getting stuck. At the end of the spout, product from the mill is funneled into whatever contain is directly under it, including crates, chests, and  [handbook://block-cottageindustry:sack] sacks.
+## 手册 11：木槽与踩果池
 
-The hopper
 
-A  [handbook://item-cottageindustry:millhopper] mill hopper is placed onto the tun using rightmouse. The hopper itself can hold 8 stacks of quernable items. Grain runs down the hopper, into the 'shoe', which is tapped repeatedly by the damsel, resulting in the steady flow of grain.  [handbook://block-cottageindustry:sack] Sacks that land on, or are placed onto the hopper will be emptied automatically if their contents can be milled, the empty sack itself is dropped onto the floor.
+木槽与踩果池
 
-Tip: the Mill is lossless on servers while the quern has tendency to lose items when at far distances (a vanilla bug with loose items).
+脱下靴子，开始踩吧
 
-</details>
+[handbook://block-cottageindustry:treadingtub] 木槽和 [handbook://block-cottageindustry:lagar-granite] 石制踩果池是两种多用途农用设施，可以批量踩碎软质水果、混合染料和鞣制皮革。两者都宽 3 格、深 3 格。
 
-## 手册 9：家庭工坊游戏内手册 9
+踩压水果
 
-本章节在当前可读取语言资源中没有中文正文。相关材料和加工条件可在下方中文配方摘要查询；原文保留供核对。
+手持水果按rightmouse添加一个，或按ctrl + rightmouse添加一整堆。爬进去尽情踩踏吧：走动、跳跃，用身体的重量踩碎脚下的水果。踩压无法完全榨干水果；流出的自流汁会在底部形成单独一层，果泥也会逐渐堆积。果泥中仍有残留果汁，值得收集起来，再用机械压榨。苹果、梨等硬质水果不容易踩碎，请用 [handbook://block-cottageindustry:stonemill-granite] 石制水果碾磨机处理。
 
-<details><summary>查看手册原文与来源</summary>
+排出液体
 
-来源：`assets/cottageindustry/config/handbook/stonemill.json`。
+在槽体侧面安装 [handbook://item-cottageindustry:spigot-copper] 龙头或 [handbook://item-cottageindustry:bung] 木塞，即可控制排液。在出液口正下方放置容器，就能接住槽内流出的液体。空手按shift + rightmouse可取出残余果泥。
 
-Stone Cider Mill
+浸泡、染色与鞣制
 
-Round and round it goes
+木槽和石制踩果池也能处理需要液体的配方。许多木桶配方，例如鞣革、染色和制作媒染剂，都可以在这里批量完成。先用桶倒入液体，再加入兽皮、布料、原木或其他材料。槽体信息会显示还缺多少液体或物品。两者比例合适后，就会自动开始浸泡。
 
-The  [handbook://block-cottageindustry:stonemill-granite] stone cider mill crushes soft and also hard fruits that are too firm to tread or press traditionally. It is 3 blocks wide, and 3 blocks deep, and the beam needs a clear 7x7 block ring around it to operate.
-
-Milling
-
-A stone cider mill requires a  [handbook://item-cottageindustry:millstone-granite] runner stone, rightmouse the mill to set it into place. Add fruit with rightmouse, or simply throw it in. To crush your fruit, walk into the beam, using your full body weight to move it forward. As you push, the stone crushes the fruit in the trough.
-
-Mash
-
-shift + rightmouse with an empty hand takes out the fluid-rich mash. Press it in a  [handbook://block-fruitpress-ns] fruit press or a  [handbook://block-cottageindustry:leverpress-north] lever press. Milled mash gives a little more juice than whole fruit.
-
-Powering
-
-The stone cider mill can also be driven by other power sources. Fit an  [handbook://item-cottageindustry:millsweep] animal-powered sweep with rightmouse to let animals turn the mill for you. See  [handbook://craftinginfo-animalpower] Animal Power.
-
-To run a stone cider mill from a mechanical power network, fit an axle above or below the center of the structure. Stone cider mills are heavy and need the same force to turn as millstones.
-
-</details>
-
-## 手册 10：家庭工坊游戏内手册 10
-
-本章节在当前可读取语言资源中没有中文正文。相关材料和加工条件可在下方中文配方摘要查询；原文保留供核对。
-
-<details><summary>查看手册原文与来源</summary>
-
-来源：`assets/cottageindustry/config/handbook/stowage.json`。
-
-Stowage containers
-
-Good logistics wins wars
-
-A stowage container is a half-block storage item that allows for easy transportation of goods. Each stowage container can only store items related to that storage method, for example, apples go into a  [handbook://block-cottageindustry:producecrate] produce crate while flour goes into a  [handbook://block-cottageindustry:sack] sack. Empty stowage containers stack nicely on themselves in-world and in inventory.
-
-Preservation
-
-Stowage containers can hold a full stack of an items and take up 1 slot of inventory space per container. Items within the correct stowage container receive a better perishing rate than if the item was stored open-air. Stowage containers may be directly held in the inventory through the use of ctrl + rightmouse, placed in-world as stackable blocks, or placed in vessels. The preservation power of stowage vessels can be further exploited by being placed in a vessel or a cellar. These containers allow you to plan long trips or simply organize your cellar.
-
-Automation
-
-Many stowage containers can be automatically filled and emptied through the use of machines and clever building. Stowage containers can be slid down  [handbook://block-cottageindustry:cellarskid-north-legs] cellar skids. Vessels that are slid down skids pile up wherever they lose enough momentum. If a  [handbook://block-cottageindustry:sack] sack slides over a  [handbook://item-cottageindustry:millhopper] mill hopper, the sack will be drained and the empty container will thus need to be dealt with. Containers directly filled by machines will come off the machine onto skids, if skids are directly below them.
-
-Hay bales
-
-A  [handbook://block-cottageindustry:haybale] hay bale is 64 dry grass tied with two ropes. Bales stack and slide like produce crates. rightmouse a large trough with a bale to fill it with dry grass. Cut a bale open with a knife in the crafting grid to get the dry grass back.
-
-</details>
-
-## 手册 11：家庭工坊游戏内手册 11
-
-本章节在当前可读取语言资源中没有中文正文。相关材料和加工条件可在下方中文配方摘要查询；原文保留供核对。
-
-<details><summary>查看手册原文与来源</summary>
-
-来源：`assets/cottageindustry/config/handbook/treadingvat.json`。
-
-Tubs and Lagars
-
-Kick off your boots
-
-The  [handbook://block-cottageindustry:treadingtub] wooden tub and the  [handbook://block-cottageindustry:lagar-granite] stone lagar are two versatile farming implements. These two machines allow you to crush soft fruit, mix dyes and tan leather in bulk. Both the tub and lagar are 3 blocks wide and 3 blocks deep.
-
-Treading
-
-rightmouse with fruit to add one or use ctrl + rightmouse to add a stack. Climb in and go nuts; walk around, jump, use the weight of your body to crush the fruit underneath your feet. This process is not perfect, as "free-run" juice collects in the bottom, a separate layer, the mash also builds up. This mash still has residual liquid so it is worth collecting and pressing in a more mechanical system. Apples, pears and other hard fruits are too hard to tread well, use a  [handbook://block-cottageindustry:stonemill-granite] stone cider mill for these.
-
-Draining
-
-Attach a  [handbook://item-cottageindustry:spigot-copper] spigot or  [handbook://item-cottageindustry:bung] bung to the side of the vat to allow for liquid drainage. Placing a vessel directly underneath the spigot will collect whatever liquid was in the vat. To remove the residual mash, shift + rightmouse with an empty hand.
-
-Soaking, dyeing, tanning
-
-The wooden tub and stone lagar can be used in liquid-based recipes. Many barrel recipes, such as tanning, dyeing and mordants, can be produced in bulk using these vats. Pour in a liquid with a bucket then add the hides, cloth, logs or other items. The tub info shows how much more of either item is needed. Once the two are in the right ratio, it starts soaking automatically.
-
-Tip: An open tub or lagar fills with rainwater, this can dilute or ruin anything you are currently trying to soak. Keep a roof over it while it works.
-
-</details>
+提示：露天的木槽或踩果池会积存雨水，可能稀释甚至毁掉正在浸泡的材料。使用时请在上方搭好屋顶。
 
 ## 配方清单
 
@@ -390,16 +305,15 @@ Tip: An open tub or lagar fills with rainwater, this can dilute or ruin anything
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
 | 投入 1 | 水<br><code>game:waterportion</code> | 0.5 升 | 未声明附加限制 |
-| 投入 2 | 名称未汉化（见物品代码）<br><code>cottageindustry:soiledcloth</code> | 1 | 未声明附加限制 |
+| 投入 2 | 脏布<br><code>cottageindustry:soiledcloth</code> | 1 | 未声明附加限制 |
 | 产物 | 布料<br><code>game:cloth-plain</code> | 1 | 未声明附加限制 |
 
 **加工条件：** 密封时间（游戏小时）：2。
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/barrel/soiledcloth.json`
 
 ```json
 {
@@ -442,9 +356,8 @@ Tip: An open tub or lagar fills with rainwater, this can dilute or ruin anything
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/barrel/whitedye-fromborax.json`
 
 ```json
 [
@@ -476,12 +389,12 @@ Tip: An open tub or lagar fills with rainwater, this can dilute or ruin anything
 
 </details>
 
-<details><summary>名称未汉化（见物品代码） · barrelchock</summary>
+<details><summary>木桶止挡 · barrelchock</summary>
 
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
 | 投入 F | 木柴<br><code>game:firewood</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:barrelchock</code> | 2 | 未声明附加限制 |
+| 产物 | 木桶止挡<br><code>cottageindustry:barrelchock</code> | 2 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：2；网格高度：2。
 
@@ -492,9 +405,8 @@ F_
 _S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/barrelchock.json`
 
 ```json
 [
@@ -595,9 +507,8 @@ CPC	CPC
 SN
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/barrelrun.json`
 
 ```json
 [
@@ -687,12 +598,12 @@ SN
 
 </details>
 
-<details><summary>名称未汉化（见物品代码） · bung</summary>
+<details><summary>木塞 · bung</summary>
 
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
 | 投入 F | 木柴<br><code>game:firewood</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:bung</code> | 2 | 未声明附加限制 |
+| 产物 | 木塞<br><code>cottageindustry:bung</code> | 2 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：2；网格高度：2。
 
@@ -703,9 +614,8 @@ K_
 _F
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/bung.json`
 
 ```json
 [
@@ -757,9 +667,8 @@ _F
 PFP	PNP	PFP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/compostbay.json`
 
 ```json
 {
@@ -793,14 +702,14 @@ PFP	PNP	PFP
 
 </details>
 
-<details><summary>名称未汉化（见物品代码） · dryingrack</summary>
+<details><summary>晾晒架 · dryingrack</summary>
 
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
 | 投入 S | 木棍<br><code>game:stick</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 | 投入 P | 变体材料（按代码匹配）<br><code>game:plank-*</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 | 投入 F | 木柴<br><code>game:firewood</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:dryingrack</code> | 1 | 未声明附加限制 |
+| 产物 | 晾晒架<br><code>cottageindustry:dryingrack</code> | 1 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：3；网格高度：3。
 
@@ -810,9 +719,8 @@ PFP	PNP	PFP
 SPS	SFS	SPS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/dryingrack.json`
 
 ```json
 [
@@ -900,9 +808,8 @@ PPP	SNS	PPP
 FPF	_N_	F_F
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/fermentationsilo.json`
 
 ```json
 [
@@ -1039,9 +946,8 @@ G
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/gears.json`
 
 ```json
 [
@@ -1105,13 +1011,13 @@ G
 
 </details>
 
-<details><summary>变体材料（按代码匹配）、名称未汉化（见物品代码） · grainsilo</summary>
+<details><summary>变体材料（按代码匹配）、名称未汉化（见物品代码）、谷物筒仓支柱 · grainsilo</summary>
 
 **方案 1**
 
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
-| 投入 F | 名称未汉化（见物品代码）<br><code>cottageindustry:pitchfork</code> | 未声明；按配方类型判定 | 工具；耐久消耗：4 |
+| 投入 F | 干草叉<br><code>cottageindustry:pitchfork</code> | 未声明；按配方类型判定 | 工具；耐久消耗：4 |
 | 投入 R | 变体材料（按代码匹配）<br><code>game:rock-*</code> | 未声明；按配方类型判定 | 允许变体：['andesite', 'chalk', 'chert', 'conglomerate', 'limestone', 'claystone', 'granite', 'sandstone', 'shale', 'basalt', 'peridotite', 'phyllite', 'slate', 'bauxite'] |
 | 产物 | 变体材料（按代码匹配）<br><code>cottageindustry:staddlestone-{rock}</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 
@@ -1262,7 +1168,7 @@ NCN	C_C	CCC
 | --- | --- | --- | --- |
 | 投入 L | 变体材料（按代码匹配）<br><code>game:log-placed-*-ud</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 | 投入 P | 变体材料（按代码匹配）<br><code>game:plank-*</code> | 2 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:silostilt</code> | 未声明；按配方类型判定 | 未声明附加限制 |
+| 产物 | 谷物筒仓支柱<br><code>cottageindustry:silostilt</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：3；网格高度：3。
 
@@ -1288,9 +1194,8 @@ LPL	PAP	LPL
 GMG	G_G	GMG
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/grainsilo.json`
 
 ```json
 [
@@ -1615,9 +1520,8 @@ GRG
 BK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/haybale.json`
 
 ```json
 [
@@ -1690,9 +1594,8 @@ F_
 F_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/haystack.json`
 
 ```json
 [
@@ -1744,9 +1647,8 @@ SHS
 BAB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/largewaterwheel.json`
 
 ```json
 [
@@ -1799,7 +1701,7 @@ BAB
 
 </details>
 
-<details><summary>名称未汉化（见物品代码） · leverpress</summary>
+<details><summary>名称未汉化（见物品代码）、压榨横梁、压榨螺杆、压榨木块、压榨垫块 · leverpress</summary>
 
 **方案 1**
 
@@ -1824,7 +1726,7 @@ PPP	LNL
 | --- | --- | --- | --- |
 | 投入 L | 变体材料（按代码匹配）<br><code>game:debarkedlog-*-ud</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 | 投入 H | 铁箍<br><code>game:hoop-iron</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:pressbeam</code> | 未声明；按配方类型判定 | 未声明附加限制 |
+| 产物 | 压榨横梁<br><code>cottageindustry:pressbeam</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：3；网格高度：3。
 
@@ -1841,7 +1743,7 @@ LHL	LLL	LHL
 | 投入 P | 铁板<br><code>game:metalplate-iron</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 | 投入 L | 变体材料（按代码匹配）<br><code>game:debarkedlog-*-ud</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 | 投入 R | 变体材料（按代码匹配）<br><code>game:rock-*</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:pressscrew</code> | 未声明；按配方类型判定 | 未声明附加限制 |
+| 产物 | 压榨螺杆<br><code>cottageindustry:pressscrew</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：3；网格高度：2。
 
@@ -1856,7 +1758,7 @@ _P_	LCR
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
 | 投入 L | 变体材料（按代码匹配）<br><code>game:debarkedlog-*-ud</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:pressblock</code> | 4 | 未声明附加限制 |
+| 产物 | 压榨木块<br><code>cottageindustry:pressblock</code> | 4 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：1；网格高度：2。
 
@@ -1870,9 +1772,9 @@ L	S
 
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
-| 投入 P | 名称未汉化（见物品代码）<br><code>cottageindustry:pressblock</code> | 未声明；按配方类型判定 | 未声明附加限制 |
+| 投入 P | 压榨木块<br><code>cottageindustry:pressblock</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 | 投入 N | 变体材料（按代码匹配）<br><code>game:metalnailsandstrips-*</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:pressspacer</code> | 1 | 未声明附加限制 |
+| 产物 | 压榨垫块<br><code>cottageindustry:pressspacer</code> | 1 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：3；网格高度：3。
 
@@ -1882,9 +1784,8 @@ L	S
 PPP	PNP	PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/leverpress.json`
 
 ```json
 [
@@ -2030,9 +1931,8 @@ PPP	PNP	PPP
 PN	P_	P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/mealspout.json`
 
 ```json
 [
@@ -2062,13 +1962,13 @@ PN	P_	P_
 
 </details>
 
-<details><summary>名称未汉化（见物品代码） · millhopper</summary>
+<details><summary>磨坊漏斗 · millhopper</summary>
 
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
 | 投入 P | 变体材料（按代码匹配）<br><code>game:plank-*</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 | 投入 N | 铁钉子和垫片<br><code>game:metalnailsandstrips-iron</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:millhopper</code> | 未声明；按配方类型判定 | 未声明附加限制 |
+| 产物 | 磨坊漏斗<br><code>cottageindustry:millhopper</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：3；网格高度：2。
 
@@ -2078,9 +1978,8 @@ PN	P_	P_
 PNP	PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/millhopper.json`
 
 ```json
 [
@@ -2125,9 +2024,8 @@ PNP	PPP
 H__	_C_	__R
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/millstone.json`
 
 ```json
 [
@@ -2212,9 +2110,8 @@ RRH	RRC
 RRH	RRC	_N_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/millstones.json`
 
 ```json
 [
@@ -2325,9 +2222,8 @@ FNF
 R_R
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/millsweep.json`
 
 ```json
 [
@@ -2365,13 +2261,13 @@ R_R
 
 </details>
 
-<details><summary>名称未汉化（见物品代码） · milltun</summary>
+<details><summary>磨盘罩 · milltun</summary>
 
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
 | 投入 P | 变体材料（按代码匹配）<br><code>game:plank-*</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 | 投入 N | 变体材料（按代码匹配）<br><code>game:metalnailsandstrips-*</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:milltun</code> | 未声明；按配方类型判定 | 未声明附加限制 |
+| 产物 | 磨盘罩<br><code>cottageindustry:milltun</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：3；网格高度：3。
 
@@ -2381,9 +2277,8 @@ R_R
 PNP	P_P	PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/milltun.json`
 
 ```json
 [
@@ -2413,12 +2308,12 @@ PNP	P_P	PPP
 
 </details>
 
-<details><summary>名称未汉化（见物品代码） · pitchfork</summary>
+<details><summary>干草叉 · pitchfork</summary>
 
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
 | 投入 S | 木棍<br><code>game:stick</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:pitchfork</code> | 未声明；按配方类型判定 | 未声明附加限制 |
+| 产物 | 干草叉<br><code>cottageindustry:pitchfork</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：3；网格高度：3。
 
@@ -2428,9 +2323,8 @@ PNP	P_P	PPP
 SKS	_S_	_S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/pitchfork.json`
 
 ```json
 {
@@ -2461,14 +2355,14 @@ SKS	_S_	_S_
 
 </details>
 
-<details><summary>名称未汉化（见物品代码） · producecrate</summary>
+<details><summary>农产品箱 · producecrate</summary>
 
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
 | 投入 P | 变体材料（按代码匹配）<br><code>game:plank-*</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 | 投入 S | 木棍<br><code>game:stick</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 | 投入 N | 变体材料（按代码匹配）<br><code>game:metalnailsandstrips-*</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:producecrate</code> | 1 | 未声明附加限制 |
+| 产物 | 农产品箱<br><code>cottageindustry:producecrate</code> | 1 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：3；网格高度：3。
 
@@ -2478,9 +2372,8 @@ SKS	_S_	_S_
 SSS	PNP	PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/producecrate.json`
 
 ```json
 [
@@ -2515,13 +2408,13 @@ SSS	PNP	PPP
 
 </details>
 
-<details><summary>名称未汉化（见物品代码） · sack</summary>
+<details><summary>麻袋 · sack</summary>
 
 | 用途／格位符号 | 材料或产物 | 数量 | 工具与变体限制 |
 | --- | --- | --- | --- |
 | 投入 T | 亚麻线<br><code>game:flaxtwine</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 | 投入 L | 变体材料（按代码匹配）<br><code>game:linen-*</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:sack</code> | 1 | 未声明附加限制 |
+| 产物 | 麻袋<br><code>cottageindustry:sack</code> | 1 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：2；网格高度：2。
 
@@ -2531,9 +2424,8 @@ SSS	PNP	PPP
 TK	L_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/sack.json`
 
 ```json
 [
@@ -2588,9 +2480,8 @@ TK	L_
 BBB	BLB	BNB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/stonemill.json`
 
 ```json
 [
@@ -2635,7 +2526,7 @@ BBB	BLB	BNB
 
 </details>
 
-<details><summary>名称未汉化（见物品代码）、变体材料（按代码匹配） · treadingvat</summary>
+<details><summary>木槽、变体材料（按代码匹配） · treadingvat</summary>
 
 **方案 1**
 
@@ -2643,7 +2534,7 @@ BBB	BLB	BNB
 | --- | --- | --- | --- |
 | 投入 P | 变体材料（按代码匹配）<br><code>game:plank-*</code> | 3 | 未声明附加限制 |
 | 投入 H | 变体材料（按代码匹配）<br><code>game:hoop-*</code> | 未声明；按配方类型判定 | 未声明附加限制 |
-| 产物 | 名称未汉化（见物品代码）<br><code>cottageindustry:treadingtub</code> | 未声明；按配方类型判定 | 未声明附加限制 |
+| 产物 | 木槽<br><code>cottageindustry:treadingtub</code> | 未声明；按配方类型判定 | 未声明附加限制 |
 
 **加工条件：** 网格宽度：3；网格高度：3。
 
@@ -2668,9 +2559,8 @@ P_P	P_P	PHP
 B_B	B_B	BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/grid/treadingvat.json`
 
 ```json
 [
@@ -2735,9 +2625,8 @@ B_B	B_B	BBB
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cottageindustry/recipes/smithing/spigot.json`
 
 ```json
 {

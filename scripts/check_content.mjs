@@ -9,17 +9,40 @@ const resolvePage = link => {
 }
 for (const i of [...nav,...Object.values(sidebar).flatMap(groups=>groups.flatMap(g=>g.items))]) assert(fs.existsSync(resolvePage(i.link)),i.link)
 for (const id of ['vsscsmod','vsscpmod','vsslssmod']) {
-  const src=read('docs/develop/sources/'+id+'.md')
-  assert.equal((src.match(/## 源码实现矩阵/g)||[]).length,1)
   assert(!read('docs/mods/entries/'+id+'.md').includes('| SHA-256 前 12 位 |'))
+  assert(!fs.existsSync('docs/develop/sources/'+id+'.md'))
 }
 const data=JSON.parse(read('docs/public/data/food-catalogue.json'))
+assert.equal(data.foods.length,352)
+assert.equal(data.calibrations.length,414)
+assert(!('patches' in data))
+assert(data.foods.every(f=>!('file' in f)))
+assert(data.calibrations.every(c=>!('Source' in c) && !('PortionBasis' in c)))
 assert.equal(data.calibrationNames.length,data.calibrations.length)
 assert.equal(data.foods.length,data.counts.foodRows)
 assert(data.calibrationNames.some(n=>n.some(s=>s.includes('胡萝卜'))))
 const mods=JSON.parse(read('docs/public/data/mod-catalogue.json'))
 assert.equal(mods.length,JSON.parse(read('scripts/inventory-manifest.json')).length)
 assert(mods.every(m=>m.title && m.category!=='待分类的新模组'))
+assert.equal(new Set(mods.map(m=>m.id)).size,mods.length)
+assert(mods.every(m=>Object.keys(m).sort().join(',')==='category,id,name,slug,title,version'))
+assert(read('docs/develop/api.md').includes('1.0.3'))
+assert(read('docs/develop/api.md').includes('RegisterFoodV1'))
+// Public pages and downloads must not expose extraction paths or package evidence.
+const publicFiles=[]
+const walkPublic=dir=>{for(const e of fs.readdirSync(dir,{withFileTypes:true})) {
+  if(e.name==='.vitepress') continue
+  const p=path.join(dir,e.name)
+  if(e.isDirectory()) walkPublic(p)
+  else if(/\.(md|json)$/.test(p)) publicFiles.push(p)
+}}
+walkPublic('docs')
+for(const file of publicFiles) {
+  const text=read(file)
+  assert(!/(?<![\w:/])[A-Za-z]:[\\/]/.test(text),file+': local drive path')
+  assert(!/本机目录已省略|package-evidence:start|SHA-256|\/develop\/source-inventory|\/develop\/sources\/|\/develop\/maintenance/.test(text),file+': extraction provenance')
+  assert(!/[\w/-]+\.cs(?::\d+|[<\x60])/.test(text),file+': source file citation')
+}
 const diseases=read('docs/guide/diseases.md')
 assert.equal((diseases.match(/^### .*\{#/gm)||[]).length,21)
 assert(diseases.includes('不是感染概率'))
@@ -53,4 +76,4 @@ if (fs.existsSync(dist)) {
   assert.equal(errors.length,0,errors.slice(0,30).join('\n'))
   console.log('Checked rendered pages:',files.length)
 }
-console.log('Navigation, source indices, disease anchors and catalogue coverage OK')
+console.log('Navigation, public metadata, current API, disease anchors and catalogue coverage OK')

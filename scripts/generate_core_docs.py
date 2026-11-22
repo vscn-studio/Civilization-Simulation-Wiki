@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
+from local_inputs import required_dir, source_dir
 import json, re, zipfile, os, html
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SURV = Path(os.environ.get('SERAPH_SURVIVAL_SOURCE', r'E:\vintagestory\Seraph Living Survival Simulation'))
-PACK = Path(os.environ.get('SERAPH_MODS_DIR', r'C:\Users\29596\AppData\Roaming\MVL\Modpack\测试服务器\Mods'))
+SURV = source_dir('SERAPH_SURVIVAL_SOURCE', 'Seraph Living Survival Simulation')
+PACK = required_dir('SERAPH_MODS_DIR')
 SRC = SURV / 'src'
 LANG = json.loads((SURV/'assets/vsslssmod/lang/zh-cn.json').read_text(encoding='utf-8-sig'))
 

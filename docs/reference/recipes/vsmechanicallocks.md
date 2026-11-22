@@ -17,9 +17,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsmechanicallocks/recipes/clayforming/keymold-bulk.json`
 
 ```json
 {
@@ -90,9 +89,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsmechanicallocks/recipes/clayforming/keymold-normal.json`
 
 ```json
 {
@@ -240,9 +238,8 @@ HC
 GP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsmechanicallocks/recipes/grid/key-jeweled.json`
 
 ```json
 [
@@ -557,9 +554,8 @@ R_R
 _R_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsmechanicallocks/recipes/grid/keyring-rope.json`
 
 ```json
 {
@@ -591,9 +587,8 @@ _R_
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsmechanicallocks/recipes/smithing/key-bulk.json`
 
 ```json
 {
@@ -651,9 +646,8 @@ _R_
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsmechanicallocks/recipes/smithing/key.json`
 
 ```json
 {
@@ -715,9 +709,8 @@ _R_
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsmechanicallocks/recipes/smithing/keyfile.json`
 
 ```json
 {
@@ -761,9 +754,8 @@ _R_
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsmechanicallocks/recipes/smithing/keyring.json`
 
 ```json
 {

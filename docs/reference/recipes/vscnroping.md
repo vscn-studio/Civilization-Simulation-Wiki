@@ -7,7 +7,6 @@
 
 ## 手册 1：套索与捆绑
 
-来源：`assets/vscnroping/config/handbook/roping.json`。
 
 制作
 
@@ -76,9 +75,8 @@ CC
 LS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vscnroping/recipes/grid/lasso-metal.json`
 
 ```json
 [
@@ -190,9 +188,8 @@ RR
 LS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vscnroping/recipes/grid/lasso-rope.json`
 
 ```json
 [

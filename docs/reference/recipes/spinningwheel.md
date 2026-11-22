@@ -7,7 +7,6 @@
 
 ## 手册 1：合成机制：纺车
 
-来源：`assets/spinningwheel/config/handbook/101-spinningwheel.json`。
 
 概述
 
@@ -71,7 +70,6 @@
 
 ## 手册 2：合成机制：飞梭织布机
 
-来源：`assets/spinningwheel/config/handbook/102-flyshuttleloom.json`。
 
 概述
 
@@ -143,7 +141,6 @@
 
 ## 手册 3：合成机制：图案编织
 
-来源：`assets/spinningwheel/config/handbook/103-patternweaving.json`。
 
 概述
 
@@ -203,7 +200,6 @@
 
 ## 手册 4：合成机制：手持纺锤
 
-来源：`assets/spinningwheel/config/handbook/104-dropspidnle.json`。
 
 概述
 
@@ -257,9 +253,8 @@ SSS
  S 
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/spinningwheel/recipes/grid/dropspindle.json`
 
 ```json
 {
@@ -316,9 +311,8 @@ _H_
 _F_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/spinningwheel/recipes/grid/hpflyshuttleloom.json`
 
 ```json
 {
@@ -373,9 +367,8 @@ SIS
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/spinningwheel/recipes/grid/hpflyshuttleloombeater.json`
 
 ```json
 {
@@ -450,9 +443,8 @@ LAL
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/spinningwheel/recipes/grid/hpflyshuttleloomframe.json`
 
 ```json
 {
@@ -528,9 +520,8 @@ _T_
 _P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/spinningwheel/recipes/grid/hpflyshuttleloomheddle.json`
 
 ```json
 {
@@ -596,9 +587,8 @@ SPS
 IBI
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/spinningwheel/recipes/grid/hpmoaitem.json`
 
 ```json
 {
@@ -679,9 +669,8 @@ _MW
 _CF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/spinningwheel/recipes/grid/hpspinningwheel.json`
 
 ```json
 {
@@ -739,9 +728,8 @@ SSP
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/spinningwheel/recipes/grid/hpspinningwheelframe.json`
 
 ```json
 {
@@ -812,9 +800,8 @@ PSP
  P 
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/spinningwheel/recipes/grid/hpspinningwheelwheelitem.json`
 
 ```json
 {
@@ -866,9 +853,8 @@ PSP
 
 此配方采用特殊结构，尚未生成材料摘要；请展开原始定义核对，不能把缺失摘要当作无材料配方。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/spinningwheel/recipes/loompatterns/checkered.json`
 
 ```json
 {

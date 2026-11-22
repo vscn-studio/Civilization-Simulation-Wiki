@@ -7,7 +7,6 @@
 
 ## 手册 1：火箭
 
-来源：`assets/vscnfirearrows/config/handbook/firearrows.json`。
 
 制作
 

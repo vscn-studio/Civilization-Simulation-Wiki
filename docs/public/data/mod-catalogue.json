@@ -3,8 +3,7 @@
     "slug": "vsscpmod",
     "name": "Seraph Civilization Patches",
     "id": "vsscpmod",
-    "version": "1.0.1",
-    "file": "Seraph Civilization Patches-1.0.1.zip",
+    "version": "1.0.2",
     "category": "三个核心模组",
     "title": "文明兼容补丁"
   },
@@ -13,7 +12,6 @@
     "name": "Seraph Civilization Simulation",
     "id": "vsscsmod",
     "version": "1.0.0",
-    "file": "Seraph Civilization Simulation-1.0.0.zip",
     "category": "三个核心模组",
     "title": "文明模拟"
   },
@@ -21,8 +19,7 @@
     "slug": "vsslssmod",
     "name": "Seraph A Living Survival Simulation",
     "id": "vsslssmod",
-    "version": "1.0.1",
-    "file": "vsslssmod-1.0.1.zip",
+    "version": "1.0.3",
     "category": "三个核心模组",
     "title": "生存模拟"
   },
@@ -31,7 +28,6 @@
     "name": "Stick Roast",
     "id": "stickroast",
     "version": "0.1.0",
-    "file": "Stick Roast-0.1.0.zip",
     "category": "农业、饮食与卫生",
     "title": "串烤"
   },
@@ -40,7 +36,6 @@
     "name": "Rustic Cookery",
     "id": "rusticcookery",
     "version": "1.2.0",
-    "file": "Rustic Cookery-1.2.0.zip",
     "category": "农业、饮食与卫生",
     "title": "乡野烹饪"
   },
@@ -49,7 +44,6 @@
     "name": "FarmingRevamped",
     "id": "farmingrevamped",
     "version": "2.1.1",
-    "file": "FarmingRevamped-2.1.1.zip",
     "category": "农业、饮食与卫生",
     "title": "农业改造"
   },
@@ -58,7 +52,6 @@
     "name": "Primitive Survival",
     "id": "primitivesurvival",
     "version": "5.1.4",
-    "file": "Primitive Survival-5.1.4.zip",
     "category": "农业、饮食与卫生",
     "title": "原始生存"
   },
@@ -67,7 +60,6 @@
     "name": "Natural Fertilizer",
     "id": "naturalfertilizer",
     "version": "1.5.1",
-    "file": "Natural Fertilizer-1.5.1.zip",
     "category": "农业、饮食与卫生",
     "title": "天然肥料"
   },
@@ -76,7 +68,6 @@
     "name": "Butchering",
     "id": "butchering",
     "version": "1.14.3",
-    "file": "Butchering-1.14.3.zip",
     "category": "农业、饮食与卫生",
     "title": "屠宰与肉类加工"
   },
@@ -85,7 +76,6 @@
     "name": "Involved Farming",
     "id": "invfarming",
     "version": "1.0.7",
-    "file": "Involved Farming-1.0.7.zip",
     "category": "农业、饮食与卫生",
     "title": "无脊椎动物养殖"
   },
@@ -94,7 +84,6 @@
     "name": "Oven Smoking Racks",
     "id": "ovensmoking",
     "version": "1.2.0",
-    "file": "Oven Smoking Racks-1.2.0.zip",
     "category": "农业、饮食与卫生",
     "title": "炉内烟熏"
   },
@@ -103,7 +92,6 @@
     "name": "Fields of Salt",
     "id": "fieldsofsalt",
     "version": "1.2.5",
-    "file": "Fields of Salt-1.2.5.zip",
     "category": "农业、饮食与卫生",
     "title": "盐田"
   },
@@ -112,7 +100,6 @@
     "name": "Stone Bake Oven",
     "id": "stonebakeoven",
     "version": "1.4.0",
-    "file": "Stone Bake Oven-1.4.0.zip",
     "category": "农业、饮食与卫生",
     "title": "石砌烤炉"
   },
@@ -121,7 +108,6 @@
     "name": "Offline No Spoil",
     "id": "offlinenospoil",
     "version": "1.6.1-pre.5",
-    "file": "Offline No Spoil-1.6.1-pre.5.zip",
     "category": "农业、饮食与卫生",
     "title": "离线防腐"
   },
@@ -130,7 +116,6 @@
     "name": "Soap and Lye Continued",
     "id": "soapandlyecontinued",
     "version": "2.1.2",
-    "file": "Soap and Lye Continued-2.1.2.zip",
     "category": "农业、饮食与卫生",
     "title": "肥皂与碱液"
   },
@@ -139,7 +124,6 @@
     "name": "From Golden Combs",
     "id": "fromgoldencombs",
     "version": "2.1.0",
-    "file": "From Golden Combs-2.1.0.zip",
     "category": "农业、饮食与卫生",
     "title": "蜂箱与养蜂"
   },
@@ -148,7 +132,6 @@
     "name": "Tankards, Goblets and More!",
     "id": "tankardsandgoblets",
     "version": "1.4.4",
-    "file": "Tankards, Goblets and More!-1.4.4.zip",
     "category": "农业、饮食与卫生",
     "title": "酒杯与高脚杯"
   },
@@ -157,7 +140,6 @@
     "name": "Foragers Gamble",
     "id": "foragersgamble",
     "version": "1.3.1",
-    "file": "Foragers Gamble-1.3.1.zip",
     "category": "农业、饮食与卫生",
     "title": "采集收获"
   },
@@ -166,7 +148,6 @@
     "name": "Wild Farming Fork",
     "id": "wildfarmingfork",
     "version": "2.1.9",
-    "file": "Wild Farming Fork-2.1.9.zip",
     "category": "农业、饮食与卫生",
     "title": "野生种植"
   },
@@ -175,7 +156,6 @@
     "name": "Long-term food",
     "id": "longtermfood",
     "version": "0.7.3",
-    "file": "Long-term food-0.7.3.zip",
     "category": "农业、饮食与卫生",
     "title": "长期储存食品"
   },
@@ -184,16 +164,22 @@
     "name": "FoodShelves",
     "id": "foodshelves",
     "version": "3.1.1",
-    "file": "FoodShelves-3.1.1.zip",
     "category": "农业、饮食与卫生",
     "title": "食物架"
+  },
+  {
+    "slug": "buildwright",
+    "name": "Buildwright",
+    "id": "buildwright",
+    "version": "1.0.4",
+    "category": "建筑、工业与工艺",
+    "title": "Buildwright 建造工具"
   },
   {
     "slug": "glazedpots",
     "name": "Glazed Fancy Pots",
     "id": "glazedpots",
     "version": "1.2.2",
-    "file": "Glazed Fancy Pots-1.2.2.zip",
     "category": "建筑、工业与工艺",
     "title": "上釉陶罐"
   },
@@ -202,7 +188,6 @@
     "name": "PurposefulStorage",
     "id": "purposefulstorage",
     "version": "2.3.1",
-    "file": "PurposefulStorage-2.3.1.zip",
     "category": "建筑、工业与工艺",
     "title": "专用储存"
   },
@@ -211,7 +196,6 @@
     "name": "Logging Expanded",
     "id": "loggingmod",
     "version": "0.3.6",
-    "file": "Logging Expanded-0.3.6.zip",
     "category": "建筑、工业与工艺",
     "title": "伐木与原木加工"
   },
@@ -220,7 +204,6 @@
     "name": "Easy Building",
     "id": "easybuilding",
     "version": "1.2.5",
-    "file": "Easy Building-1.2.5.zip",
     "category": "建筑、工业与工艺",
     "title": "便捷建造"
   },
@@ -229,7 +212,6 @@
     "name": "Storage Tweaks",
     "id": "storagetweaks",
     "version": "1.4.2",
-    "file": "Storage Tweaks-1.4.2.zip",
     "category": "建筑、工业与工艺",
     "title": "储存调整"
   },
@@ -238,7 +220,6 @@
     "name": "RKN Generic Crafting",
     "id": "rkncrafting",
     "version": "1.4.5",
-    "file": "RKN Generic Crafting-1.4.5.zip",
     "category": "建筑、工业与工艺",
     "title": "制作系统"
   },
@@ -247,7 +228,6 @@
     "name": "Ground Works",
     "id": "vscngroundworks",
     "version": "1.0.4",
-    "file": "Ground Works-1.0.4.zip",
     "category": "建筑、工业与工艺",
     "title": "地面施工"
   },
@@ -256,7 +236,6 @@
     "name": "Fast Packed Dirt Paths",
     "id": "fastpackeddirtpaths",
     "version": "1.22.3",
-    "file": "Fast Packed Dirt Paths-1.22.3.zip",
     "category": "建筑、工业与工艺",
     "title": "夯土道路"
   },
@@ -265,7 +244,6 @@
     "name": "kevinsfurniture",
     "id": "kevinsfurniture",
     "version": "1.9.0",
-    "file": "kevinsfurniture-1.9.0.zip",
     "category": "建筑、工业与工艺",
     "title": "家具"
   },
@@ -274,7 +252,6 @@
     "name": "Cottage Industry",
     "id": "cottageindustry",
     "version": "1.3.0",
-    "file": "Cottage Industry-1.3.0.zip",
     "category": "建筑、工业与工艺",
     "title": "家庭工坊"
   },
@@ -283,7 +260,6 @@
     "name": "VS Roofing Mod",
     "id": "vsroofing",
     "version": "2.1.1",
-    "file": "VS Roofing Mod-2.1.1.zip",
     "category": "建筑、工业与工艺",
     "title": "屋顶建造"
   },
@@ -292,7 +268,6 @@
     "name": "Toolsmith",
     "id": "toolsmith",
     "version": "1.2.19",
-    "file": "Toolsmith-1.2.19.zip",
     "category": "建筑、工业与工艺",
     "title": "工具锻造"
   },
@@ -301,7 +276,6 @@
     "name": "Expanded Matter",
     "id": "em",
     "version": "3.8.3",
-    "file": "Expanded Matter-3.8.3.zip",
     "category": "建筑、工业与工艺",
     "title": "扩展材料"
   },
@@ -310,7 +284,6 @@
     "name": "Click Up Torches",
     "id": "clickuptorches",
     "version": "1.1.1",
-    "file": "Click Up Torches-1.1.1.zip",
     "category": "建筑、工业与工艺",
     "title": "拾取火把"
   },
@@ -319,7 +292,6 @@
     "name": "Oil Lamps Anywhere!",
     "id": "oillampsanywhere",
     "version": "1.1.0",
-    "file": "Oil Lamps Anywhere!-1.1.0.zip",
     "category": "建筑、工业与工艺",
     "title": "油灯放置"
   },
@@ -328,7 +300,6 @@
     "name": "Candela",
     "id": "candela",
     "version": "1.0.1",
-    "file": "Candela-1.0.1.zip",
     "category": "建筑、工业与工艺",
     "title": "灯具"
   },
@@ -337,7 +308,6 @@
     "name": "Valley of Ashes",
     "id": "ashes",
     "version": "1.5.1",
-    "file": "Valley of Ashes-1.5.1.zip",
     "category": "建筑、工业与工艺",
     "title": "灰烬材料"
   },
@@ -346,7 +316,6 @@
     "name": "Pyrogenesis Continued",
     "id": "pyrogenesiscontinued",
     "version": "1.3.2",
-    "file": "Pyrogenesis Continued-1.3.2.zip",
     "category": "建筑、工业与工艺",
     "title": "生火工艺"
   },
@@ -355,7 +324,6 @@
     "name": "Immersive Hideworking",
     "id": "hideracks",
     "version": "1.0.1",
-    "file": "Immersive Hideworking-1.0.1.zip",
     "category": "建筑、工业与工艺",
     "title": "皮革加工"
   },
@@ -364,7 +332,6 @@
     "name": "Brickyard",
     "id": "brickyard",
     "version": "1.0.2",
-    "file": "Brickyard-1.0.2.zip",
     "category": "建筑、工业与工艺",
     "title": "砖厂"
   },
@@ -373,7 +340,6 @@
     "name": "Bricklayers",
     "id": "bricklayers",
     "version": "3.3.4",
-    "file": "Bricklayers-3.3.4.zip",
     "category": "建筑、工业与工艺",
     "title": "砖瓦与陶艺"
   },
@@ -382,7 +348,6 @@
     "name": "Immersive Fibercraft",
     "id": "spinningwheel",
     "version": "1.2.14",
-    "file": "Immersive Fibercraft-1.2.14.zip",
     "category": "建筑、工业与工艺",
     "title": "纺纱与纤维工艺"
   },
@@ -391,7 +356,6 @@
     "name": "Scaffolding",
     "id": "scaffolding",
     "version": "1.3.1",
-    "file": "Scaffolding-1.3.1.zip",
     "category": "建筑、工业与工艺",
     "title": "脚手架"
   },
@@ -400,7 +364,6 @@
     "name": "Comfy Beds",
     "id": "comfybeds",
     "version": "0.4.2",
-    "file": "Comfy Beds-0.4.2.zip",
     "category": "建筑、工业与工艺",
     "title": "舒适床铺"
   },
@@ -409,7 +372,6 @@
     "name": "Duncan's Grass'",
     "id": "duncansgrass",
     "version": "1.0.1",
-    "file": "Duncan's Grass'-1.0.1.zip",
     "category": "建筑、工业与工艺",
     "title": "草类材料"
   },
@@ -418,7 +380,6 @@
     "name": "Grass to Ropes",
     "id": "grasstoropes",
     "version": "1.2.4",
-    "file": "Grass to Ropes-1.2.4.zip",
     "category": "建筑、工业与工艺",
     "title": "草绳工艺"
   },
@@ -427,7 +388,6 @@
     "name": "Stone Quarry",
     "id": "stonequarryrepckfipil",
     "version": "3.6.3",
-    "file": "Stone Quarry-3.6.3.zip",
     "category": "建筑、工业与工艺",
     "title": "采石工艺"
   },
@@ -436,7 +396,6 @@
     "name": "Better Nails",
     "id": "betternails",
     "version": "3.0.3",
-    "file": "Better Nails-3.0.3.zip",
     "category": "建筑、工业与工艺",
     "title": "钉子制作"
   },
@@ -445,7 +404,6 @@
     "name": "SmithingPlus",
     "id": "smithingplusplus",
     "version": "1.10.7",
-    "file": "SmithingPlus-1.10.7.zip",
     "category": "建筑、工业与工艺",
     "title": "锻造改进"
   },
@@ -454,7 +412,6 @@
     "name": "Archimedes Screw",
     "id": "thetruearchimedesscrew",
     "version": "0.2.0",
-    "file": "Archimedes Screw-0.2.0.zip",
     "category": "建筑、工业与工艺",
     "title": "阿基米德螺旋提水"
   },
@@ -463,7 +420,6 @@
     "name": "chiseltools",
     "id": "chiseltools",
     "version": "1.17.9",
-    "file": "chiseltools-1.17.9.zip",
     "category": "建筑、工业与工艺",
     "title": "雕刻工具"
   },
@@ -472,7 +428,6 @@
     "name": "Chiseled Block Retention",
     "id": "cbr",
     "version": "2.0.1",
-    "file": "Chiseled Block Retention-2.0.1.zip",
     "category": "建筑、工业与工艺",
     "title": "雕刻方块保留"
   },
@@ -481,7 +436,6 @@
     "name": "Chiseled Ground Placement",
     "id": "chiseledgroundplacement",
     "version": "0.2.2",
-    "file": "Chiseled Ground Placement-0.2.2.zip",
     "category": "建筑、工业与工艺",
     "title": "雕刻方块地面放置"
   },
@@ -490,7 +444,6 @@
     "name": "Chiseled Wall Mounting",
     "id": "chiseledwallmounting",
     "version": "0.3.2",
-    "file": "Chiseled Wall Mounting-0.3.2.zip",
     "category": "建筑、工业与工艺",
     "title": "雕刻方块墙面安装"
   },
@@ -499,7 +452,6 @@
     "name": "Chinese Compass — Sinan and Mariner's Compass",
     "id": "chinesecompass",
     "version": "1.0.9",
-    "file": "Chinese Compass — Sinan and Mariner's Compass-1.0.9.zip",
     "category": "交通、地图与搬运",
     "title": "司南与罗盘"
   },
@@ -508,7 +460,6 @@
     "name": "Mount Logout Guard",
     "id": "mountlogoutguard",
     "version": "1.0.0",
-    "file": "Mount Logout Guard-1.0.0.zip",
     "category": "交通、地图与搬运",
     "title": "坐骑离线保护"
   },
@@ -517,7 +468,6 @@
     "name": "Walkable Entities",
     "id": "walkableentities",
     "version": "1.0.52",
-    "file": "Walkable Entities-1.0.52.zip",
     "category": "交通、地图与搬运",
     "title": "实体表面行走"
   },
@@ -526,7 +476,6 @@
     "name": "Jaunt: Extended Riding System",
     "id": "jaunt",
     "version": "3.3.1",
-    "file": "Jaunt_ Extended Riding System-3.3.1.zip",
     "category": "交通、地图与搬运",
     "title": "旅行与移动"
   },
@@ -535,7 +484,6 @@
     "name": "Spyglass Fork",
     "id": "spyglassfork",
     "version": "0.6.4",
-    "file": "Spyglass Fork-0.6.4.zip",
     "category": "交通、地图与搬运",
     "title": "望远镜"
   },
@@ -544,7 +492,6 @@
     "name": "Immersive Maps",
     "id": "immersivemaps",
     "version": "1.2.1",
-    "file": "Immersive Maps-1.2.1.zip",
     "category": "交通、地图与搬运",
     "title": "沉浸地图"
   },
@@ -553,7 +500,6 @@
     "name": "Rough Seas",
     "id": "roughseas",
     "version": "5.0.1",
-    "file": "Rough Seas-5.0.1.zip",
     "category": "交通、地图与搬运",
     "title": "海浪"
   },
@@ -562,7 +508,6 @@
     "name": "Crawl&Dive",
     "id": "crawlanddive",
     "version": "0.2.5",
-    "file": "Crawl&Dive-0.2.5.zip",
     "category": "交通、地图与搬运",
     "title": "爬行与潜水"
   },
@@ -571,7 +516,6 @@
     "name": "VSCN Roping",
     "id": "vscnroping",
     "version": "1.1.15",
-    "file": "VSCN Roping-1.1.15.zip",
     "category": "交通、地图与搬运",
     "title": "绳索交互"
   },
@@ -580,7 +524,6 @@
     "name": "Carry On",
     "id": "carryon",
     "version": "2.0.0-rc.1",
-    "file": "Carry On-2.0.0-rc.1.zip",
     "category": "交通、地图与搬运",
     "title": "背负搬运"
   },
@@ -589,7 +532,6 @@
     "name": "Shipwright: Vessels of Distant Shores",
     "id": "shipwright",
     "version": "1.5.1",
-    "file": "Shipwright_ Vessels of Distant Shores-1.5.1.zip",
     "category": "交通、地图与搬运",
     "title": "造船"
   },
@@ -598,7 +540,6 @@
     "name": "Equus: Wild Horses 2.0",
     "id": "equusferus",
     "version": "1.0.6",
-    "file": "Equus_ Wild Horses 2.0-1.0.6.zip",
     "category": "交通、地图与搬运",
     "title": "野马"
   },
@@ -607,7 +548,6 @@
     "name": "Cartwrights Caravan",
     "id": "cartwrightscaravan",
     "version": "1.9.1",
-    "file": "Cartwrights Caravan-1.9.1.zip",
     "category": "交通、地图与搬运",
     "title": "马车与商队"
   },
@@ -616,7 +556,6 @@
     "name": "Downed",
     "id": "downed",
     "version": "2.9.4",
-    "file": "Downed-2.9.4.zip",
     "category": "身体、战斗与成长",
     "title": "倒地系统"
   },
@@ -625,7 +564,6 @@
     "name": "Seraph Leveling",
     "id": "seraphleveling",
     "version": "1.22.5",
-    "file": "Seraph Leveling-1.22.5.zip",
     "category": "身体、战斗与成长",
     "title": "技能成长"
   },
@@ -634,7 +572,6 @@
     "name": "Weaponsmith a Toolsmith addon",
     "id": "toolsmithweapons",
     "version": "1.1.7",
-    "file": "Weaponsmith a Toolsmith addon-1.1.7.zip",
     "category": "身体、战斗与成长",
     "title": "武器锻造"
   },
@@ -643,7 +580,6 @@
     "name": "Dead",
     "id": "dead",
     "version": "2.9.8",
-    "file": "Dead-2.9.8.zip",
     "category": "身体、战斗与成长",
     "title": "死亡扩展"
   },
@@ -652,7 +588,6 @@
     "name": "SlowTox",
     "id": "slowtox",
     "version": "5.1.0",
-    "file": "SlowTox-5.1.0.zip",
     "category": "身体、战斗与成长",
     "title": "毒性效果"
   },
@@ -661,7 +596,6 @@
     "name": "Progressive Bleeding",
     "id": "progressivebleeding",
     "version": "1.7.1",
-    "file": "Progressive Bleeding-1.7.1.zip",
     "category": "身体、战斗与成长",
     "title": "渐进出血"
   },
@@ -670,7 +604,6 @@
     "name": "VSCN Fire Arrows",
     "id": "vscnfirearrows",
     "version": "1.0.1",
-    "file": "VSCN Fire Arrows-1.0.1.zip",
     "category": "身体、战斗与成长",
     "title": "火箭矢"
   },
@@ -679,7 +612,6 @@
     "name": "Survival Complements",
     "id": "survivalcomplements",
     "version": "1.0.0",
-    "file": "Survival Complements-1.0.0.zip",
     "category": "身体、战斗与成长",
     "title": "生存补充"
   },
@@ -688,7 +620,6 @@
     "name": "Classes Removed",
     "id": "classesremoved",
     "version": "1.0.0",
-    "file": "Classes Removed-1.0.0.zip",
     "category": "身体、战斗与成长",
     "title": "职业限制调整"
   },
@@ -697,7 +628,6 @@
     "name": "BloodTrail",
     "id": "bloodtrail",
     "version": "1.2.13",
-    "file": "BloodTrail-1.2.13.zip",
     "category": "身体、战斗与成长",
     "title": "血迹追踪"
   },
@@ -706,7 +636,6 @@
     "name": "Visible Ores and Minerals",
     "id": "visibleoresandminerals",
     "version": "1.4.3",
-    "file": "Visible Ores and Minerals-1.4.3.zip",
     "category": "世界、气候与环境",
     "title": "可见矿石"
   },
@@ -715,7 +644,6 @@
     "name": "Terra Prety",
     "id": "terraprety",
     "version": "7.11.2-pre.1",
-    "file": "Terra Prety-7.11.2-pre.1.zip",
     "category": "世界、气候与环境",
     "title": "地形生成"
   },
@@ -724,7 +652,6 @@
     "name": "Better and Improved Weather Continued",
     "id": "betterandimprovedweather2",
     "version": "2.0.5",
-    "file": "Better and Improved Weather Continued-2.0.5.zip",
     "category": "世界、气候与环境",
     "title": "天气改进"
   },
@@ -733,7 +660,6 @@
     "name": "Dynamic Seasonal Temperature",
     "id": "dynamicseasonaltemperature",
     "version": "1.4.0",
-    "file": "Dynamic Seasonal Temperature-1.4.0.zip",
     "category": "世界、气候与环境",
     "title": "季节温度"
   },
@@ -742,7 +668,6 @@
     "name": "Seasonal Flowers",
     "id": "seasonalflowers",
     "version": "2.0.2",
-    "file": "Seasonal Flowers-2.0.2.zip",
     "category": "世界、气候与环境",
     "title": "季节花卉"
   },
@@ -751,7 +676,6 @@
     "name": "Extreme Weather",
     "id": "extremeweather",
     "version": "1.8.7",
-    "file": "Extreme Weather-1.8.7.zip",
     "category": "世界、气候与环境",
     "title": "极端天气"
   },
@@ -760,7 +684,6 @@
     "name": "Algernons Watersheds",
     "id": "watersheds",
     "version": "7.0.6",
-    "file": "Algernons Watersheds-7.0.6.zip",
     "category": "世界、气候与环境",
     "title": "流域生成"
   },
@@ -769,7 +692,6 @@
     "name": "Torches Contribute Heat",
     "id": "torchesheat",
     "version": "2.0.1",
-    "file": "Torches Contribute Heat-2.0.1.zip",
     "category": "世界、气候与环境",
     "title": "火把热量"
   },
@@ -778,7 +700,6 @@
     "name": "Smoke and Scent",
     "id": "smokescent",
     "version": "2.3.2",
-    "file": "Smoke and Scent-2.3.2.zip",
     "category": "世界、气候与环境",
     "title": "烟雾与气味"
   },
@@ -787,7 +708,6 @@
     "name": "Creature Footsteps",
     "id": "creaturefootsteps",
     "version": "1.3.1",
-    "file": "Creature Footsteps-1.3.1.zip",
     "category": "世界、气候与环境",
     "title": "生物脚步"
   },
@@ -796,7 +716,6 @@
     "name": "Realistic Rapids",
     "id": "realisticrapids",
     "version": "0.1.3",
-    "file": "Realistic Rapids-0.1.3.zip",
     "category": "世界、气候与环境",
     "title": "真实急流"
   },
@@ -805,7 +724,6 @@
     "name": "Realistic Water",
     "id": "realisticwater",
     "version": "0.4.0",
-    "file": "Realistic Water-0.4.0.zip",
     "category": "世界、气候与环境",
     "title": "真实水流"
   },
@@ -814,7 +732,6 @@
     "name": "Real Smoke",
     "id": "realsmoke",
     "version": "2.0.0",
-    "file": "Real Smoke-2.0.0.zip",
     "category": "世界、气候与环境",
     "title": "真实烟雾"
   },
@@ -823,7 +740,6 @@
     "name": "Footprints",
     "id": "footprints",
     "version": "1.2.16",
-    "file": "Footprints-1.2.16.zip",
     "category": "世界、气候与环境",
     "title": "足迹"
   },
@@ -832,7 +748,6 @@
     "name": "Desire Paths",
     "id": "desirepaths",
     "version": "0.5.1",
-    "file": "Desire Paths-0.5.1.zip",
     "category": "世界、气候与环境",
     "title": "踩踏路径"
   },
@@ -841,7 +756,6 @@
     "name": "VSInstrumentsRedux",
     "id": "vsinstrumentsredux",
     "version": "2.3.0",
-    "file": "VSInstrumentsRedux-2.3.0.zip",
     "category": "交易、社交与创作",
     "title": "乐器"
   },
@@ -850,7 +764,6 @@
     "name": "VS Instruments Redux - Expansion B",
     "id": "vsinstrumentsreduxexpansionc",
     "version": "2.0.0",
-    "file": "VS Instruments Redux - Expansion B-2.0.0.zip",
     "category": "交易、社交与创作",
     "title": "乐器扩展"
   },
@@ -859,7 +772,6 @@
     "name": "Scribe",
     "id": "scribe",
     "version": "1.4.4",
-    "file": "Scribe-1.4.4.zip",
     "category": "交易、社交与创作",
     "title": "书写"
   },
@@ -868,7 +780,6 @@
     "name": "Envelopes",
     "id": "envelopes",
     "version": "3.9.2",
-    "file": "Envelopes-3.9.2.zip",
     "category": "交易、社交与创作",
     "title": "信封与邮件"
   },
@@ -877,7 +788,6 @@
     "name": "Billposting",
     "id": "billposting",
     "version": "2.0.3",
-    "file": "Billposting-2.0.3.zip",
     "category": "交易、社交与创作",
     "title": "告示张贴"
   },
@@ -886,7 +796,6 @@
     "name": "Commercially",
     "id": "commercially",
     "version": "0.1.1",
-    "file": "Commercially-0.1.1.zip",
     "category": "交易、社交与创作",
     "title": "商业交易"
   },
@@ -895,7 +804,6 @@
     "name": "Mechanical Locks & Keys",
     "id": "vsmechanicallocks",
     "version": "1.0.2",
-    "file": "Mechanical Locks & Keys-1.0.2.zip",
     "category": "交易、社交与创作",
     "title": "机械锁"
   },
@@ -904,7 +812,6 @@
     "name": "VS Restraints",
     "id": "vsrestraints",
     "version": "1.0.0",
-    "file": "VS Restraints-1.0.0.zip",
     "category": "交易、社交与创作",
     "title": "束缚交互"
   },
@@ -913,7 +820,6 @@
     "name": "Vinconomy",
     "id": "vinconomy",
     "version": "6.0.3",
-    "file": "Vinconomy-6.0.3.zip",
     "category": "交易、社交与创作",
     "title": "经济系统"
   },
@@ -922,7 +828,6 @@
     "name": "VintageCanvas",
     "id": "vintagecanvas",
     "version": "1.4.2",
-    "file": "VintageCanvas-1.4.2.zip",
     "category": "交易、社交与创作",
     "title": "绘画画布"
   },
@@ -931,7 +836,6 @@
     "name": "Simple Voice Chat",
     "id": "simplevoicechat",
     "version": "1.3.7",
-    "file": "Simple Voice Chat-1.3.7.zip",
     "category": "交易、社交与创作",
     "title": "语音聊天"
   },
@@ -940,7 +844,6 @@
     "name": "Coinage",
     "id": "coinage",
     "version": "2.4.0",
-    "file": "Coinage-2.4.0.zip",
     "category": "交易、社交与创作",
     "title": "铸币"
   },
@@ -949,7 +852,6 @@
     "name": "中文换行修复",
     "id": "chineselinebreak",
     "version": "1.0.4",
-    "file": "中文换行修复-1.0.4.zip",
     "category": "界面、汉化与客户端工具",
     "title": "中文换行"
   },
@@ -958,7 +860,6 @@
     "name": "更好的汉化",
     "id": "betterchinese",
     "version": "0.6.9",
-    "file": "更好的汉化-0.6.9.zip",
     "category": "界面、汉化与客户端工具",
     "title": "中文显示改进"
   },
@@ -967,7 +868,6 @@
     "name": "字体设置",
     "id": "fontsettings",
     "version": "1.3.1",
-    "file": "字体设置-1.3.1.zip",
     "category": "界面、汉化与客户端工具",
     "title": "字体设置"
   },
@@ -976,7 +876,6 @@
     "name": "更好的实体交互",
     "id": "betterentityinteraction",
     "version": "1.0.5",
-    "file": "更好的实体交互-1.0.5.zip",
     "category": "界面、汉化与客户端工具",
     "title": "实体交互改进"
   },
@@ -985,7 +884,6 @@
     "name": "Unbind Hot Keys",
     "id": "unbindhotkeys",
     "version": "1.0.1",
-    "file": "Unbind Hot Keys-1.0.1.zip",
     "category": "界面、汉化与客户端工具",
     "title": "快捷键解绑"
   },
@@ -994,7 +892,6 @@
     "name": "Better Handbook",
     "id": "betterhandbook",
     "version": "1.0.9",
-    "file": "Better Handbook-1.0.9.zip",
     "category": "界面、汉化与客户端工具",
     "title": "手册改进"
   },
@@ -1003,7 +900,6 @@
     "name": "拼音搜索",
     "id": "pinyinsearch",
     "version": "1.0.4",
-    "file": "拼音搜索-1.0.4.zip",
     "category": "界面、汉化与客户端工具",
     "title": "拼音搜索"
   },
@@ -1012,7 +908,6 @@
     "name": "精确拾取",
     "id": "precisepickedup",
     "version": "1.1.6",
-    "file": "精确拾取-1.1.6.zip",
     "category": "界面、汉化与客户端工具",
     "title": "拾取提示"
   },
@@ -1020,8 +915,7 @@
     "slug": "vscnlangpack",
     "name": "VSCN Vintage Story 汉化包",
     "id": "vscnlangpack",
-    "version": "26.11.2",
-    "file": "VSCN Vintage Story 汉化包-26.11.2.zip",
+    "version": "26.11.7",
     "category": "界面、汉化与客户端工具",
     "title": "整合包汉化"
   },
@@ -1030,7 +924,6 @@
     "name": "HUD Clock",
     "id": "hudclockpatch",
     "version": "4.5.0",
-    "file": "HUD Clock-4.5.0.zip",
     "category": "界面、汉化与客户端工具",
     "title": "时钟显示补丁"
   },
@@ -1039,7 +932,6 @@
     "name": "VSCN 汉化包自动更新器",
     "id": "vscnlangpackupdater",
     "version": "26.8.7",
-    "file": "VSCN 汉化包自动更新器-26.8.7.zip",
     "category": "界面、汉化与客户端工具",
     "title": "汉化更新"
   },
@@ -1048,7 +940,6 @@
     "name": "Gui",
     "id": "gui",
     "version": "4.0.0",
-    "file": "Gui-4.0.0.zip",
     "category": "界面、汉化与客户端工具",
     "title": "界面工具"
   },
@@ -1057,16 +948,30 @@
     "name": "Extra Info",
     "id": "extrainfo",
     "version": "2.2.1",
-    "file": "Extra Info-2.2.1.zip",
     "category": "界面、汉化与客户端工具",
     "title": "额外信息"
+  },
+  {
+    "slug": "buildwrightserver",
+    "name": "Buildwright Server",
+    "id": "buildwrightserver",
+    "version": "1.0.4",
+    "category": "依赖、兼容与管理工具",
+    "title": "Buildwright 服务端"
+  },
+  {
+    "slug": "vsimgui",
+    "name": "Dear ImGui",
+    "id": "vsimgui",
+    "version": "1.2.7",
+    "category": "依赖、兼容与管理工具",
+    "title": "Dear ImGui 界面依赖"
   },
   {
     "slug": "tandemwaterwheelfix",
     "name": "Tandem Waterwheel Fix",
     "id": "tandemwaterwheelfix",
     "version": "1.0.0",
-    "file": "Tandem Waterwheel Fix-1.0.0.zip",
     "category": "依赖、兼容与管理工具",
     "title": "串联水轮修复"
   },
@@ -1075,7 +980,6 @@
     "name": "LauncherGo Server Bridge",
     "id": "launchergoserverbridge",
     "version": "2.2.0",
-    "file": "LauncherGo Server Bridge-2.2.0",
     "category": "依赖、兼容与管理工具",
     "title": "启动器服务器桥接"
   },
@@ -1084,7 +988,6 @@
     "name": "ServerAuth",
     "id": "launchergoauth",
     "version": "1.1.1",
-    "file": "ServerAuth-1.1.1",
     "category": "依赖、兼容与管理工具",
     "title": "启动器认证"
   },
@@ -1093,7 +996,6 @@
     "name": "Algernons Terrain Sampler",
     "id": "algernonsterrainsampler",
     "version": "1.3.0",
-    "file": "Algernons Terrain Sampler-1.3.0.zip",
     "category": "依赖、兼容与管理工具",
     "title": "地形采样工具"
   },
@@ -1102,7 +1004,6 @@
     "name": "Butchering + Seraph Leveling Compatibility",
     "id": "butcheringseraphlevelingcompatibility",
     "version": "1.1.1",
-    "file": "Butchering + Seraph Leveling Compatibility-1.1.1.zip",
     "category": "依赖、兼容与管理工具",
     "title": "屠宰与技能兼容"
   },
@@ -1111,7 +1012,6 @@
     "name": "CarryOnLib",
     "id": "carryonlib",
     "version": "1.0.0-rc.1",
-    "file": "CarryOnLib-1.0.0-rc.1.zip",
     "category": "依赖、兼容与管理工具",
     "title": "搬运依赖库"
   },
@@ -1120,7 +1020,6 @@
     "name": "Real Smoke QP's Chisel Tools Patch",
     "id": "realsmokeqppatch",
     "version": "1.0.1",
-    "file": "Real Smoke QP's Chisel Tools Patch-1.0.1.zip",
     "category": "依赖、兼容与管理工具",
     "title": "烟雾兼容补丁"
   },
@@ -1128,8 +1027,7 @@
     "slug": "vsslssmoddebug",
     "name": "炽天使：生存模拟 - 调试工具",
     "id": "vsslssmoddebug",
-    "version": "1.0.1",
-    "file": "vsslssmoddebug-1.0.1.zip",
+    "version": "1.0.3",
     "category": "依赖、兼容与管理工具",
     "title": "生存调试工具"
   },
@@ -1138,7 +1036,6 @@
     "name": "JSON Patches lib",
     "id": "jsonpatcheslib",
     "version": "1.5.9",
-    "file": "JSON Patches lib-1.5.9.zip",
     "category": "依赖、兼容与管理工具",
     "title": "资源补丁依赖库"
   },
@@ -1147,7 +1044,6 @@
     "name": "Genelib",
     "id": "genelib",
     "version": "3.2.1",
-    "file": "Genelib-3.2.1.zip",
     "category": "依赖、兼容与管理工具",
     "title": "遗传系统依赖库"
   },
@@ -1156,7 +1052,6 @@
     "name": "Cartwrights Caravan and CarryOn Patch",
     "id": "cartcarryonpatch",
     "version": "1.0.1",
-    "file": "Cartwrights Caravan and CarryOn Patch-1.0.1.zip",
     "category": "依赖、兼容与管理工具",
     "title": "马车搬运兼容"
   }

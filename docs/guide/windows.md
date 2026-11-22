@@ -1,44 +1,39 @@
 # 窗口与面板清单
 
-> 本页按三个模组的客户端窗口类、面板注册和快捷键源码整理。窗口名称可能被语言包本地化；“未连接”表示服务端快照不可用时客户端不会自行推算数值。
+> 窗口名称可能被语言包本地化；“未连接”表示服务端快照不可用时客户端不会自行推算数值。
 
 ## C 键角色窗口（生存模拟）
 
-| 区域 | 显示内容 | 技术说明 |
-| --- | --- | --- |
-| 身体状态 | 水分、肌肉量、身体能力、伤口摘要 | <details><summary>组件与数据来源</summary><code>CharacterMetricsPanel</code>；服务端 <code>PanelMetric</code></details> |
-| 营养 | 胃/肠道圆图、胃水、宏量营养、微量储备、糖原和脂肪能量 | <details><summary>组件与数据来源</summary><code>NutritionPanel</code>；<code>NutritionSnapshot</code></details> |
-| 疾病与免疫 | 免疫储备、卫生、白细胞、疾病阶段、不适症状、伤口和综合征 | <details><summary>组件与数据来源</summary><code>CharacterImmunePanel</code>；服务器疾病快照，最多 80 行</details> |
-| 血液循环 | 血量、出血、乳酸、血液废物、循环和肾脏清除 | <details><summary>组件与数据来源</summary><code>CharacterMetricsPanel</code> 的 <code>BloodCirculationKeys</code>；<code>BloodState</code>/<code>BodyFunctions</code></details> |
-| 能量状态 | 耐力、疲劳、睡压、糖原和脂肪能量 | <details><summary>组件与数据来源</summary><code>EnergyStatusKeys</code>；<code>BodyState</code></details> |
-| 能量需求 | 基础、活动、体温和恢复需求 | <details><summary>组件与数据来源</summary><code>EnergyDemandKeys</code>；服务端能量快照</details> |
-| 功能 | 意识、移动、呼吸、循环、消化、劳动、攻击、挖掘、弓、跳跃和冲刺倍率 | <details><summary>组件与数据来源</summary><code>FunctionKeys</code>；<code>BodyFunctions.Evaluate</code></details> |
-| 体温调节 | 核心/皮肤/体感/辐射温度、产热、散热、发抖、出汗 | <details><summary>组件与数据来源</summary><code>ThermoregulationKeys</code>；<code>ThermalAdaptation</code>/环境采样</details> |
-| 环境 | 气温、湿度、风、房间热量、通风、空气污染和环境污染 | <details><summary>组件与数据来源</summary><code>EnvironmentKeys</code>；<code>RoomSample</code>/区域环境</details> |
+| 区域 | 显示内容 |
+| --- | --- |
+| 身体状态 | 水分、肌肉量、身体能力、伤口摘要 |
+| 营养 | 胃/肠道圆图、胃水、宏量营养、微量储备、糖原和脂肪能量 |
+| 疾病与免疫 | 免疫储备、卫生、白细胞、疾病阶段、不适症状、伤口和综合征 |
+| 血液循环 | 血量、出血、乳酸、血液废物、循环和肾脏清除 |
+| 能量状态 | 耐力、疲劳、睡压、糖原和脂肪能量 |
+| 能量需求 | 基础、活动、体温和恢复需求 |
+| 功能 | 意识、移动、呼吸、循环、消化、劳动、攻击、挖掘、弓、跳跃和冲刺倍率 |
+| 体温调节 | 核心/皮肤/体感/辐射温度、产热、散热、发抖、出汗 |
+| 环境 | 气温、湿度、风、房间热量、通风、空气污染和环境污染 |
 
 在文明菜单中点击营养手册入口，可搜索食物和份量。数据由服务器提供；未连接时不能据空值判断食物没有营养。趋势箭头表示最近数值变化，不是额外属性。
 
-<details><summary>技术说明：营养手册与趋势</summary>
-
-对应组件为 `NutritionHandbookDialog` 和 `MetricTrendDisplay`。
-
-</details>
 
 ## 文明核心窗口（文明模拟）
 
-| 窗口／页面 | 用途 | 技术说明 |
-| --- | --- | --- |
-| 文明核心菜单 | 公告、教程、部落、交易、地图、管理员设置入口 | <details><summary>组件与数据来源</summary><code>CivilizationCore</code>、<code>CivilizationPages</code></details> |
-| 指导/教程 | 浏览服务端教程、分页、链接和新手指导 | <details><summary>组件与数据来源</summary><code>GuidanceWindow</code>、<code>CivilizationTutorialPage</code></details> |
-| 公告 | 查看公告、图片、HTML/Markdown 内容和通知状态 | <details><summary>组件与数据来源</summary><code>GuiElementAnnouncementMenu</code>、<code>GuiElementAnnouncement</code></details> |
-| 公告编辑器 | 管理员编辑标题、正文、资源引用并保存到世界内容文件 | <details><summary>组件与数据来源</summary><code>GuiElementAnnouncementEditor</code></details> |
-| 部落成员/紧凑列表 | 存活成员、在线状态、首领与授权入口 | <details><summary>组件与数据来源</summary><code>TribeRoster</code>、<code>TribeCompactWindow</code></details> |
-| 部落授权 | 建造授权、权益授权、成员/角色选择和期限 | <details><summary>组件与数据来源</summary><code>CivilizationAuthorizationWindow</code></details> |
-| 交易报价 | 选择物品、数量、报价和混合支付 | <details><summary>组件与数据来源</summary><code>EconomyOfferWindow</code></details> |
-| 交易 | 双方确认物品/货币交换；服务端保存交易历史 | <details><summary>组件与数据来源</summary><code>EconomyTradeWindow</code></details> |
-| 纸质地图 | 拼接地图、绘制闭合范围、标记和颜色 | <details><summary>组件与数据来源</summary><code>MapDrawingWindow</code>、<code>GroundMapPaper</code></details> |
-| 管理员设置 | 编辑配置草稿、重置、保存应用和热重载 | <details><summary>组件与数据来源</summary><code>AdminSettingsWindow</code></details> |
-| 在线成员列表 | Tab 长按显示本人和本部落在线成员 | <details><summary>组件与数据来源</summary><code>TribeRoster</code></details> |
+| 窗口／页面 | 用途 |
+| --- | --- |
+| 文明核心菜单 | 公告、教程、部落、交易、地图、管理员设置入口 |
+| 指导/教程 | 浏览服务端教程、分页、链接和新手指导 |
+| 公告 | 查看公告、图片、HTML/Markdown 内容和通知状态 |
+| 公告编辑器 | 管理员编辑标题、正文、资源引用并保存到世界内容文件 |
+| 部落成员/紧凑列表 | 存活成员、在线状态、首领与授权入口 |
+| 部落授权 | 建造授权、权益授权、成员/角色选择和期限 |
+| 交易报价 | 选择物品、数量、报价和混合支付 |
+| 交易 | 双方确认物品/货币交换；服务端保存交易历史 |
+| 纸质地图 | 拼接地图、绘制闭合范围、标记和颜色 |
+| 管理员设置 | 编辑配置草稿、重置、保存应用和热重载 |
+| 在线成员列表 | Tab 长按显示本人和本部落在线成员 |
 
 窗口中的权限按钮由服务端能力和 `controlserver` 权限共同决定；客户端显示某个页面不代表操作一定会被服务器接受。
 
@@ -53,4 +48,4 @@
 
 ## 阅读限制
 
-所有面板的服务端快照都有过期标记；过期时显示未知或空值。客户端窗口类、语言包和资源可以告诉我们字段名称与布局，但不能证明服务器端功能已启用；启用状态需结合配置、兼容诊断和启动日志。
+所有面板的服务端快照都有过期标记；过期时显示未知或空值。功能是否启用，请结合服务器配置、兼容诊断和启动日志确认。

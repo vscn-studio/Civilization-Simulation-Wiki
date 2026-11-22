@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from local_inputs import required_dir, source_dir
 """Source-linked disease and UI reference. Hand-written explanations sit beside extracted expressions."""
 import html, json, os, re
 from pathlib import Path
@@ -6,7 +7,7 @@ from wiki_content import write_generated
 from player_presentation import player_tables
 from disease_editorial import build_diseases
 ROOT=Path(__file__).resolve().parent.parent
-SURV=Path(os.environ.get('SERAPH_SURVIVAL_SOURCE',r'E:\vintagestory\Seraph Living Survival Simulation'))
+SURV = source_dir('SERAPH_SURVIVAL_SOURCE', 'Seraph Living Survival Simulation')
 SRC=SURV/'src'
 LANG=json.loads((SURV/'assets/vsslssmod/lang/zh-cn.json').read_text(encoding='utf-8-sig'))
 def read(path): return (SRC/path).read_text(encoding='utf-8-sig')
@@ -83,7 +84,7 @@ def metrics():
         for group,body in re.findall(r'(?:private|internal) static readonly string\[\] (\w+Keys) = \[(.*?)\];',text,re.S):
             if group not in ('OwnedKeys','PinnableKeys'): arrays.append((group,re.findall('"([^"\\n]+)"',body)))
     groups={'StatusKeys':'身体状态','BloodCirculationKeys':'血液循环','DiseaseRecoveryKeys':'疾病恢复','EnergyStatusKeys':'能量状态','EnergyDemandKeys':'能量需求','FunctionKeys':'功能倍率','ThermoregulationKeys':'体温调节','EnvironmentKeys':'环境'}
-    lines=['# C 键数值：单位、来源与读法','','这份表把窗口实际使用的键与服务端生成 `PanelMetric` 的代码对照。百分比标尺不一定代表概率；移动倍率可以含原版、负重及其他模组的修正。','',
+    lines=['# C 键数值：单位与读法','','按 C 打开角色窗口，在下表查找属性名称。展开“标识与计算”可查看属性标识和计算式。百分比标尺不一定代表概率；移动倍率可以含原版、负重及其他模组的修正。','',
       '## 操作与窗口固定','','按 C 打开角色窗口。将指针停在数值上查看原因和收支趋势；有滚动条的窗口可向下查看。可固定的六个窗口在标题栏有固定按钮：身体、血液循环、疾病恢复、功能、能量平衡、体温调节。固定后关闭 C 仍可显示；环境窗口没有固定按钮，退出世界会清除本次固定记录。来源：`PinnedCharacterPanels.cs`。','',
       '## 按问题找指标','','| 想判断的问题 | 连着看哪些值 | 如何读 |','| --- | --- | --- |',
       '| 喝水为什么没恢复 | 水量、胃水、消化、出汗、出血 | 胃内水尚未等于可用水；吸收和损失可同时发生，悬停看两路流量。 |',

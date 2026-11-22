@@ -7,7 +7,6 @@
 
 ## 手册 1：Scribe 模组：入门
 
-来源：`assets/scribe/config/handbook/00-getting-started.json`。
 
 欢迎使用 Scribe
 
@@ -65,7 +64,6 @@ Scribe 力求易于使用。手持 Scribe 物品时，按 rightmouse 打开它�
 
 ## 手册 2：Scribe 模组：编辑器参考
 
-来源：`assets/scribe/config/handbook/01-editor-reference.json`。
 
 编辑器功能
 
@@ -141,7 +139,6 @@ Scribe 可容纳五种条目。完整说明参阅  [handbook://craftinginfo-scri
 
 ## 手册 3：Scribe 模组：置顶任务 HUD
 
-来源：`assets/scribe/config/handbook/02-pinned-hud.json`。
 
 置顶任务 HUD 是一个常显叠加层，它在游戏世界之上显示你的置顶任务，让你追踪的事项无需打开任何 Scribe 物品即可保持在视野中。
 
@@ -179,7 +176,6 @@ HUD 一次显示的行数有限（由设置中的"HUD 最大行数"决定，1–
 
 ## 手册 4：Scribe 模组：任务与笔记类型
 
-来源：`assets/scribe/config/handbook/03-task-types.json`。
 
 Scribe 有五种可以添加到任务清单的行：两种你自己添加的自由格式类型，以及三种绑定到特定物品或配方的类型。
 
@@ -213,7 +209,6 @@ Scribe 有五种可以添加到任务清单的行：两种你自己添加的自�
 
 ## 手册 5：Scribe 模组：转录标签页
 
-来源：`assets/scribe/config/handbook/04-transcribe.json`。
 
 "转录"标签页位于  [handbook://block-scribe:scriptorium] 缮写室上，它会把一件 Scribe 物品上的内容复制到另一件上——用来复制一份清单、分发计划的副本，或把笔记本备份到泥板上。
 
@@ -247,7 +242,6 @@ Scribe 有五种可以添加到任务清单的行：两种你自己添加的自�
 
 ## 手册 6：Scribe 模组：标签页与视图
 
-来源：`assets/scribe/config/handbook/05-views.json`。
 
 大多数 Scribe 界面共享同一组标签页，通过右侧边栏的图标按钮切换。出现哪些标签页取决于界面——一个放置的方块、一件携带的物品，还是缮写室。
 
@@ -273,7 +267,6 @@ Scribe 有五种可以添加到任务清单的行：两种你自己添加的自�
 
 ## 手册 7：Scribe 模组：分配任务
 
-来源：`assets/scribe/config/handbook/06-assignments.json`。
 
 任务分配台
 
@@ -303,7 +296,6 @@ Scribe 有五种可以添加到任务清单的行：两种你自己添加的自�
 
 ## 手册 8：Scribe 模组：任务链接
 
-来源：`assets/scribe/config/handbook/07-quests.json`。
 
 除非你运行 VS Quest 或 Progression Framework，否则本节保持不激活。当两个模组都未安装时，Scribe 会完全禁用任务集成。
 
@@ -325,7 +317,6 @@ Scribe 会在任务更新发生时于聊天中通报。你可以使用 Scribe �
 
 ## 手册 9：Scribe 模组：投递任务分配
 
-来源：`assets/scribe/config/handbook/08-delivery.json`。
 
 你服务器的世界设置决定任务分配的投递规则。在"始终即时"的服务器上，任务会送达收件人位于世界任何位置的"收件箱"。"始终实体"的服务器强制你亲手投递每一条消息。"混合"服务器则通过一个交互式开关同时提供这两种方式。
 
@@ -371,9 +362,8 @@ IBB
 BNB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/scribe/recipes/grid/assignmentdesk.json`
 
 ```json
 [
@@ -452,9 +442,8 @@ ISC
 NPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/scribe/recipes/grid/chalkboard.json`
 
 ```json
 [
@@ -526,9 +515,8 @@ BNB
 B_B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/scribe/recipes/grid/inbox.json`
 
 ```json
 [
@@ -579,9 +567,8 @@ BGM
 S__
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/scribe/recipes/grid/scribeclockmakernotebook-schematic.json`
 
 ```json
 [
@@ -640,9 +627,8 @@ S__
 BGM
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/scribe/recipes/grid/scribeclockmakernotebook.json`
 
 ```json
 [
@@ -702,9 +688,8 @@ PPP
 BPN
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/scribe/recipes/grid/scribelectern.json`
 
 ```json
 [
@@ -782,9 +767,8 @@ FRN
 BL_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/scribe/recipes/grid/scribenotebook.json`
 
 ```json
 [
@@ -894,9 +878,8 @@ SCC
 _CC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/scribe/recipes/grid/scribetablet-clay.json`
 
 ```json
 [
@@ -1016,9 +999,8 @@ TWW
 _WW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/scribe/recipes/grid/scribetablet-wax.json`
 
 ```json
 {
@@ -1082,9 +1064,8 @@ BPP
 NPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/scribe/recipes/grid/scriptorium.json`
 
 ```json
 [
@@ -1159,9 +1140,8 @@ NPP
 KPR
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/scribe/recipes/grid/tasknotice.json`
 
 ```json
 [

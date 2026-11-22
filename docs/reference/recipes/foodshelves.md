@@ -7,7 +7,6 @@
 
 ## 手册 1：食品架指南
 
-来源：`assets/foodshelves/config/handbook/31-foodshelvesguide.json`。
 
 食品架：玩家指南
 
@@ -102,9 +101,8 @@ PSP
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/barrels/barrelrack.json`
 
 ```json
 [
@@ -219,9 +217,8 @@ NP_
 SPS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/barrels/tun.json`
 
 ```json
 [
@@ -344,9 +341,8 @@ PSP
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/barrels/tunrack.json`
 
 ```json
 [
@@ -468,9 +464,8 @@ _P
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/baskets/eggbasket.json`
 
 ```json
 [
@@ -564,9 +559,8 @@ _P_
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/baskets/fruitbasket.json`
 
 ```json
 [
@@ -642,9 +636,8 @@ B
 PBP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/baskets/mushroombasket.json`
 
 ```json
 [
@@ -716,9 +709,8 @@ S_S
 P_P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/baskets/vegetablebasket.json`
 
 ```json
 [
@@ -849,9 +841,8 @@ GSG
 PCP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/coolers/coolingcabinet.json`
 
 ```json
 [
@@ -1115,9 +1106,8 @@ RCR
 PZP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/coolers/fruitcooler.json`
 
 ```json
 [
@@ -1557,9 +1547,8 @@ PCP
 PHP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/coolers/icekeeper.json`
 
 ```json
 [
@@ -1945,9 +1934,8 @@ PCP
 HZN
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/coolers/meatfreezer.json`
 
 ```json
 [
@@ -2347,9 +2335,8 @@ IS
 IS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/cutice.json`
 
 ```json
 [
@@ -2554,9 +2541,8 @@ SGS
 P_P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/glassware/fooddisplayblock.json`
 
 ```json
 [
@@ -2713,9 +2699,8 @@ SGP
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/glassware/fooddisplaycase.json`
 
 ```json
 [
@@ -2817,9 +2802,8 @@ SGS
 SPS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/glassware/jar.json`
 
 ```json
 [
@@ -2923,9 +2907,8 @@ SGS
 SSS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/glassware/jarlarge.json`
 
 ```json
 [
@@ -3027,9 +3010,8 @@ PGP
 PSP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/glassware/seedbins.json`
 
 ```json
 [
@@ -3137,9 +3119,8 @@ SGS
 PSP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/glassware/wallcabinet.json`
 
 ```json
 [
@@ -3239,9 +3220,8 @@ PS
 P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/other/buckethook.json`
 
 ```json
 [
@@ -3337,9 +3317,8 @@ PPP
 SRS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/other/ceilingrack.json`
 
 ```json
 [
@@ -3460,9 +3439,8 @@ PCP
 PSP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/other/floursack.json`
 
 ```json
 [
@@ -3608,9 +3586,8 @@ _SS
 SPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/other/jarstand.json`
 
 ```json
 [
@@ -3704,9 +3681,8 @@ P_P
 _P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/other/pumpkincase.json`
 
 ```json
 [
@@ -3893,9 +3869,8 @@ TP
 TP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/other/tablewshelf.json`
 
 ```json
 [
@@ -4173,9 +4148,8 @@ _S_
 ST
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/shelves/barshelf.json`
 
 ```json
 [
@@ -4286,9 +4260,8 @@ P_
 ST
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/shelves/breadshelf.json`
 
 ```json
 [
@@ -4400,9 +4373,8 @@ PPP
 SSS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/shelves/doubleshelf.json`
 
 ```json
 [
@@ -4496,9 +4468,8 @@ _P_
 ST
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/shelves/eggshelf.json`
 
 ```json
 [
@@ -4590,9 +4561,8 @@ P
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/shelves/pieshelf.json`
 
 ```json
 [
@@ -4694,9 +4664,8 @@ ST
 ST
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/shelves/seedshelf.json`
 
 ```json
 [
@@ -4810,9 +4779,8 @@ ST
 ST
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/shelves/shortshelf.json`
 
 ```json
 [
@@ -4915,9 +4883,8 @@ _S_
 ST
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/foodshelves/recipes/grid/shelves/sushishelf.json`
 
 ```json
 [

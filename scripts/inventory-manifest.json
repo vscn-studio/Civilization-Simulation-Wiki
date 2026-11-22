@@ -70,6 +70,20 @@
     "file": "Brickyard-1.0.2.zip"
   },
   {
+    "slug": "buildwright",
+    "name": "Buildwright",
+    "id": "buildwright",
+    "version": "1.0.4",
+    "file": "buildwright-1.0.4.zip"
+  },
+  {
+    "slug": "buildwrightserver",
+    "name": "Buildwright Server",
+    "id": "buildwrightserver",
+    "version": "1.0.4",
+    "file": "buildwrightserver-1.0.4.zip"
+  },
+  {
     "slug": "butcheringseraphlevelingcompatibility",
     "name": "Butchering + Seraph Leveling Compatibility",
     "id": "butcheringseraphlevelingcompatibility",
@@ -588,13 +602,6 @@
     "file": "Seasonal Flowers-2.0.2.zip"
   },
   {
-    "slug": "vsscpmod",
-    "name": "Seraph Civilization Patches",
-    "id": "vsscpmod",
-    "version": "1.0.1",
-    "file": "Seraph Civilization Patches-1.0.1.zip"
-  },
-  {
     "slug": "vsscsmod",
     "name": "Seraph Civilization Simulation",
     "id": "vsscsmod",
@@ -763,6 +770,13 @@
     "file": "VintageCanvas-1.4.2.zip"
   },
   {
+    "slug": "vscnlangpack",
+    "name": "VSCN Vintage Story 汉化包",
+    "id": "vscnlangpack",
+    "version": "26.11.7",
+    "file": "VintageStory-Chinese-Language-Package-26.11.7.zip"
+  },
+  {
     "slug": "visibleoresandminerals",
     "name": "Visible Ores and Minerals",
     "id": "visibleoresandminerals",
@@ -805,18 +819,18 @@
     "file": "VSCN Roping-1.1.15.zip"
   },
   {
-    "slug": "vscnlangpack",
-    "name": "VSCN Vintage Story 汉化包",
-    "id": "vscnlangpack",
-    "version": "26.11.2",
-    "file": "VSCN Vintage Story 汉化包-26.11.2.zip"
-  },
-  {
     "slug": "vscnlangpackupdater",
     "name": "VSCN 汉化包自动更新器",
     "id": "vscnlangpackupdater",
     "version": "26.8.7",
     "file": "VSCN 汉化包自动更新器-26.8.7.zip"
+  },
+  {
+    "slug": "vsimgui",
+    "name": "Dear ImGui",
+    "id": "vsimgui",
+    "version": "1.2.7",
+    "file": "vsimgui_1.2.7.zip"
   },
   {
     "slug": "vsinstrumentsredux",
@@ -826,18 +840,25 @@
     "file": "VSInstrumentsRedux-2.3.0.zip"
   },
   {
+    "slug": "vsscpmod",
+    "name": "Seraph Civilization Patches",
+    "id": "vsscpmod",
+    "version": "1.0.2",
+    "file": "vsscpmod_1.0.2.zip"
+  },
+  {
     "slug": "vsslssmod",
     "name": "Seraph A Living Survival Simulation",
     "id": "vsslssmod",
-    "version": "1.0.1",
-    "file": "vsslssmod-1.0.1.zip"
+    "version": "1.0.3",
+    "file": "vsslssmod-1.0.3.zip"
   },
   {
     "slug": "vsslssmoddebug",
     "name": "炽天使：生存模拟 - 调试工具",
     "id": "vsslssmoddebug",
-    "version": "1.0.1",
-    "file": "vsslssmoddebug-1.0.1.zip"
+    "version": "1.0.3",
+    "file": "vsslssmoddebug-1.0.3.zip"
   },
   {
     "slug": "walkableentities",

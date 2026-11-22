@@ -7,7 +7,6 @@
 
 ## 手册 1：养蜂入门 - 来自金色蜂巢
 
-来源：`assets/fromgoldencombs/config/handbook/FGC01-fromgoldencombsguide.json`。
 
 "小小蜜蜂多忙碌，
 
@@ -39,7 +38,6 @@
 
 ## 手册 2：养蜂进阶 - 蜜蜂与作物
 
-来源：`assets/fromgoldencombs/config/handbook/FGC02-fromgoldencombs-pollination.json`。
 
 "蜂蜜的血统
 
@@ -59,7 +57,6 @@
 
 ## 手册 3：养蜂进阶 103——朗斯特罗斯蜂箱
 
-来源：`assets/fromgoldencombs/config/handbook/FGC03-fromgoldencombs-langstrothguide.json`。
 
 朗斯特罗斯蜂箱是养蜂人的得意之作，兼顾蜂群与养蜂人的需要。它由一个 [handbook://block-fromgoldencombs:langstrothbase-ebony-baldcypress-east] 底座、一至三个 [handbook://block-fromgoldencombs:langstrothsuper-closed-ebony-baldcypress-east] 继箱和顶部装有蜂群的 [handbook://block-fromgoldencombs:langstrothbrood-ebony-baldcypress-maple-east] 育雏箱组成，每个继箱最多可放十个 [handbook://item-fromgoldencombs:beeframe-ebony-lined] 已加衬的蜂巢框。蜂群安顿下来后，这种蜂箱能提供最丰厚的蜂蜜和蜂蜡产量，也能为作物提供最好的增益。
 
@@ -151,9 +148,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/fromgoldencombs/recipes/barrel/langstrothparts.json`
 
 ```json
 [
@@ -202,9 +198,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/fromgoldencombs/recipes/barrel/waxedlinen.json`
 
 ```json
 [
@@ -255,9 +250,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/fromgoldencombs/recipes/barrel/waxedtwine.json`
 
 ```json
 [
@@ -297,9 +291,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/fromgoldencombs/recipes/clayforming/hivetop.json`
 
 ```json
 {
@@ -419,9 +412,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/fromgoldencombs/recipes/clayforming/rawclaypothive.json`
 
 ```json
 {
@@ -858,9 +850,8 @@ SHS
 PAP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/fromgoldencombs/recipes/grid/framerack.json`
 
 ```json
 [
@@ -1640,9 +1631,8 @@ PPP
 L_L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/fromgoldencombs/recipes/grid/langstrothbase.json`
 
 ```json
 [
@@ -2474,9 +2464,8 @@ _H_
 PAP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/fromgoldencombs/recipes/grid/langstrothsuper.json`
 
 ```json
 [
@@ -3020,9 +3009,8 @@ R
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/fromgoldencombs/recipes/grid/parts/beeframe.json`
 
 ```json
 [
@@ -3198,9 +3186,8 @@ K
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/fromgoldencombs/recipes/grid/parts/frameliner.json`
 
 ```json
 [
@@ -3455,9 +3442,8 @@ _H_	_A_	PAP
 _H_	_A_	PAP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/fromgoldencombs/recipes/grid/parts/langstrothpart-brood.json`
 
 ```json
 [

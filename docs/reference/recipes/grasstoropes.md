@@ -28,9 +28,8 @@ LBL
 CLC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/beenade.json`
 
 ```json
 [
@@ -92,9 +91,8 @@ BBB
 SSS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/crudeshield.json`
 
 ```json
 [
@@ -142,9 +140,8 @@ P
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/extinguishedtorch.json`
 
 ```json
 [
@@ -194,9 +191,8 @@ BBB
 _B_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/flaxfibers.json`
 
 ```json
 [
@@ -276,9 +272,8 @@ KB
 KB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/grassbundle.json`
 
 ```json
 [
@@ -388,9 +383,8 @@ LLL
 KC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/grasschest.json`
 
 ```json
 [
@@ -479,9 +473,8 @@ BBB
 KB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/grasshandbasket.json`
 
 ```json
 [
@@ -545,9 +538,8 @@ BB
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/haybale.json`
 
 ```json
 [
@@ -611,9 +603,8 @@ CSC
 CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/hunterbackpack.json`
 
 ```json
 [
@@ -708,9 +699,8 @@ SBS
 _C_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/poultice.json`
 
 ```json
 [
@@ -792,9 +782,8 @@ _C_
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/rope.json`
 
 ```json
 [
@@ -840,9 +829,8 @@ LL_
 LL_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/rushmatting.json`
 
 ```json
 [
@@ -892,9 +880,8 @@ LLL
 LCL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/skep.json`
 
 ```json
 [
@@ -943,9 +930,8 @@ LCL
 KT
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/grasstoropes/recipes/grid/thatch.json`
 
 ```json
 [

@@ -33,9 +33,8 @@ DEF
 G_H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/drum-machine.json`
 
 ```json
 {
@@ -123,9 +122,8 @@ SFS
 PLF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/erhu.json`
 
 ```json
 {
@@ -195,9 +193,8 @@ A
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/flute.json`
 
 ```json
 {
@@ -253,9 +250,8 @@ ABC
 DEF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/headphonograph.json`
 
 ```json
 {
@@ -333,9 +329,8 @@ CDC
 CEC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/musicbox.json`
 
 ```json
 {
@@ -404,9 +399,8 @@ BCB
 DDD
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/musiclectern.json`
 
 ```json
 {
@@ -470,9 +464,8 @@ _B_
 CDC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/phonograph.json`
 
 ```json
 {
@@ -534,9 +527,8 @@ B
 A
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/phonographcylinder.json`
 
 ```json
 {
@@ -587,9 +579,8 @@ BBB
 B_B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/pianobench.json`
 
 ```json
 {
@@ -645,9 +636,8 @@ ABC
 DEF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/portablephonograph.json`
 
 ```json
 {
@@ -728,9 +718,8 @@ DEF
 G_H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/saw-synth.json`
 
 ```json
 {
@@ -814,9 +803,8 @@ B
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/saxophone.json`
 
 ```json
 {
@@ -875,9 +863,8 @@ DEF
 G_H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/square-synth.json`
 
 ```json
 {
@@ -967,9 +954,8 @@ DEF
 G_H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/synth-bass.json`
 
 ```json
 {
@@ -1059,9 +1045,8 @@ DEF
 G_H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsinstrumentsredux/recipes/grid/warm-pad.json`
 
 ```json
 {

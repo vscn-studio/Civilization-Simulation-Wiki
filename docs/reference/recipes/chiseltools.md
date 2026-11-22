@@ -7,7 +7,6 @@
 
 ## 手册 1：凿子工具指南
 
-来源：`assets/chiseltools/config/handbook/chiseltools.json`。
 
 欢迎使用凿子工具！
 
@@ -75,9 +74,8 @@
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledanvil-true.json`
 
 ```json
 {
@@ -126,9 +124,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledbarrel-true.json`
 
 ```json
 {
@@ -176,9 +173,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledbarrel.json`
 
 ```json
 {
@@ -226,9 +222,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledbed - true.json`
 
 ```json
 {
@@ -276,9 +271,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledbed.json`
 
 ```json
 {
@@ -440,9 +434,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledbookshelf.json`
 
 ```json
 [
@@ -709,9 +702,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledchest - true.json`
 
 ```json
 {
@@ -759,9 +751,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledchest.json`
 
 ```json
 {
@@ -808,9 +799,8 @@ L	H
 HHH
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledchestbig - true - fromdeco.json`
 
 ```json
 {
@@ -852,9 +842,8 @@ HHH
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledchestbig - true.json`
 
 ```json
 {
@@ -902,9 +891,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledchestbig.json`
 
 ```json
 {
@@ -952,9 +940,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledchimney - true.json`
 
 ```json
 {
@@ -1002,9 +989,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledchimney.json`
 
 ```json
 {
@@ -1052,9 +1038,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseleddisplaycase - true.json`
 
 ```json
 {
@@ -1102,9 +1087,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseleddisplaycase.json`
 
 ```json
 {
@@ -1152,9 +1136,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledfirepit - true.json`
 
 ```json
 {
@@ -1202,9 +1185,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledfirepit.json`
 
 ```json
 {
@@ -1252,9 +1234,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledflowerpot - true.json`
 
 ```json
 {
@@ -1302,9 +1283,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledflowerpot.json`
 
 ```json
 {
@@ -1352,9 +1332,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledforge - true.json`
 
 ```json
 {
@@ -1402,9 +1381,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledforge.json`
 
 ```json
 {
@@ -1452,9 +1430,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledoven - true.json`
 
 ```json
 {
@@ -1502,9 +1479,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledoven.json`
 
 ```json
 {
@@ -1552,9 +1528,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledplanter - true.json`
 
 ```json
 {
@@ -1602,9 +1577,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledplanter.json`
 
 ```json
 {
@@ -1652,9 +1626,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledshelf - true.json`
 
 ```json
 {
@@ -1702,9 +1675,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledshelf.json`
 
 ```json
 {
@@ -1752,9 +1724,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledsign - true.json`
 
 ```json
 {
@@ -1802,9 +1773,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledsign.json`
 
 ```json
 {
@@ -1852,9 +1822,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledstoragevessel - true.json`
 
 ```json
 {
@@ -1902,9 +1871,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledstoragevessel.json`
 
 ```json
 {
@@ -1952,9 +1920,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledtable - true.json`
 
 ```json
 {
@@ -2002,9 +1969,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledtable.json`
 
 ```json
 {
@@ -2052,9 +2018,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledtoolrack - true.json`
 
 ```json
 {
@@ -2102,9 +2067,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledtoolrack.json`
 
 ```json
 {
@@ -2170,9 +2134,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledwatersource.json`
 
 ```json
 [
@@ -2245,9 +2208,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledwoodenfence - true.json`
 
 ```json
 {
@@ -2295,9 +2257,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiseledwoodenfence.json`
 
 ```json
 {
@@ -2363,9 +2324,8 @@ L	H
 L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/chiselprojector.json`
 
 ```json
 [
@@ -2475,9 +2435,8 @@ P	H	W
 P	H	W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/megapantograph.json`
 
 ```json
 [
@@ -2673,9 +2632,8 @@ CMF
 CMF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/palette-glow.json`
 
 ```json
 [
@@ -2919,9 +2877,8 @@ PF_	MCQ
 PF_	MCQ
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/palette-light.json`
 
 ```json
 [
@@ -3093,9 +3050,8 @@ CMF
 CMF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/palette.json`
 
 ```json
 [
@@ -3240,9 +3196,8 @@ P
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/pantograph.json`
 
 ```json
 [
@@ -3344,9 +3299,8 @@ P
 LP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/qpchisel.json`
 
 ```json
 {
@@ -3400,9 +3354,8 @@ LP
 L	L	H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/grid/truechisel.json`
 
 ```json
 {
@@ -3441,9 +3394,8 @@ L	L	H
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/smithing/doortool.json`
 
 ```json
 {
@@ -3488,9 +3440,8 @@ L	L	H
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/smithing/handplaner.json`
 
 ```json
 {
@@ -3536,9 +3487,8 @@ L	L	H
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/smithing/handwedge.json`
 
 ```json
 {
@@ -3584,9 +3534,8 @@ L	L	H
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/smithing/laddermaker.json`
 
 ```json
 {
@@ -3628,9 +3577,8 @@ L	L	H
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/smithing/locktool.json`
 
 ```json
 {
@@ -3675,9 +3623,8 @@ L	L	H
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/smithing/paintbrush.json`
 
 ```json
 {
@@ -3722,9 +3669,8 @@ L	L	H
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/smithing/paintscraper.json`
 
 ```json
 {
@@ -3773,9 +3719,8 @@ L	L	H
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/smithing/pantograph.json`
 
 ```json
 {
@@ -3820,9 +3765,8 @@ L	L	H
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/smithing/pathmaker.json`
 
 ```json
 {
@@ -3867,9 +3811,8 @@ L	L	H
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chiseltools/recipes/smithing/simple-pantograph.json`
 
 ```json
 {

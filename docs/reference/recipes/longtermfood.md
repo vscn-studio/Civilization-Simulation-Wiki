@@ -43,9 +43,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/game/recipes/cooking/salt.json`
 
 ```json
 [
@@ -291,9 +290,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/algae-barrel.json`
 
 ```json
 [
@@ -498,9 +496,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/algae-green.json`
 
 ```json
 [
@@ -642,9 +639,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/beer-brewing.json`
 
 ```json
 [
@@ -773,9 +769,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/cheesemaking.json`
 
 ```json
 [
@@ -1034,9 +1029,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/cleanpot.json`
 
 ```json
 [
@@ -1269,9 +1263,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/medbrew.json`
 
 ```json
 [
@@ -1342,9 +1335,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/papyrus-fiber.json`
 
 ```json
 [
@@ -1404,9 +1396,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/pickled.json`
 
 ```json
 [
@@ -1475,9 +1466,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/pickledmushroom.json`
 
 ```json
 {
@@ -1545,9 +1535,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/pulp-to-hide.json`
 
 ```json
 [
@@ -1649,9 +1638,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/saltymilk.json`
 
 ```json
 [
@@ -1737,9 +1725,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/starch.json`
 
 ```json
 [
@@ -1890,9 +1877,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/barrel/wort-brewing.json`
 
 ```json
 [
@@ -2148,9 +2134,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/cooking/algae.json`
 
 ```json
 [
@@ -2271,9 +2256,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/cooking/chips.json`
 
 ```json
 [
@@ -2649,9 +2633,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/cooking/green-candle.json`
 
 ```json
 [
@@ -2829,9 +2812,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/cooking/leather.json`
 
 ```json
 [
@@ -2969,9 +2951,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/cooking/med-aloe.json`
 
 ```json
 [
@@ -3233,9 +3214,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/cooking/med-healbulb.json`
 
 ```json
 [
@@ -3794,9 +3774,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/cooking/medrefine.json`
 
 ```json
 [
@@ -3923,9 +3902,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/cooking/milk-dry.json`
 
 ```json
 [
@@ -4120,9 +4098,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/cooking/milk-normal.json`
 
 ```json
 [
@@ -4365,9 +4342,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/cooking/syrup.json`
 
 ```json
 [
@@ -5197,9 +5173,8 @@ KK
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/algae.json`
 
 ```json
 [
@@ -5440,9 +5415,8 @@ W
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/bandage-wax.json`
 
 ```json
 [
@@ -5586,9 +5560,8 @@ MGM
 MMM
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/beer-yeast.json`
 
 ```json
 [
@@ -5811,9 +5784,8 @@ BMB
 BPB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/caramel.json`
 
 ```json
 [
@@ -5982,9 +5954,8 @@ K
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/chips-pack.json`
 
 ```json
 [
@@ -6102,9 +6073,8 @@ P
 K
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/dough.json`
 
 ```json
 [
@@ -6251,9 +6221,8 @@ K
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/fish-pack.json`
 
 ```json
 [
@@ -6336,9 +6305,8 @@ K
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/healingbulb-seeds.json`
 
 ```json
 [
@@ -6445,9 +6413,8 @@ K
 F
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/healingherb.json`
 
 ```json
 [
@@ -6649,9 +6616,8 @@ KV_
 S__
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/kebab.json`
 
 ```json
 [
@@ -7029,9 +6995,8 @@ K
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/meat-pack.json`
 
 ```json
 [
@@ -7245,9 +7210,8 @@ K
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/mushroom-pack.json`
 
 ```json
 [
@@ -7423,9 +7387,8 @@ NW
 G_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/mushroomclean.json`
 
 ```json
 [
@@ -8020,9 +7983,8 @@ MOM
 MMM
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/mushroompate.json`
 
 ```json
 [
@@ -8375,9 +8337,8 @@ K
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/nutri-pack.json`
 
 ```json
 [
@@ -8597,9 +8558,8 @@ MK
 BP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/nutribar.json`
 
 ```json
 [
@@ -8943,9 +8903,8 @@ KKK
 KKK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/papyrus-fiber.json`
 
 ```json
 [
@@ -9778,9 +9737,8 @@ BBB
 MFM
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/pemmican.json`
 
 ```json
 [
@@ -11124,9 +11082,8 @@ K
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/rusks-pack.json`
 
 ```json
 [
@@ -11369,9 +11326,8 @@ K
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/rusks.json`
 
 ```json
 [
@@ -11744,9 +11700,8 @@ K
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/rusks2.json`
 
 ```json
 [
@@ -12034,9 +11989,8 @@ A
 V
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/seeds.json`
 
 ```json
 [
@@ -12178,9 +12132,8 @@ K
 V
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/pemmican/recipes/grid/vegetable.json`
 
 ```json
 [

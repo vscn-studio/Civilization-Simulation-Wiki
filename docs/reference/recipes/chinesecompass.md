@@ -7,7 +7,6 @@
 
 ## 手册 1：中国罗盘
 
-来源：`assets/chinesecompass/config/handbook/chinesecompass.json`。
 
 指南
 
@@ -23,7 +22,7 @@
 
 司南
 
-磁铁矿粒＋凿子粗凿成司南勺（凿子消耗20耐久）。蓝粘土、红粘土、耐火粘土捏制对应陶模，烧制后浇注200单位铜，冷却得无字盘片。薄铜片＋凿子刻出凸起的铜质文字和线纹，制成司南盘，耗10耐久。司南盘＋司南勺组装司南。
+磁铁矿粒＋凿子粗凿成司南勺（凿子消耗20耐久）。蓝黏土、红黏土、耐火黏土捏制对应陶模，烧制后浇注200单位铜，冷却得无字盘片。薄铜片＋凿子刻出凸起的铜质文字和线纹，制成司南盘，耗10耐久。司南盘＋司南勺组装司南。
 
 ## 配方清单
 
@@ -37,9 +36,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chinesecompass/recipes/clayforming/sinan-mold.json`
 
 ```json
 {
@@ -553,9 +551,8 @@ CQ
 CQ
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chinesecompass/recipes/grid/compass-cover.json`
 
 ```json
 [
@@ -1394,9 +1391,8 @@ _N_
 W_W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chinesecompass/recipes/grid/marinerscompass.json`
 
 ```json
 [
@@ -1744,9 +1740,8 @@ W_W
 QQ
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chinesecompass/recipes/grid/quartz-cover.json`
 
 ```json
 {
@@ -1786,9 +1781,8 @@ QQ
 PC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chinesecompass/recipes/grid/sinan-engrave.json`
 
 ```json
 {
@@ -1836,9 +1830,8 @@ PC
 OC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chinesecompass/recipes/grid/sinan-spoon.json`
 
 ```json
 [
@@ -1890,9 +1883,8 @@ OC
 SP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/chinesecompass/recipes/grid/sinan.json`
 
 ```json
 {

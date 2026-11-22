@@ -17,7 +17,7 @@ const mods = computed(() => [...new Map((data.value?.foods || []).map(r=>[r.mod,
 const foodCategories = computed(() => [...new Set((data.value?.foods || []).map(r=>r.category))])
 const search = values => values.join(' ').toLowerCase().includes(query.value.trim().toLowerCase())
 const filtered = computed(() => mode.value === 'calibration'
-  ? calibrationRows.value.filter(r => (!mod.value || r.mods.includes(mod.value)) && search([...r.names,...r.c.Codes,r.c.Source]))
+  ? calibrationRows.value.filter(r => (!mod.value || r.mods.includes(mod.value)) && search([...r.names,...r.c.Codes]))
   : (data.value?.foods || []).filter(r => (!mod.value || mod.value===r.mod) && (!category.value || category.value===r.category) && search([...r.names,...r.codes,r.code,r.modName,r.condition])))
 const pages = computed(() => Math.max(1,Math.ceil(filtered.value.length/pageSize)))
 const rows = computed(() => filtered.value.slice((page.value-1)*pageSize,page.value*pageSize))
@@ -45,7 +45,7 @@ const names = row => row.names.filter(n=>/[\u4e00-\u9fff]/.test(n)).slice(0,3).j
       <p v-else>原版饱食度与 Seraph 营养采用不同计量方式。此处保留资源中的条件分支，不将其合并为游戏最终数值。</p>
       <p aria-live="polite">找到 {{ filtered.length }} 条记录 · 第 {{ page }} / {{ pages }} 页</p>
       <div class="table-scroll" tabindex="0" aria-label="食物表，可横向滚动">
-        <table v-if="mode==='calibration'"><thead><tr><th>食物</th><th>校准份量</th><th>水分（g）</th><th>能量（kJ）</th><th>宏量营养（g）</th><th>全部营养与来源</th></tr></thead>
+        <table v-if="mode==='calibration'"><thead><tr><th>食物</th><th>校准份量</th><th>水分（g）</th><th>能量（kJ）</th><th>宏量营养（g）</th><th>完整营养</th></tr></thead>
           <tbody><tr v-for="r in rows" :key="r.i">
             <td>{{ names(r) }}<br><small>{{ preparations[r.c.Preparation] || '加工状态见原始记录' }}</small></td>
             <td>{{ fmt(r.c.PortionG) }} g</td><td>{{ amount(r.c,r.c.WaterGPer100G) }}</td><td>{{ amount(r.c,r.c.EnergyKJPer100G) }}</td>
@@ -58,10 +58,10 @@ const names = row => row.names.filter(n=>/[\u4e00-\u9fff]/.test(n)).slice(0,3).j
             </details><details><summary>技术说明与原始记录</summary><p>数据置信度：{{ confidence[r.c.Confidence] || '未声明' }}。未声明值不能当作零。</p><p>物品代码：{{ r.c.Codes.join('、') }}</p><pre>{{ JSON.stringify(r.c,null,2) }}</pre></details></td>
           </tr></tbody>
         </table>
-        <table v-else><thead><tr><th>食物与来源</th><th>营养类别</th><th>原版饱食度</th><th>健康值</th><th>条件与来源</th></tr></thead>
-          <tbody><tr v-for="r in rows" :key="[r.mod,r.file,r.condition,r.code].join(':')">
+        <table v-else><thead><tr><th>食物与所属模组</th><th>营养类别</th><th>原版饱食度</th><th>健康值</th><th>适用条件</th></tr></thead>
+          <tbody><tr v-for="(r,index) in rows" :key="[r.mod,r.condition,r.code,page,index].join(':')">
             <td>{{ names(r) }}<br><small>{{ r.modName }}</small></td><td>{{ categories[r.category] || r.category }}</td><td>{{ fmt(r.satiety) }}</td><td>{{ fmt(r.health) }}</td>
-            <td><details><summary>适用条件与技术说明</summary><p>代码：{{ r.codes.join('、') || r.code }}</p><p>条件路径：<code>{{ r.condition }}</code></p><p>文件：<code>{{ r.file }}</code></p><p v-if="r.liquidUnits!=null">每升物品数：{{ fmt(r.liquidUnits) }}</p><p>匹配到 {{ r.calibrations.length }} 条 Seraph 校准；可切换至校准表按代码搜索。未匹配不表示零营养。</p><pre>{{ JSON.stringify(r.nutrition,null,2) }}</pre><p v-if="r.unresolvedVariants.length">尚未展开的变体：</p><pre v-if="r.unresolvedVariants.length">{{ JSON.stringify(r.unresolvedVariants,null,2) }}</pre></details></td>
+            <td><details><summary>适用条件与技术说明</summary><p>代码：{{ r.codes.join('、') || r.code }}</p><p>营养适用字段：<code>{{ r.condition }}</code></p><p v-if="r.liquidUnits!=null">每升物品数：{{ fmt(r.liquidUnits) }}</p><p>匹配到 {{ r.calibrations.length }} 条 Seraph 校准；可切换至校准表按代码搜索。未匹配不表示零营养。</p><pre>{{ JSON.stringify(r.nutrition,null,2) }}</pre><p v-if="r.unresolvedVariants.length">尚未展开的变体：</p><pre v-if="r.unresolvedVariants.length">{{ JSON.stringify(r.unresolvedVariants,null,2) }}</pre></details></td>
           </tr></tbody>
         </table>
       </div>

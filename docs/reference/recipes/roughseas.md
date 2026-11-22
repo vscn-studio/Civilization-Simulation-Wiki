@@ -7,7 +7,6 @@
 
 ## 手册 1：惊涛骇浪：出海
 
-来源：`assets/roughseas/config/handbook/00-goingtosea.json`。
 
 出海
 
@@ -29,11 +28,7 @@
 
 在水中
 
-你漂浮着，水面齐到脸，浪把你托上、放下，并带着你走。
-
-在湖里或河里，不游就会慢慢下沉。按住jump，让头露出水面。
-
-在你头上破碎的浪峰会把你压到水下，并带着你随浪而去。在拍岸浪里，最高的浪会破碎，靠近海滩时几乎每道浪都会破碎。
+你靠自己的力气漂浮和游泳，身上带的东西会把你往下拽。参见 [handbook://roughseas-swimming] 游泳。
 
 世界设置
 
@@ -43,9 +38,16 @@
 
 要在已创建的世界中更改设置，请使用/worldconfig命令，然后重新载入世界。
 
+声音
+
+外海、碎浪和白浪暂时不再发声，直到 Rough Seas 用真实录音重新制作它们的声音。
+
+沿着海岸，你能听到游戏自带的水波拍岸声。
+
+你仍能听到每道浪拍打船体、碎浪撞上船身，以及船体的撞击声和开裂声。
+
 ## 手册 2：惊涛骇浪：风、风暴与洋流
 
-来源：`assets/roughseas/config/handbook/01-weather.json`。
 
 风
 
@@ -54,6 +56,8 @@
 风越大，在开阔水面上吹得越久，浪就越高。大湖也会掀起自己的浪。
 
 树木、云、雨和船的摇晃都随风而动。离岸之前先四下看看，了解风怎么刮。
+
+风会把每条船推向下风，又轻、船舷又高的船被推得最远。
 
 风暴
 
@@ -85,7 +89,6 @@
 
 ## 手册 3：惊涛骇浪：船只及其修理
 
-来源：`assets/roughseas/config/handbook/02-vessels.json`。
 
 选择船只
 
@@ -99,7 +102,7 @@
 
 -  [handbook://item-roughseas:currach] 皮面库拉船：在地上把两根长木条绑成舷缘，倒扣着在兽皮下搭好骨架，再翻过来。能载货，能越过涌浪。
 
--  [handbook://item-roughseas:outrigger-oak] 边架艇：一条独木舟就地装上浮木、横杆和船帆。在开阔海面上又快又稳。
+-  [handbook://item-roughseas:outrigger-oak] 边架艇：一条独木舟就地装上浮木、横杆和船帆。在开阔海面上平稳，能紧贴风向抢风航行。
 
 -  [handbook://item-boat-sailed-oak] 帆船：坚固宽敞，适合远航。
 
@@ -118,6 +121,14 @@
 又长又窄的船体走得快，圆的或宽的走得慢。载货会让任何船变慢。
 
 划桨、撑船和摇长桨都会让你饥饿。
+
+货物
+
+独木舟、边架艇、树皮舟和库拉船把货物散放在舱底，装在货舱里。对货舱底部按rightmouse即可打开。舱里最大的几堆物品会以小堆的样子摆在那里，货舱越满，小堆越大。
+
+拿起船之前，先清空货舱。
+
+木筏和芦苇船用ctrl + rightmouse放一个篮子，帆船则放篮子和箱子。圆皮舟不能载货。
 
 状态
 
@@ -175,7 +186,6 @@
 
 ## 手册 4：惊涛骇浪：拍岸浪、进水与舀水
 
-来源：`assets/roughseas/config/handbook/03-surf.json`。
 
 拍岸浪
 
@@ -233,7 +243,6 @@
 
 ## 手册 5：惊涛骇浪：系泊与抛锚
 
-来源：`assets/roughseas/config/handbook/04-mooring.json`。
 
 无人看管的船会随洋流漂走，风暴还可能把它抛上岸。离开船之前，把它系好或抛锚。
 
@@ -277,7 +286,6 @@
 
 ## 手册 6：惊涛骇浪：游泳
 
-来源：`assets/roughseas/config/handbook/05-swimming.json`。
 
 游泳
 
@@ -379,9 +387,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/roughseas/recipes/barrel/lath.json`
 
 ```json
 [
@@ -518,9 +525,8 @@ RRR
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/roughseas/recipes/grid/anchorwarp.json`
 
 ```json
 [
@@ -658,9 +664,8 @@ B
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/roughseas/recipes/grid/lathbundles.json`
 
 ```json
 [
@@ -818,9 +823,8 @@ B
 AP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/roughseas/recipes/grid/laths.json`
 
 ```json
 [
@@ -891,9 +895,8 @@ AK
 PL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/roughseas/recipes/grid/propulsion.json`
 
 ```json
 [
@@ -1006,9 +1009,8 @@ LKL
 KF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/roughseas/recipes/grid/vessels.json`
 
 ```json
 [

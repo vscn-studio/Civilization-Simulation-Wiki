@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
+from local_inputs import required_dir, source_dir
 import json, os
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parent.parent
-CFG=Path(os.environ.get('SERAPH_MODCONFIG_DIR', r'C:\Users\29596\AppData\Roaming\MVL\Modpack\测试服务器\Logs\服务器相关\ModConfig'))
+CFG = required_dir('SERAPH_MODCONFIG_DIR')
 FILES=['vsslssmod.Server.json','SeraphCivilizationSimulation.json','VscnCivilizationSimulation.json','vsscpmod-privacy.json','vsscpmod-quarry-carry.json']
 
 def flatten(v,p=''):

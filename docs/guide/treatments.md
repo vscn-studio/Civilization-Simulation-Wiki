@@ -25,7 +25,7 @@
 <details><summary>技术说明：治疗定义、参数与应用规则</summary>
 
 
-> 证据：`Treatments.cs`、`TreatmentApi.cs`。模组治疗是游戏机制；源码明确写明不代表现实医疗剂量。
+模组治疗是游戏机制；治疗剂量不代表现实医疗剂量。
 
 ## TreatmentDefinition 字段
 

@@ -74,7 +74,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`norovirus`；名称：Norovirus；途径：`Ingestion`；最大负担参数：0.6。
 
@@ -82,7 +82,6 @@
 
 计算与分组：食物中毒组；恶心系数 0.9。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -98,7 +97,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`giardia`；名称：Giardia duodenalis；途径：`Ingestion`；最大负担参数：0.5。
 
@@ -106,7 +105,6 @@
 
 计算与分组：不属于 FoodPoisoning 组；消化效率为 1 − 有效病原负担 × 0.4；恶心系数 0.3、腹痛系数 0.4。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -122,7 +120,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`shigella`；名称：Shigella；途径：`Ingestion`；最大负担参数：0.65。
 
@@ -130,7 +128,6 @@
 
 计算与分组：痢疾组；症状期固定失水分量为 0.5 × (1 − 针对此病原的缓解率) L/游戏小时，与一般肠道失水取较大值；腹痛系数 0.9。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -146,7 +143,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`ecoli`；名称：Pathogenic Escherichia coli；途径：`Ingestion`；最大负担参数：0.55。
 
@@ -154,7 +151,6 @@
 
 计算与分组：食物中毒组；恶心系数 0.4、腹痛系数 0.7。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -170,7 +166,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`salmonella`；名称：Salmonella；途径：`Ingestion`；最大负担参数：0.6。
 
@@ -180,7 +176,6 @@
 
 `FoodCatalog.Composition` 仅在判为未熟制动物肉时添加沙门氏菌；代码还包含 `bushmeat` 时添加旋毛虫。原版中文名称为“生野味”。每种新增病原剂量为 `quantity × 0.08`，不是感染概率。`quantity` 是本次组成计算的数量输入，固体按物品数量，液体按调用的升数或物品单位处理；肉块剩余比例与熟制参考换算可能先修改该数值，不能把它统一解释成克数。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -196,7 +191,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`wound-staph`；名称：Staphylococcus aureus；途径：`OpenWound`；最大负担参数：0.5。
 
@@ -204,7 +199,6 @@
 
 计算与分组：发热组；也是败血症候选病原。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -220,7 +214,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`respiratory`；名称：Environmental respiratory pathogen；途径：`Airborne`；最大负担参数：0.45。
 
@@ -228,7 +222,6 @@
 
 计算与分组：发热组；附近传播按距离、通风、双方呼吸防护和携带者负担缩放。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -244,7 +237,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`common-cold`；名称：Common cold virus；途径：`Airborne`；最大负担参数：0.5。
 
@@ -252,7 +245,6 @@
 
 计算与分组：CommonCold 组；与发热组分开，不能默认具有同样的体温设定点。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -268,7 +260,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`qfever`；名称：Coxiella burnetii；途径：`Airborne`；最大负担参数：0.65。
 
@@ -276,7 +268,6 @@
 
 计算与分组：发热组，设定点随该组最强有效负担上升。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -292,7 +283,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`tularemia`；名称：Francisella tularensis；途径：`Airborne`；最大负担参数：0.7。
 
@@ -300,7 +291,6 @@
 
 计算与分组：发热组；本版本通用病程比 Q 热初始负担高（0.7 对 0.65）。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -316,7 +306,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`histoplasmosis`；名称：Histoplasma；途径：`Airborne`；最大负担参数：0.55。
 
@@ -324,7 +314,6 @@
 
 计算与分组：发热组；基准潜伏 12 游戏小时，比 Q 热与土拉菌的 6 小时长。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -340,7 +329,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`pasteurella`；名称：Pasteurella multocida；途径：`Internal`；最大负担参数：0.65。
 
@@ -348,7 +337,6 @@
 
 计算与分组：发热组与败血症候选；基准潜伏 3 游戏小时。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -364,7 +352,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`sporotrichosis`；名称：Sporothrix；途径：`Internal`；最大负担参数：0.5。
 
@@ -372,7 +360,6 @@
 
 计算与分组：发热组；不在 SepsisAgent 四种病原清单内。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -388,7 +375,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`murinetyphus`；名称：Rickettsia typhi；途径：`Vector`；最大负担参数：0.65。
 
@@ -396,7 +383,6 @@
 
 计算与分组：发热组；VectorAttached 与已感染是不同状态。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -412,7 +398,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`malaria`；名称：Plasmodium；途径：`Vector`；最大负担参数：0.7。
 
@@ -420,7 +406,6 @@
 
 计算与分组：发热组；基准潜伏 12、症状 36、恢复 24 游戏小时。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -436,7 +421,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`trichinosis`；名称：Trichinella；途径：`Ingestion`；最大负担参数：0.6。
 
@@ -446,7 +431,6 @@
 
 `FoodCatalog.Composition` 仅在判为未熟制动物肉时添加沙门氏菌；代码还包含 `bushmeat` 时添加旋毛虫。原版中文名称为“生野味”。每种新增病原剂量为 `quantity × 0.08`，不是感染概率。`quantity` 是本次组成计算的数量输入，固体按物品数量，液体按调用的升数或物品单位处理；肉块剩余比例与熟制参考换算可能先修改该数值，不能把它统一解释成克数。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -462,7 +446,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`anthrax`；名称：Bacillus anthracis；途径：`Skin`；最大负担参数：0.7。
 
@@ -470,7 +454,6 @@
 
 计算与分组：发热组、败血症候选。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -486,7 +469,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`tetanus`；名称：Clostridium tetani；途径：`Skin`；最大负担参数：0.75。
 
@@ -494,7 +477,6 @@
 
 计算与分组：发热组；初始负担 0.75，基准症状期 36 小时；不属于 SepsisAgent 四种。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -502,15 +484,15 @@
 
 **感染来源：** 皮肤接触到环境真菌，污染超过皮肤屏障的处理能力后可进入；不要求有伤口。
 
-**游戏表现：** 显示皮肤真菌感染病程，潜伏基准仅 30 生理秒，症状基准为 45 生理小时；源码没有为它另设四类通用综合征中的一种。
+**游戏表现：** 显示皮肤真菌感染病程，潜伏基准仅 30 生理秒，症状基准为 45 生理小时；本病未单独设置四类通用综合征中的一种。
 
 **基准病程：** 潜伏 30 生理秒，症状 45 生理小时，恢复 30 生理小时。
 
-**如何处理：** 清洁皮肤、降低持续污染暴露，观察疾病条目；不要凭本病名称宣称有源码未实现的瘙痒、皮疹或特效药。
+**如何处理：** 清洁皮肤、降低持续污染暴露，观察疾病条目；不要凭本病名称宣称有游戏未提供的瘙痒、皮疹或特效药。
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`skin-fungal`；名称：Environmental skin fungi；途径：`Skin`；最大负担参数：0.4。
 
@@ -518,7 +500,6 @@
 
 计算与分组：不映射到四个 SymptomKit；基准潜伏仅 30 生物秒，症状 45 游戏小时。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -534,7 +515,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`water-enteric`；名称：水源肠道病原；途径：`Ingestion`；最大负担参数：0.6。
 
@@ -542,7 +523,6 @@
 
 计算与分组：食物中毒组；不具有诺如、沙门等各自额外的恶心/腹痛系数。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -558,7 +538,7 @@
 
 **恢复判断：** 结合疾病阶段、剩余时间和身体指标持续观察；症状减轻不等于病程已结束。
 
-<details><summary>技术说明与来源</summary>
+<details><summary>技术说明</summary>
 
 病原代码：`wound-local`；名称：局部伤口病原；途径：`OpenWound`；最大负担参数：0.5。
 
@@ -566,7 +546,6 @@
 
 计算与分组：发热组与败血症候选。
 
-来源：`Pathogens.cs`、`DiseaseExposure.cs`、`DiseaseSyndromes.cs`、`ClinicalEffects.cs`、`FoodCatalog.cs`。
 
 </details>
 
@@ -598,7 +577,7 @@
 
 <details><summary>技术说明：屏障容量与清除量</summary>
 
-皮肤容量通常为 200；存在未愈合、出血且未包扎的开放伤口时降为 75。呼吸和摄入容量各为 100，摄入至少有 65% 通过屏障。皮肤每生理小时清除 10 单位，其余两路各 5；洗浴后皮肤屏障负荷乘 0.1。来源：`ExposureBarriers.cs`。
+皮肤容量通常为 200；存在未愈合、出血且未包扎的开放伤口时降为 75。呼吸和摄入容量各为 100，摄入至少有 65% 通过屏障。皮肤每生理小时清除 10 单位，其余两路各 5；洗浴后皮肤屏障负荷乘 0.1。
 
 </details>
 

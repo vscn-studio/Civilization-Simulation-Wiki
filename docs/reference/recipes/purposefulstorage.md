@@ -45,9 +45,8 @@ P_
 PS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/clothes/belthooks.json`
 
 ```json
 [
@@ -138,9 +137,8 @@ S
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/clothes/blanketrack.json`
 
 ```json
 [
@@ -237,9 +235,8 @@ PS
 PS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/clothes/gloverack.json`
 
 ```json
 [
@@ -337,9 +334,8 @@ TS
 B_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/clothes/hatrack.json`
 
 ```json
 [
@@ -447,9 +443,8 @@ P_
 PP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/clothes/necklacestand.json`
 
 ```json
 [
@@ -530,9 +525,8 @@ BPB
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/clothes/pantsrack.json`
 
 ```json
 [
@@ -629,9 +623,8 @@ PSP
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/clothes/shoerack.json`
 
 ```json
 [
@@ -771,9 +764,8 @@ XTX
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/clothes/wardrobe.json`
 
 ```json
 [
@@ -966,9 +958,8 @@ PGP
 PRP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/general/apothecarycabinet.json`
 
 ```json
 [
@@ -1110,9 +1101,8 @@ SGS
 SLS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/general/butterflydisplaypanel.json`
 
 ```json
 [
@@ -1222,9 +1212,8 @@ SS
 PP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/general/gearrack.json`
 
 ```json
 [
@@ -1318,9 +1307,8 @@ SPS
 _S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/general/glidermount.json`
 
 ```json
 [
@@ -1424,9 +1412,8 @@ GNG
 PSP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/general/jonaspartscabinet.json`
 
 ```json
 [
@@ -1558,9 +1545,8 @@ _BP
 PLP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/general/medallionrack.json`
 
 ```json
 [
@@ -1669,9 +1655,8 @@ _S_
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/general/saddlerack.json`
 
 ```json
 [
@@ -1763,9 +1748,8 @@ PP_
 P_P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/general/schematicrack.json`
 
 ```json
 [
@@ -1881,9 +1865,8 @@ PP_
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/general/tuningcylinderrack.json`
 
 ```json
 [
@@ -2014,9 +1997,8 @@ S
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/resources/clothrack.json`
 
 ```json
 [
@@ -2184,9 +2166,8 @@ LAL
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/resources/peltrack.json`
 
 ```json
 [
@@ -2396,9 +2377,8 @@ P_P
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/resources/resourcebin.json`
 
 ```json
 [
@@ -2482,9 +2462,8 @@ P_P
 PSP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/resources/roperack.json`
 
 ```json
 [
@@ -2578,9 +2557,8 @@ __S
 PPS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/weapons/arrowrack.json`
 
 ```json
 [
@@ -2674,9 +2652,8 @@ PSP
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/weapons/spearrack.json`
 
 ```json
 [
@@ -2788,9 +2765,8 @@ _C_
 SBS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/weapons/swordpedestal.json`
 
 ```json
 [
@@ -2914,9 +2890,8 @@ SPS
 _S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/weapons/swordplaque.json`
 
 ```json
 [
@@ -3008,9 +2983,8 @@ SSS
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/purposefulstorage/recipes/grid/weapons/weaponrack.json`
 
 ```json
 [

@@ -155,9 +155,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/barrel/dyes.json`
 
 ```json
 [
@@ -746,9 +745,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/barrel/tannin.json`
 
 ```json
 [
@@ -1121,9 +1119,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/barrel/woad.json`
 
 ```json
 [
@@ -1470,9 +1467,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/barrel/woadtoblue.json`
 
 ```json
 [
@@ -1622,9 +1618,8 @@ DDD
 WSW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/cartcanopies.json`
 
 ```json
 [
@@ -1913,9 +1908,8 @@ F
 F
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/cartflute.json`
 
 ```json
 [
@@ -2108,9 +2102,8 @@ LSL
  R 
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/cartgrips.json`
 
 ```json
 [
@@ -2387,9 +2380,8 @@ R R
 R R
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/cartgripsprimitive.json`
 
 ```json
 [
@@ -2674,9 +2666,8 @@ RSR
 W_W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/cartsideboards.json`
 
 ```json
 [
@@ -2886,9 +2877,8 @@ LSL
 LRL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/cartsidetents.json`
 
 ```json
 [
@@ -3019,9 +3009,8 @@ RUR
 WRW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/constructionbasiccart.json`
 
 ```json
 [
@@ -3377,9 +3366,8 @@ RUR
 WRW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/constructionmarketstall.json`
 
 ```json
 [
@@ -3962,9 +3950,8 @@ RFR
 WRW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/constructionsled.json`
 
 ```json
 [
@@ -4156,9 +4143,8 @@ RUR
 WRW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/constructionslimcart.json`
 
 ```json
 [
@@ -4773,9 +4759,8 @@ C
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/conversion.json`
 
 ```json
 [
@@ -5482,9 +5467,8 @@ S
 SCH
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/schematics.json`
 
 ```json
 [
@@ -5807,9 +5791,8 @@ TK
 TK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/scrapedye.json`
 
 ```json
 [
@@ -6206,9 +6189,8 @@ SC
 SC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/signconversion.json`
 
 ```json
 [
@@ -6699,9 +6681,8 @@ SCM
 SCM
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/signs.json`
 
 ```json
 [
@@ -7450,9 +7431,8 @@ SC
 SC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/storage.json`
 
 ```json
 [
@@ -7682,9 +7662,8 @@ ESE
 WRW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/cartwrightscaravan/recipes/grid/wheels.json`
 
 ```json
 [

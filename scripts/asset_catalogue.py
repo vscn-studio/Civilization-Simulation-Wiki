@@ -1,15 +1,17 @@
 # -*- coding: utf-8 -*-
+from local_inputs import required_dir, source_dir
 """Read installed JSON/JSON5 assets. Preserve conditions; never simulate DLL/patch load order."""
 import collections, hashlib, html, itertools, json, os, re, subprocess, zipfile
 from functools import lru_cache
 from pathlib import Path
 from wiki_content import write_generated
+from public_content import public_food_data
 from recipe_presentation import display_name, recipe_summary
 
 ROOT = Path(__file__).resolve().parent.parent
-GAME = Path(os.environ.get('SERAPH_GAME_DIR', r'E:\vintagestory\Vintagestory'))
-PACK = Path(os.environ.get('SERAPH_MODS_DIR', r'C:\Users\29596\AppData\Roaming\MVL\Modpack\测试服务器\Mods'))
-SURV = Path(os.environ.get('SERAPH_SURVIVAL_SOURCE', r'E:\vintagestory\Seraph Living Survival Simulation'))
+GAME = required_dir('SERAPH_GAME_DIR')
+PACK = required_dir('SERAPH_MODS_DIR')
+SURV = source_dir('SERAPH_SURVIVAL_SOURCE', 'Seraph Living Survival Simulation')
 MANIFEST = json.loads((ROOT/'scripts/inventory-manifest.json').read_text(encoding='utf-8-sig'))
 
 def esc(value):
@@ -168,11 +170,11 @@ def main():
     payload=dict(foods=foods,calibrations=calibrations,calibrationNames=calibration_names,patches=nutrition_patches,
         counts=dict(assets=len(raw),parsed=len(parsed),errors=len(errors),foodRows=len(foods),foodMods=len({x['mod'] for x in foods}),
             recipeFiles=sum(map(len,recipes.values())),handbookPages=sum(map(len,manuals.values()))))
-    write('docs/public/data/food-catalogue.json',json.dumps(payload,ensure_ascii=False))
+    write('docs/public/data/food-catalogue.json',json.dumps(public_food_data(payload),ensure_ascii=False))
     write('scripts/asset-catalogue-errors.json',json.dumps(errors,ensure_ascii=False,indent=2)+'\n')
     write('scripts/asset-catalogue-manifest.json',json.dumps({k:v for k,v in payload.items() if k=='counts'},ensure_ascii=False,indent=2)+'\n')
-    index=['# 整合包配方与手册资料库','','从实际安装包读取配方定义和手册正文。配方保留数量、网格、工具、时长、温度与变体限制；网格中的字母对应 ingredients 键，空格或下划线为空格。书中 itemstack 图片改为物品代码，正文未解析为网页脚本。','',
-        '原版基准为本机 `E:/vintagestory/Vintagestory/assets`。这里展示资产定义；模组条件、补丁执行顺序、脚本和服务器配置可能改变可用配方。','',
+    index=['# 整合包配方与手册资料库','','查询各模组的配方条件和手册正文。配方保留数量、网格、工具、时长、温度与变体限制；网格中的字母对应 ingredients 键，空格或下划线为空格。书中 itemstack 图片改为物品代码，正文未解析为网页脚本。','',
+        '模组条件、补丁执行顺序和服务器配置可能改变可用配方，请同时核对游戏内手册。','',
         '| 模组 | 配方文件 | 手册章节 |','| --- | ---: | ---: |']
     for slug in ['game']+[e['slug'] for e in MANIFEST]:
         rec=recipes[slug]; man=manuals[slug]
@@ -204,24 +206,6 @@ def main():
             lines.extend(['<details><summary>技术说明：完整配方与资源路径</summary>','',f'来源：`{a["file"]}`','',
                 '```json',json.dumps(a['data'],ensure_ascii=False,indent=2),'```','','</details>','','</details>',''])
         write(f'docs/reference/recipes/{slug}.md','\n'.join(lines)+'\n')
-        if slug!='game':
-            target=ROOT/f'docs/mods/entries/{slug}.md'; original=target.read_text(encoding='utf-8')
-            block=f'\n<!-- reference-link:start -->\n## 材料、加工与手册正文\n\n[查阅本版本 {len(rec)} 个配方文件与 {len(man)} 个手册章节](/reference/recipes/{slug})。配方中可查投入数量、产物、工具、网格和加工条件。\n<!-- reference-link:end -->\n'
-            original=re.sub(r'\n<!-- reference-link:start -->.*?<!-- reference-link:end -->\n','\n',original,flags=re.S)
-            target.write_text(original.rstrip()+'\n'+block,encoding='utf-8')
     write('docs/reference/recipes/index.md','\n'.join(index)+'\n')
-    lines=['# 原版与整合包食物检索','','可以按中文名称、代码、模组或营养类别搜索。展开行查看全部变体、条件及营养字段。原版饱食度与 Seraph 的克、千焦、微量营养是不同系统，不能直接换算。','',
-        '本表扫描本机原版资源及整合包全部安装包，列出含 satiety/foodCategory 的资源分支；条件分支保留原样。空白表示未声明，不能当作零；同一物品可有直接食用、烹饪、液体等多行。','',
-        '<FoodCatalogue />','',
-        '## 查表方法','','1. 输入中文名或完整代码，选择来源模组。找不到中文名时用游戏内高级提示里的代码。\n2. 看条件路径：`nutritionProps` 是该定义的营养；`nutritionPropsByType` 还需要匹配变体；烹饪字段只在相应加工后适用。\n3. 查看命中的 Seraph 校准记录。宏量与微量字段是每 100 g，实际份量需乘 `PortionG / 100`；液体还要结合每升物品数。\n4. 混合餐、派、液体混合和运行时修改需按实际配料结算，不能把容器基础值当作整餐值。','',
-        '## 数据来源与更新','','原版：`E:/vintagestory/Vintagestory/assets`；整合包：用户指定 Mods；Seraph 校准：生存源码 `assets/vsslssmod/config/foods.json`。运行 `npm run asset-catalogue` 可重建。','',
-        f'本次读取 {len(raw)} 个资源，成功解析 {len(parsed)} 个；营养分支 {len(foods)} 条，涉及 {len({x["mod"] for x in foods})} 个来源。解析错误 {len(errors)} 个。','',
-        '[下载完整数据（含营养补丁和校准记录）](/data/food-catalogue.json) · [查看全部配方与手册](/reference/)','',
-        '## 补丁和运行时边界','','营养补丁保存在下载文件 patches 中。此表没有假装执行 DLL、JSON 补丁加载顺序和服务器世界规则；多个分支也没有强行合并为最终值。校准命中表示代码匹配，不保证发布 DLL 与当前源码校准完全一致。游戏内 Seraph 食品手册的服务端数据用于核对最终份量。']
-    if errors:
-        lines+=['','## 未能解析的资源','','以下文件未静默忽略；相关条目需要查看原文件或游戏运行数据。','','| 模组 | 文件 | 原因 |','| --- | --- | --- |']
-        lines += [f'| {esc(e["mod"])} | {esc(e["file"])} | {esc(e["error"])} |' for e in errors]
-    write('docs/guide/food-catalogue.md','\n'.join(lines)+'\n')
-    print(compact(payload['counts']),flush=True)
 
 if __name__=='__main__': main()

@@ -1,9 +1,10 @@
+from local_inputs import required_dir, source_dir
 import json, os, re, zipfile, hashlib, html
 from pathlib import Path
 from html.parser import HTMLParser
 ROOT = Path(__file__).resolve().parent.parent
-PACK = Path(os.environ.get('SERAPH_MODS_DIR', r'C:\Users\29596\AppData\Roaming\MVL\Modpack\测试服务器\Mods'))
-SURVIVAL = Path(os.environ.get('SERAPH_SURVIVAL_SOURCE', r'E:\vintagestory\Seraph Living Survival Simulation'))
+PACK = required_dir('SERAPH_MODS_DIR')
+SURVIVAL = source_dir('SERAPH_SURVIVAL_SOURCE', 'Seraph Living Survival Simulation')
 OUT = ROOT / 'docs' / 'mods' / 'entries'
 OUT.mkdir(parents=True, exist_ok=True)
 
@@ -56,25 +57,17 @@ for path in sorted(PACK.iterdir(), key=lambda x: x.name.casefold()):
     except (OSError, zipfile.BadZipFile): d,note={},''
     ident=clean(d.get('modid')) or path.stem
     slug=re.sub(r'[^a-z0-9-]+','-',ident.lower()).strip('-') or hashlib.sha256(path.name.encode()).hexdigest()[:12]
-    if any(e['slug']==slug for e in entries): slug += '-' + hashlib.sha256(path.name.encode()).hexdigest()[:8]
     name=clean(d.get('name')) or path.stem
-    deps=d.get('dependencies') or {}
-    authors=d.get('authors') or []
-    if isinstance(authors,str): authors=[authors]
-    depstr=', '.join('{} {}'.format(k,v or '(未指定版本)') for k,v in deps.items()) if isinstance(deps,dict) else clean(deps)
-    lines=['# '+name.replace('<','&lt;'), '', '> 来源：整合包安装包 `'+path.name+'` 内的模组元数据。此页面描述该快照，模组的实际行为及服务器设置可能不同。','', '## 身份与安装', '', '| 项目 | 包内声明 |', '| --- | --- |',
-      '| 模组 ID | `'+cell(ident)+'` |', '| 版本 | '+cell(d.get('version'))+' |', '| 类型 | '+cell(d.get('type'))+' |', '| 运行端 | '+cell(d.get('side'))+' |', '| 客户端必需 | '+cell(d.get('requiredonclient'))+' |', '| 服务端必需 | '+cell(d.get('requiredonserver'))+' |', '| 依赖及最低版本 | '+cell(depstr)+' |', '| 作者 | '+cell(', '.join(authors))+' |', '', '未声明的安装要求不能视为不需要；安装前应以模组发布说明及服务器要求为准。', '', '## 功能与使用', '', cell(d.get('description')) if d.get('description') else '安装包元数据未提供功能说明。请在游戏手册或作者发布页面核实具体操作。']
-    website=clean(d.get('website'))
-    if website.startswith(('https://','http://')): lines += ['', '作者提供的链接：'+website]
-    if note:
-        fence='`' * max(3, max((len(x) for x in re.findall(r'`+',note)), default=0)+1)
-        lines += ['', '## 随包说明', '', '以下是安装包根目录中的原文摘录；命令和操作请结合当前游戏版本核实。', '', fence+'text', safe_text(note), fence]
-        if len(note)>12000: lines += ['', '说明较长，以上仅展示前 12000 字符；请查阅安装包原文件。']
-    else: lines += ['', '安装包根目录没有可读取的说明文件；详细操作和配置请查阅游戏内手册或作者资料。']
-    lines += ['', '[返回整合包图鉴](/mods/)', '']
-    target = OUT/(slug+'.md')
-    if not target.exists(): target.write_text('\n'.join(lines),encoding='utf-8')
     entries.append({'slug':slug,'name':name,'id':ident,'version':clean(d.get('version')) or '未声明','file':path.name})
+# A directory may contain outdated copies with the same mod ID. Publish only
+# the highest declared version, keeping stable links keyed by that ID.
+latest={}
+for entry in entries:
+    key=entry['id'].casefold()
+    version=lambda e:tuple(int(n) for n in re.findall(r'\d+',e['version']))
+    if key not in latest or version(entry)>version(latest[key]):
+        latest[key]=entry
+entries=list(latest.values())
 index=['# 整合包模组图鉴','',f'本地快照共收录 **{len(entries)}** 个安装包或模组目录。每个条目记录包内声明，点击查看详细信息；清单不代表服务器当前运行状态。','', '| 名称 | 模组 ID | 版本 |', '| --- | --- | --- |']
 for e in sorted(entries,key=lambda e:e['name'].casefold()): index.append('| [{}](/mods/entries/{}) | `{}` | {} |'.format(cell(e['name']),e['slug'],cell(e['id']),cell(e['version'])))
 (ROOT/'scripts/inventory-manifest.json').write_text(json.dumps(entries,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
@@ -95,7 +88,7 @@ class TextHTML(HTMLParser):
     def handle_data(self,data):
         if not self.skip_link: self.parts.append(data)
 langs=json.loads((SURVIVAL/'assets/vsslssmod/lang/zh-cn.json').read_text(encoding='utf-8-sig'))
-chapters=['# 生存模拟游戏内手册','', '以下内容来自生存模拟源码 1.0.1 的中文游戏内手册。游戏内可按 H 搜索并查看相关物品；数值会受配置影响。','']
+chapters=['# 生存模拟游戏内手册','', '生存模拟 1.0.3 中文游戏内手册。游戏内可按 H 搜索并查看相关物品；数值会受配置影响。','']
 for f in sorted((SURVIVAL/'assets/vsslssmod/config/handbook').glob('*.json')):
     d=json.loads(f.read_text(encoding='utf-8-sig')); title=langs.get(d['title'].split(':',1)[-1],d['title']); text=langs.get(d['text'].split(':',1)[-1],d['text']); parser=TextHTML(); parser.feed(text)
     body=re.sub(r'\n{3,}','\n\n',''.join(parser.parts)).strip().replace('<','&lt;')

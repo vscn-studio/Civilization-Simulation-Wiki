@@ -7,9 +7,8 @@
 
 ## 手册 1：01 炽天使：生存模拟 · 从第一天开始
 
-来源：`assets/vsslssmod/config/handbook/01-start.json`。
 
-正式版 1.0.1
+正式版
 
 请使用新世界和正式版 v1 配置。旧版世界与配置不受支持，也不会自动转换。
 
@@ -77,7 +76,6 @@
 
 ## 手册 2：02 炽天使：按键、指标与时间单位
 
-来源：`assets/vsslssmod/config/handbook/02-interface.json`。
 
 常用操作
 
@@ -121,7 +119,6 @@ C：原版角色窗口中的炽天使面板。H：原版生存手册。G：原�
 
 ## 手册 3：03 炽天使：安全饮水与水源识别
 
-来源：`assets/vsslssmod/config/handbook/03-water.json`。
 
 读懂水质
 
@@ -159,7 +156,6 @@ C：原版角色窗口中的炽天使面板。H：原版生存手册。G：原�
 
 ## 手册 4：04 炽天使：过滤器、引流槽与换料
 
-来源：`assets/vsslssmod/config/handbook/04-filter.json`。
 
 材料与摆放
 
@@ -197,7 +193,6 @@ C：原版角色窗口中的炽天使面板。H：原版生存手册。G：原�
 
 ## 手册 5：05 炽天使：水井与提水
 
-来源：`assets/vsslssmod/config/handbook/05-wells.json`。
 
 井不是放一个井口就无限产水
 
@@ -239,7 +234,6 @@ C：原版角色窗口中的炽天使面板。H：原版生存手册。G：原�
 
 ## 手册 6：06 炽天使：蒸馏水、海盐与腌肉
 
-来源：`assets/vsslssmod/config/handbook/06-distillation.json`。
 
 锅炉和冷凝器来自哪里
 
@@ -281,11 +275,10 @@ C：原版角色窗口中的炽天使面板。H：原版生存手册。G：原�
 
 ## 手册 7：07 炽天使：进食、消化与长期营养
 
-来源：`assets/vsslssmod/config/handbook/07-food.json`。
 
 营养手册
 
-从文明核心上拉菜单点击肉图标打开营养手册。顶部可搜索食物名称或物品代码，通过贴在窗口左侧边缘的标签页按水、碳水、蛋白质等分类筛选；标签随窗口高度调整。列表显示物品图标、名称和营养；固体按一份、液体按一升显示。
+从文明核心上拉菜单点击肉图标打开营养手册。顶部可搜索食物名称或物品代码，通过贴在窗口左侧边缘的标签页按水、碳水、蛋白质等分类筛选；标签随窗口高度调整。列表显示物品图标、名称和营养；固体按一份、液体按一升显示。默认开启“可食用”，只显示可食用或饮用的条目；关闭后可查看其他原料。
 
 先区分胃、储备和耗能
 
@@ -339,7 +332,7 @@ C：原版角色窗口中的炽天使面板。H：原版生存手册。G：原�
 
 份量与加工收支
 
-一块红肉为 250 g 可食生肉，约含 46.48 g 蛋白质；1 L 牛奶约含 32.45 g 蛋白质。普通动物的基础可回收肌肉按定义体重的 30% 计算，之后仍受肥瘦、野外处理损失和屠宰效率影响；已保存的屠宰尸体保留原掉落。烹饪和分餐不额外制造营养。
+一块红肉为 250 g 可食生肉，约含 46.48 g 蛋白质；1 L 牛奶约含 32.45 g 蛋白质。普通动物的基础出肉量按定义体重的 3% 计算，之后仍受肥瘦、野外处理损失和屠宰效率影响；已保存的屠宰尸体保留原掉落。烹饪和分餐不额外制造营养。
 
 大豆制奶已禁用。水果榨汁量随可食重量变化。糖浆随输入批量线性增加，糖和淀粉加工受原料总量限制。新制作的营养棒、果糖、肉干饼和串类保留实际选用原料；已有无原料记录的成品继续使用其配方参考值。
 
@@ -355,7 +348,6 @@ C：原版角色窗口中的炽天使面板。H：原版生存手册。G：原�
 
 ## 手册 8：08 炽天使：耐力、劳动与透支恢复
 
-来源：`assets/vsslssmod/config/handbook/08-stamina.json`。
 
 冲刺、快跑和慢跑
 
@@ -391,7 +383,6 @@ W 步行，Shift 潜行，疾跑键保持原绑定。满足条件时先冲刺 3 
 
 ## 手册 9：09 炽天使：睡床、K 休息与每日节奏
 
-来源：`assets/vsslssmod/config/handbook/09-sleep.json`。
 
 床、坐下与 K 不同
 
@@ -441,7 +432,6 @@ K 操作和退出
 
 ## 手册 10：10 炽天使：伤口、止血与付费愈合
 
-来源：`assets/vsslssmod/config/handbook/10-firstaid.json`。
 
 受伤后先做什么
 
@@ -487,7 +477,6 @@ K 操作和退出
 
 ## 手册 11：11 炽天使：血量、代谢废物与血液毒性
 
-来源：`assets/vsslssmod/config/handbook/11-blood.json`。
 
 五种读数不要混用
 
@@ -529,7 +518,6 @@ K 操作和退出
 
 ## 手册 12：12 炽天使：病原、虫咬与免疫恢复
 
-来源：`assets/vsslssmod/config/handbook/12-disease.json`。
 
 暴露不等于立即发病
 
@@ -573,7 +561,6 @@ K 操作和退出
 
 ## 手册 13：13 炽天使：清洗身体、伤口与浴桶
 
-来源：`assets/vsslssmod/config/handbook/13-washing.json`。
 
 选择清洗目标
 
@@ -623,7 +610,6 @@ K 操作和退出
 
 ## 手册 14：14 炽天使：排便、厕所与粪肥管理
 
-来源：`assets/vsslssmod/config/handbook/14-sanitation.json`。
 
 图标在肠道达到 4000/5000 g（80%）时亮起；500 g（10%）只表示允许主动排便。悬浮可查看当前负荷。饮水杂质先随吸收进入血液，再由过滤转入肠道；腹泻按实际流失的水单独结算，不重复扣体水。
 
@@ -639,9 +625,9 @@ K 操作和退出
 
 1. 用 H 查本模组厕所配方，完整摆放。
 
-2. 下方必须放真实原版木桶作为储存，不是装饰块、任意箱子或无限虚拟库存。
+2. 下方放未密封的原版木桶，可留畅通的空气间隔。桶内须为空、仅有粪浆或旧粪便；其他液体或物品会阻止使用。
 
-3. 检查木桶空间与领地权限，再 Shift+右键厕所开始坐厕，等待进度完成；这与地面 Shift+V 是不同入口。成功将实际产物存入木桶，厕所使用仍有少量脏污，不能当成无菌操作。
+3. 检查木桶空间与领地权限，再 Shift+右键厕所开始坐厕，等待进度完成；这与地面 Shift+V 是不同入口。成功后每 1000 g 产物收集为 1 升粪浆，可用液体容器取出。优先使用 Natural Fertilizer 粪浆；旧桶内固体粪便在下次使用时按质量转为粪浆。厕所使用仍有少量脏污。
 
 4. 定期清理木桶，搬运后洗手/洗身体并远离饮用水。满桶或被锁住时动作不会凭空销毁产物。
 
@@ -665,7 +651,6 @@ K 操作和退出
 
 ## 手册 15：15 炽天使：热量收支、降温与御寒
 
-来源：`assets/vsslssmod/config/handbook/15-thermal.json`。
 
 核心温度达到37.5°C＋发热设定点偏移，且已吸收的可用水储备低于800 mL时提示热应激；达到39.5°C时无论储水多少均警告。降低劳动、改善散热并补水，胃里的水需吸收后才可用。连续出汗、热收支及高温伤害仍按实际体温结算。
 
@@ -721,7 +706,6 @@ K 操作和退出
 
 ## 手册 16：16 炽天使：烟雾吸入剂量与嵌入式烟道
 
-来源：`assets/vsslssmod/config/handbook/16-smoke.json`。
 
 先分清有无浓度提供者
 
@@ -767,7 +751,6 @@ CO、SO₂、NH₃ 和 H₂S 使用独立的 Real Smoke 气体通道。燃烧燃
 
 ## 手册 17：17 炽天使：灰、碱液、肥皂与清洁循环
 
-来源：`assets/vsslssmod/config/handbook/17-soap.json`。
 
 收集真实燃烧产物
 
@@ -777,7 +760,7 @@ CO、SO₂、NH₃ 和 H₂S 使用独立的 Real Smoke 气体通道。燃烧燃
 
 1. 准备原版可密封木桶，加入 3 个本模组灰和 5 L 原版水。
 
-2. 确认木桶显示碱液配方，再密封 24 游戏小时。手持任意原版散石（如花岗岩散石），瞄准未点燃的火塘，按住 Shift 并连续右键逐块加入，共需 12 块；完成后燃料多烧 30%。
+2. 确认木桶显示碱液配方，再密封 24 游戏小时。完成原版火塘后将其熄灭，手持一叠至少 12 块散石（如花岗岩散石），瞄准火塘按住 Shift + 右键，一次投入 12 块；完成后燃料多烧 30%。
 
 3. 获得 5 L 碱液；这是清洁制作中间原料，不是饮用水。不要因为也是液体就拿去补水。
 
@@ -809,7 +792,6 @@ CO、SO₂、NH₃ 和 H₂S 使用独立的 Real Smoke 气体通道。燃烧燃
 
 ## 手册 18：18 炽天使：故障排查、兼容与玩法边界
 
-来源：`assets/vsslssmod/config/handbook/18-troubleshooting.json`。
 
 污染立体调试
 
@@ -871,9 +853,8 @@ GUI 缩放、多语言、服务器配置及其他模组可能影响操作表现�
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsslssmod/recipes/barrel/lye.json`
 
 ```json
 {
@@ -915,9 +896,8 @@ GUI 缩放、多语言、服务器配置及其他模组可能影响操作表现�
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsslssmod/recipes/barrel/seasalt-curedmeat.json`
 
 ```json
 {
@@ -983,9 +963,8 @@ GUI 缩放、多语言、服务器配置及其他模组可能影响操作表现�
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsslssmod/recipes/barrel/soap.json`
 
 ```json
 [
@@ -1058,9 +1037,8 @@ PNP
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsslssmod/recipes/grid/bathtub.json`
 
 ```json
 [
@@ -1133,9 +1111,8 @@ LCL
 SLS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsslssmod/recipes/grid/chimney.json`
 
 ```json
 [
@@ -1218,9 +1195,8 @@ PCP
 PPP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsslssmod/recipes/grid/copperbathtub.json`
 
 ```json
 [
@@ -1270,9 +1246,8 @@ PPP
 KLA
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsslssmod/recipes/grid/drainpot.json`
 
 ```json
 [
@@ -1327,9 +1302,8 @@ KLA
 KLA
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsslssmod/recipes/grid/filterpot.json`
 
 ```json
 [
@@ -1382,9 +1356,8 @@ KLA
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsslssmod/recipes/grid/latrine.json`
 
 ```json
 [
@@ -1428,9 +1401,8 @@ BB
 SK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsslssmod/recipes/grid/soap.json`
 
 ```json
 [
@@ -1482,9 +1454,8 @@ STS
 CTC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsslssmod/recipes/grid/wellhead.json`
 
 ```json
 [
@@ -1537,9 +1508,8 @@ G_G
 _G_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/vsslssmod/recipes/grid/wellwall.json`
 
 ```json
 [

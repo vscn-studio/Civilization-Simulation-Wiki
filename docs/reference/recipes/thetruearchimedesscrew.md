@@ -7,7 +7,6 @@
 
 ## 手册 1：阿基米德螺旋泵指南
 
-来源：`assets/archimedes_screw/config/handbook/101-overview.json`。
 
 阿基米德螺旋泵
 
@@ -43,9 +42,8 @@ X_
 CS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/archimedes_screw/recipes/grid/waterarchimedesscrew-ported.json`
 
 ```json
 {
@@ -106,9 +104,8 @@ X_
 C_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/archimedes_screw/recipes/grid/waterarchimedesscrew-straight.json`
 
 ```json
 {
@@ -157,9 +154,8 @@ C_
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/archimedes_screw/recipes/smithing/chutesection-lead.json`
 
 ```json
 {

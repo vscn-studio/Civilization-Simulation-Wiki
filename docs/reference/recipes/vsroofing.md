@@ -7,7 +7,6 @@
 
 ## 手册 1：VS 屋顶模组：制作指南
 
-来源：`assets/vsroofing/config/handbook/00-craftinginfo-guide.json`。
 
 VS 屋顶模组：制作指南
 
@@ -61,7 +60,6 @@ VS 屋顶模组：制作指南
 
 ## 手册 2：VS 屋顶模组：配方
 
-来源：`assets/vsroofing/config/handbook/01-craftinginfo-recipes.json`。
 
 VS 屋顶模组：配方
 

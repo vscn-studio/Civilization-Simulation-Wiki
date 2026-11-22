@@ -1,7 +1,6 @@
 <!-- generated:start -->
 # 已安装 Seraph 配置实值
 
-> 来源：`C:\Users\29596\AppData\Roaming\MVL\Modpack\测试服务器\Logs\服务器相关\ModConfig` 中的 Seraph 配置文件。这里记录当前实例文件的实际值；源码默认值和校验范围见[完整生存配置](/admin/survival-config-full)。
 
 修改前请停服、备份并在启动日志中确认校验通过。
 

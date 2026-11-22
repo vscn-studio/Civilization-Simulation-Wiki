@@ -2,7 +2,7 @@
 
 <PortalCards :items='[{&quot;title&quot;: &quot;命令与排障&quot;, &quot;description&quot;: &quot;按实际操作查命令和权限。&quot;, &quot;link&quot;: &quot;/admin/commands-full&quot;}, {&quot;title&quot;: &quot;配置当前值&quot;, &quot;description&quot;: &quot;查看指定服务器全部配置字段。&quot;, &quot;link&quot;: &quot;/admin/config-tables&quot;}, {&quot;title&quot;: &quot;核心模组配置&quot;, &quot;description&quot;: &quot;查已安装 Seraph 配置实值。&quot;, &quot;link&quot;: &quot;/admin/installed-configs&quot;}, {&quot;title&quot;: &quot;修改配置的步骤&quot;, &quot;description&quot;: &quot;备份、修改、重载与验证。&quot;, &quot;link&quot;: &quot;/pack/configuration&quot;}]' />
 
-本页说明配置文件与运行流程；字段表会另行标注源码默认值和当前服务器配置快照。配置路径相对于游戏数据目录；首次启动后模组会生成相应文件。升级或更改规则前备份世界存档与配置，先在测试环境验证。
+本页说明配置文件与运行流程；字段表会另行标注默认值和当前服务器配置快照。配置路径相对于游戏数据目录；首次启动后模组会生成相应文件。升级或更改规则前备份世界存档与配置，先在测试环境验证。
 
 ## 文明模拟
 

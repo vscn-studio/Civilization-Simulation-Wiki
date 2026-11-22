@@ -18,7 +18,7 @@ test('发布路径下的导航、营养与模组数据', async ({ page }) => {
   await page.getByLabel('名称或代码').fill('胡萝卜')
   await expect(page.locator('.food-catalogue tbody tr').first()).toContainText('胡萝卜')
   await page.goto(`${base}mods/`)
-  await expect(page.getByText('129 个模组', { exact: true })).toBeVisible()
+  await expect(page.getByText('132 个模组', { exact: true })).toBeVisible()
   const firstEntry = page.locator('.mod-catalogue tbody a').first()
   const entryTitle = await firstEntry.innerText()
   expect(await firstEntry.getAttribute('href')).toContain(`${base}mods/entries/`)

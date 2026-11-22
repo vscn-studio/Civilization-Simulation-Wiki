@@ -1,6 +1,6 @@
 # 管理员指令完整参考
 
-> 以下命令从三个模组的命令注册代码提取。权限以源码 `.RequiresPrivilege` 和 handler 二次检查为准。
+> 以下是三个模组的命令参考。执行时需要相应权限，服务器还会检查具体操作条件。
 
 ## Living Survival Simulation（`/vsslssmod`）
 

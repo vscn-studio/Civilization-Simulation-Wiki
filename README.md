@@ -2,7 +2,7 @@
 
 基于 VitePress 的中文 Wiki，面向 Vintage Story 整合包玩家、管理员和模组开发者，整理 Seraph 文明模拟、生存模拟与兼容补丁的玩法和实现资料。
 
-网站分为玩家指南、核心模组、整合包玩法、资料查询、管理员、开发者六个栏目。内容依据源码、资源和配置整理；来源及核验边界见[维护说明](docs/develop/maintenance.md)。
+网站分为玩家指南、核心模组、整合包玩法、资料查询、管理员、开发者六个栏目。内容依据源码、资源和配置整理；来源及核验边界见[维护说明](MAINTENANCE.md)。
 
 ## 本地预览
 
@@ -75,6 +75,6 @@ npm run preview
 
 浏览器检查在本地使用已安装的 Chrome，GitHub Actions 自动安装 Chromium。构建与检查应使用相同的 `WIKI_BASE`，更换路径后需重新构建。
 
-内容更新流程见 [CONTRIBUTING.md](CONTRIBUTING.md) 和[维护说明](docs/develop/maintenance.md)。生成原始图鉴与配置表需要 Python 3 及相应源码、模组和配置目录；这些提取步骤不在云端发布流程中运行。
+内容更新流程见 [CONTRIBUTING.md](CONTRIBUTING.md) 和[维护说明](MAINTENANCE.md)。生成原始图鉴与配置表需要 Python 3 及相应源码、模组和配置目录；这些提取步骤不在云端发布流程中运行。
 
 内容来源与权利范围见 [NOTICE.md](NOTICE.md)。仓库尚未为原创内容指定统一许可证；第三方资料保留原有权利与许可。

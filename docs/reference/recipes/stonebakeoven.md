@@ -7,7 +7,6 @@
 
 ## 手册 1：石制烤炉
 
-来源：`assets/stonebakeoven/config/handbook/stone-bake-oven.json`。
 
 石制烤炉
 
@@ -204,9 +203,8 @@ FSM
 _R_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonebakeoven/recipes/grid/brick.json`
 
 ```json
 [
@@ -825,9 +823,8 @@ FSM
 _R_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonebakeoven/recipes/grid/cobble.json`
 
 ```json
 [
@@ -1498,9 +1495,8 @@ FSM
 _R_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonebakeoven/recipes/grid/plain.json`
 
 ```json
 [

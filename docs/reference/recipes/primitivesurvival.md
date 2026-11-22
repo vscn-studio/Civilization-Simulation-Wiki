@@ -7,7 +7,6 @@
 
 ## 手册 1：原始生存：快速入门指南
 
-来源：`assets/primitivesurvival/config/handbook/ps-quickstart.json`。
 
 原始生存：快速入门指南
 
@@ -81,9 +80,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/game/recipes/barrel/curedsmokedmeat.json`
 
 ```json
 {
@@ -138,9 +136,8 @@ L
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescaperegion/recipes/grid/floralzonescaperegion-fireflyjars.json`
 
 ```json
 [
@@ -203,9 +200,8 @@ P_P
 LMN
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescaperegion/recipes/grid/floralzonescaperegion-raft.json`
 
 ```json
 [
@@ -267,9 +263,8 @@ P_P
 CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescaperegion/recipes/grid/floralzonescaperegion-smoker.json`
 
 ```json
 [
@@ -327,9 +322,8 @@ L
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescaperegion/recipes/grid/floralzonescaperegion-woodjarholders.json`
 
 ```json
 [
@@ -391,9 +385,8 @@ BPB
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescaperegion/recipes/grid/floralzonescaperegion-woodlantern.json`
 
 ```json
 [
@@ -455,9 +448,8 @@ L
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescaribbeanregion/recipes/grid/floralzonescaribbeanregion-fireflyjars.json`
 
 ```json
 [
@@ -519,9 +511,8 @@ P_P
 LMN
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescaribbeanregion/recipes/grid/floralzonescaribbeanregion-raft.json`
 
 ```json
 [
@@ -583,9 +574,8 @@ P_P
 CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescaribbeanregion/recipes/grid/floralzonescaribbeanregion-smoker.json`
 
 ```json
 [
@@ -643,9 +633,8 @@ L
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescaribbeanregion/recipes/grid/floralzonescaribbeanregion-woodjarholders.json`
 
 ```json
 [
@@ -706,9 +695,8 @@ BPB
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescaribbeanregion/recipes/grid/floralzonescaribbeanregion-woodlantern.json`
 
 ```json
 [
@@ -769,9 +757,8 @@ L
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescentralaustralianregion/recipes/grid/floralzonescentralaustralianregion-fireflyjars.json`
 
 ```json
 [
@@ -834,9 +821,8 @@ P_P
 LMN
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescentralaustralianregion/recipes/grid/floralzonescentralaustralianregion-raft.json`
 
 ```json
 [
@@ -898,9 +884,8 @@ P_P
 CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescentralaustralianregion/recipes/grid/floralzonescentralaustralianregion-smoker.json`
 
 ```json
 [
@@ -958,9 +943,8 @@ L
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescentralaustralianregion/recipes/grid/floralzonescentralaustralianregion-woodjarholders.json`
 
 ```json
 [
@@ -1022,9 +1006,8 @@ BPB
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonescentralaustralianregion/recipes/grid/floralzonescentralaustralianregion-woodlantern.json`
 
 ```json
 [
@@ -1086,9 +1069,8 @@ L
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonesneozeylandicregion/recipes/grid/floralzonesneozeylandicregion-fireflyjars.json`
 
 ```json
 [
@@ -1153,9 +1135,8 @@ P_P
 LMN
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonesneozeylandicregion/recipes/grid/floralzonesneozeylandicregion-raft.json`
 
 ```json
 [
@@ -1217,9 +1198,8 @@ P_P
 CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonesneozeylandicregion/recipes/grid/floralzonesneozeylandicregion-smoker.json`
 
 ```json
 [
@@ -1277,9 +1257,8 @@ L
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonesneozeylandicregion/recipes/grid/floralzonesneozeylandicregion-woodjarholders.json`
 
 ```json
 [
@@ -1343,9 +1322,8 @@ BPB
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/floralzonesneozeylandicregion/recipes/grid/floralzonesneozeylandicregion-woodlantern.json`
 
 ```json
 [
@@ -1463,9 +1441,8 @@ R
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/palisademod/recipes/grid/palisaderopepscompat.json`
 
 ```json
 [
@@ -1688,9 +1665,8 @@ R
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/compatibility/palisademod/recipes/grid/palisadetopropepscompat.json`
 
 ```json
 [
@@ -1849,9 +1825,8 @@ L
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/clayforming/hookmold.json`
 
 ```json
 {
@@ -1919,9 +1894,8 @@ L
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/clayforming/luremold.json`
 
 ```json
 {
@@ -1989,9 +1963,8 @@ L
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/clayforming/spikesplatemold.json`
 
 ```json
 {
@@ -2197,9 +2170,8 @@ K_
 _B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/bonehook.json`
 
 ```json
 [
@@ -2281,9 +2253,8 @@ H
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/caviar.json`
 
 ```json
 [
@@ -2452,9 +2423,8 @@ R
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/cordage.json`
 
 ```json
 [
@@ -2628,9 +2598,8 @@ P_
 _S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/deadfall.json`
 
 ```json
 {
@@ -2705,9 +2674,8 @@ G
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/fireflyjars.json`
 
 ```json
 [
@@ -2805,9 +2773,8 @@ A
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/firewood.json`
 
 ```json
 [
@@ -2959,9 +2926,8 @@ CB
 FS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/firework.json`
 
 ```json
 [
@@ -3176,9 +3142,8 @@ P_P
 SPS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/fishbasket.json`
 
 ```json
 {
@@ -3240,9 +3205,8 @@ KSP
 KSP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/fishingspear.json`
 
 ```json
 [
@@ -3332,9 +3296,8 @@ LLL
 P_P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/floatingdock.json`
 
 ```json
 {
@@ -3397,9 +3360,8 @@ P_P
 BC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/fuse.json`
 
 ```json
 [
@@ -3448,9 +3410,8 @@ K
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/handofthedeadcandle.json`
 
 ```json
 {
@@ -3550,9 +3511,8 @@ K
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/irrigationvessel.json`
 
 ```json
 [
@@ -3720,9 +3680,8 @@ K
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/jerky-bushmeat.json`
 
 ```json
 {
@@ -3776,9 +3735,8 @@ H
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/jerky-fish.json`
 
 ```json
 {
@@ -3835,9 +3793,8 @@ K
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/jerky-redmeat.json`
 
 ```json
 {
@@ -3890,9 +3847,8 @@ P P
 _R_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/monkeybridge.json`
 
 ```json
 {
@@ -3971,9 +3927,8 @@ C
 I
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/ps-metalbits.json`
 
 ```json
 [
@@ -4075,9 +4030,8 @@ P_P
 LMN
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/raft.json`
 
 ```json
 {
@@ -4178,9 +4132,8 @@ BC
 BF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/rockblastingbomb.json`
 
 ```json
 {
@@ -4235,9 +4188,8 @@ P_P
 CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/smoker.json`
 
 ```json
 {
@@ -4341,9 +4293,8 @@ K
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/snakemeat.json`
 
 ```json
 [
@@ -4479,9 +4430,8 @@ P_
 _S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/snare.json`
 
 ```json
 {
@@ -4576,9 +4526,8 @@ K
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/spikebundleandstake.json`
 
 ```json
 [
@@ -4733,9 +4682,8 @@ KMT
 MK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/trussedmeat.json`
 
 ```json
 [
@@ -4869,9 +4817,8 @@ L
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/woodjarholders.json`
 
 ```json
 {
@@ -4941,9 +4888,8 @@ BPB
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/grid/woodlantern.json`
 
 ```json
 {
@@ -5004,9 +4950,8 @@ BBB
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/knapping/flint-fishinghook.json`
 
 ```json
 {
@@ -5049,9 +4994,8 @@ BBB
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/primitivesurvival/recipes/knapping/stone-fishinghook.json`
 
 ```json
 {

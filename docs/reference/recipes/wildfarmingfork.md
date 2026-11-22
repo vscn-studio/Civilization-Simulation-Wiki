@@ -7,7 +7,6 @@
 
 ## 手册 1：复兴荒野：植物指南
 
-来源：`assets/wildfarmingfork/config/handbook/botanyguide.json`。
 
 植物学家手册
 
@@ -169,9 +168,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/wildfarmingfork/recipes/barrel/cattailroot.json`
 
 ```json
 [
@@ -217,9 +215,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/wildfarmingfork/recipes/barrel/papyrusroot.json`
 
 ```json
 [
@@ -265,9 +262,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/wildfarmingfork/recipes/barrel/tuleroot.json`
 
 ```json
 [
@@ -354,9 +350,8 @@ K
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/wildfarmingfork/recipes/grid/cactiseeds.json`
 
 ```json
 [
@@ -527,9 +522,8 @@ K
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/wildfarmingfork/recipes/grid/cropseeds.json`
 
 ```json
 [
@@ -759,9 +753,8 @@ K
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/wildfarmingfork/recipes/grid/flowerseeds.json`
 
 ```json
 [
@@ -951,9 +944,8 @@ KF
 KF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/wildfarmingfork/recipes/grid/fruitingbushcutting.json`
 
 ```json
 [
@@ -1366,9 +1358,8 @@ XYS
 XYS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/wildfarmingfork/recipes/grid/fruitingbushgrafting-handbook.json`
 
 ```json
 [
@@ -2965,9 +2956,8 @@ XYS
 XYS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/wildfarmingfork/recipes/grid/fruitingbushgrafting.json`
 
 ```json
 [
@@ -4335,9 +4325,8 @@ K
 H
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/wildfarmingfork/recipes/grid/fruitseeds.json`
 
 ```json
 [
@@ -4459,9 +4448,8 @@ SLS
 HWH
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/wildfarmingfork/recipes/grid/mushroomsubstrate.json`
 
 ```json
 [
@@ -4568,9 +4556,8 @@ WF
 WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/wildfarmingfork/recipes/grid/vinetrimming.json`
 
 ```json
 [

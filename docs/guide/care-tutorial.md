@@ -35,7 +35,7 @@
 <details><summary>技术说明：中断阈值、物品代码、剂量及服务端结算</summary>
 
 
-本页按 `Seraph Living Survival Simulation/src/Seraph/Server/ClinicalCoordinator.cs`、`WorldInteractions.cs`、`NativeBandageBridge.cs`、`MedicalActions.cs` 和 `Seraph.Core/Framework/ClinicalEffects.cs` 的实际调用顺序编写。界面提示只表示游戏状态，不是现实医疗建议。
+界面提示只表示游戏状态，不是现实医疗建议。
 
 ## 1. 先判断要处理什么
 
@@ -92,9 +92,5 @@
 4. 观察 C 键中的血量、血液废物、疼痛、伤口愈合和疾病；重复剂量前确认上一次同组治疗已结束。
 5. 排泄后处理厕所/肥料或污染地面，洗手，再制作和食用食物。
 6. 若症状仍在，按[疾病清单](/guide/diseases)的病原来源与恢复条件处理；按压、清洗和绷带不能替代口服病原治疗。
-
-## 源码定位
-
-`ClinicalCoordinator.cs`：按压、桶洗、浴缸、肥皂和治疗提交；`WorldInteractions.cs`：动作中断、饮水、排泄和水井；`NativeBandageBridge.cs`：原版绷带事务；`MedicalActions.cs`：服务端动作状态机；`ClinicalEffects.cs`：失血、疼痛、感染症状与清洁状态。
 
 </details>

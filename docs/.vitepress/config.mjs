@@ -17,6 +17,6 @@ export default defineConfig({
     outline: { label: '本页目录', level: [2, 3] },
     docFooter: { prev: '上一篇', next: '下一篇' }, returnToTopLabel: '返回顶部',
     sidebarMenuLabel: '栏目目录', darkModeSwitchLabel: '切换主题',
-    footer: { message: '依据源码、资源与服务器配置整理 · 数值以当前服务器为准' }
+    footer: { message: 'Seraph 文明与生存百科 · 数值以当前服务器为准' }
   }
 })

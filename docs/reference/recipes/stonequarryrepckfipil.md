@@ -7,7 +7,6 @@
 
 ## 手册 1：采石场：石材切割指南
 
-来源：`assets/stonequarry/config/handbook/masonguide.json`。
 
 石材切割指南
 
@@ -31,23 +30,25 @@
 
 ## 手册 2：采石场：石材切割指南
 
-来源：`assets/stonequarry/config/handbook/quarryguide.json`。
 
-劈石指南
+石材切割指南
 
-想开一座采石场吗？
+那么你想开一家采石场吗？
 
-准备一把好用的 [handbook://item-hammer-copper] 锤和一些 [handbook://block-stonequarry:plugandfeather-copper-0-down-north] 楔钉，将楔钉布置在待分离岩块侧面那排石头的顶部或底部。用锤敲击几次，就能取得一块石料。敲击第一个楔钉后，可潜行并点击它，切换工作区域高亮。
+做一个好的 [handbook://item-hammer-copper] 锤子还有一些 [handbook://block-stonequarry:plugandfeather-copper-0-down-north] 楔钉在更大的岩体上，劈开一块岩石：将它们放在你想要分离的板块的正面
 
-楔钉材质决定一次可取得多少石料。默认铜楔钉最多处理 3×3×3（27 格），钢楔钉最多处理 7×7×7（343 格）。限制按体积计算，因此可以切出 1×7×14 这样的细长石料，但不能切出 1×1×343。
+最靠下的一排放楔钉，再在顶面最靠远处的一排楔钉。用锤子将所有楔钉敲击到位，你就会得到一个漂亮的石板。锤击第一个楔钉后，你可以潜行+右键它来切换工作区高亮显示。
 
-得到的石料大小取决于切下的石头数量。各种尺寸都可使用，但较大的石料放置时占用空间更多。
+还是不会使用？ [https://mods.vintagestory.at/stonequarry] 咨询作者。
 
-阅读 [handbook://stonequarry-masonguide] 石料加工指南后，就动手采些石料吧。
+根据你使用的楔钉材料，你可以一次性获得更多的矿石。例如，铜可以获得3x3x3的立方体，而钢可以获得7x7x7的立方体。
+
+你得到的石板的大小取决于你一次切割多少石头。虽然可以使用任何类型的板，但请注意，较大的板在放置时会占用更多空间。
+
+现在，在你看完之后，去拿一些这块石头 [handbook://stonequarry-masonguide] 石材切割指南.
 
 ## 手册 3：采石场：石材存储指南
 
-来源：`assets/stonequarry/config/handbook/rubblestorageguide.json`。
 
 石材储存指南
 
@@ -85,9 +86,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonequarry/recipes/clayforming/mold/plugandfeather.json`
 
 ```json
 {
@@ -164,9 +164,8 @@ WPW
 WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonequarry/recipes/grid/rubblestorage.json`
 
 ```json
 {
@@ -212,9 +211,8 @@ T
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonequarry/recipes/grid/tool/finishingchisel.json`
 
 ```json
 {
@@ -261,9 +259,8 @@ T
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonequarry/recipes/grid/tool/rubblehammer.json`
 
 ```json
 {
@@ -310,9 +307,8 @@ T
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonequarry/recipes/grid/tool/wedgechisel.json`
 
 ```json
 {
@@ -350,9 +346,8 @@ S
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonequarry/recipes/smithing/plugandfeather.json`
 
 ```json
 {
@@ -401,9 +396,8 @@ S
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonequarry/recipes/smithing/tool/finishingchiselhead.json`
 
 ```json
 {
@@ -450,9 +444,8 @@ S
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonequarry/recipes/smithing/tool/roughcutchisel.json`
 
 ```json
 {
@@ -498,9 +491,8 @@ S
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonequarry/recipes/smithing/tool/rubblehammerhead.json`
 
 ```json
 {
@@ -555,9 +547,8 @@ S
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/stonequarry/recipes/smithing/tool/wedgechiselhead.json`
 
 ```json
 {

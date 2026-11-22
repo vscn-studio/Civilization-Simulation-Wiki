@@ -16,6 +16,26 @@ GROUPS = {
  '依赖、兼容与管理工具': 'algernonsterrainsampler=地形采样工具|butcheringseraphlevelingcompatibility=屠宰与技能兼容|carryonlib=搬运依赖库|cartcarryonpatch=马车搬运兼容|genelib=遗传系统依赖库|jsonpatcheslib=资源补丁依赖库|launchergoserverbridge=启动器服务器桥接|launchergoauth=启动器认证|realsmokeqppatch=烟雾兼容补丁|tandemwaterwheelfix=串联水轮修复|vsslssmoddebug=生存调试工具'
 }
 
+CORE_LINKS = {
+ 'vsscsmod': '[文明与部落](/guide/civilization) · [机制说明](/guide/civilization-source) · [管理员命令](/admin/commands-full)',
+ 'vsslssmod': '[玩家入门](/guide/start) · [生存系统](/guide/survival) · [开发者 API](/develop/api)',
+ 'vsscpmod': '[兼容补丁](/guide/patches) · [机制说明](/guide/patches-source) · [管理员命令](/admin/commands-full)',
+}
+
+
+def entry_content(row):
+    lines = ['# ' + row['title'], '', '| 项目 | 内容 |', '| --- | --- |',
+             '| 模组名称 | ' + html.escape(row['name']) + ' |',
+             '| 模组 ID | <code>' + html.escape(row['id']) + '</code> |',
+             '| 模组版本 | ' + html.escape(row['version']) + ' |',
+             '| 玩法分类 | ' + row['category'] + ' |', '',
+             '版本号用于核对整合包清单；实际启用情况请以游戏的模组管理界面和服务器要求为准。', '']
+    if row['slug'] in CORE_LINKS:
+        lines += ['## 相关教程', '', CORE_LINKS[row['slug']], '']
+    if (ROOT/'docs/reference/recipes'/(row['slug']+'.md')).exists():
+        lines += ['[配方与游戏内手册](/reference/recipes/' + row['slug'] + ')', '']
+    return '\n'.join(lines + ['[返回模组清单](/mods/)', ''])
+
 def main():
     metadata = {}
     for group, listing in GROUPS.items():
@@ -23,12 +43,20 @@ def main():
             slug, title = entry.split('=', 1)
             if slug in metadata: raise ValueError(slug)
             metadata[slug] = (group, title)
+    metadata.update({
+        'buildwright': ('建筑、工业与工艺', 'Buildwright 建造工具'),
+        'buildwrightserver': ('依赖、兼容与管理工具', 'Buildwright 服务端'),
+        'vsimgui': ('依赖、兼容与管理工具', 'Dear ImGui 界面依赖'),
+    })
     entries = json.loads((ROOT/'scripts/inventory-manifest.json').read_text(encoding='utf-8-sig'))
     for row in entries:
         row['category'], row['title'] = metadata.get(row['slug'], ('待分类的新模组',row['name']))
     order=list(GROUPS)
     entries.sort(key=lambda row:(order.index(row['category']) if row['category'] in order else len(order), row['title']))
-    (ROOT/'docs/public/data/mod-catalogue.json').write_text(json.dumps(entries,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    public_entries = [{k: row[k] for k in ('slug','name','id','version','category','title')} for row in entries]
+    (ROOT/'docs/public/data/mod-catalogue.json').write_text(json.dumps(public_entries,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    for row in public_entries:
+        write_generated(ROOT/'docs/mods/entries'/(row['slug']+'.md'), entry_content(row))
     lines=['# 按玩法查找模组','','按中文功能名称、原名或模组代码搜索。分类用于找资料，是否启用仍以服务器实际加载情况为准。','','<ModCatalogue />','','<details><summary>完整分类清单（无需加载查询组件）</summary>','']
     for group in dict.fromkeys(x['category'] for x in entries):
         lines += [f'## {group}','','| 模组 | 原名与代码 | 版本 |','| --- | --- | --- |']

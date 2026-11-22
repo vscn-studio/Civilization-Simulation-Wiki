@@ -11,9 +11,9 @@
 
 | 模组 | 原名与代码 | 版本 |
 | --- | --- | --- |
-| [文明兼容补丁](/mods/entries/vsscpmod) | Seraph Civilization Patches<br>`vsscpmod` | 1.0.1 |
+| [文明兼容补丁](/mods/entries/vsscpmod) | Seraph Civilization Patches<br>`vsscpmod` | 1.0.2 |
 | [文明模拟](/mods/entries/vsscsmod) | Seraph Civilization Simulation<br>`vsscsmod` | 1.0.0 |
-| [生存模拟](/mods/entries/vsslssmod) | Seraph A Living Survival Simulation<br>`vsslssmod` | 1.0.1 |
+| [生存模拟](/mods/entries/vsslssmod) | Seraph A Living Survival Simulation<br>`vsslssmod` | 1.0.3 |
 
 ## 农业、饮食与卫生
 
@@ -42,6 +42,7 @@
 
 | 模组 | 原名与代码 | 版本 |
 | --- | --- | --- |
+| [Buildwright 建造工具](/mods/entries/buildwright) | Buildwright<br>`buildwright` | 1.0.4 |
 | [上釉陶罐](/mods/entries/glazedpots) | Glazed Fancy Pots<br>`glazedpots` | 1.2.2 |
 | [专用储存](/mods/entries/purposefulstorage) | PurposefulStorage<br>`purposefulstorage` | 2.3.1 |
 | [伐木与原木加工](/mods/entries/loggingmod) | Logging Expanded<br>`loggingmod` | 0.3.6 |
@@ -159,7 +160,7 @@
 | [手册改进](/mods/entries/betterhandbook) | Better Handbook<br>`betterhandbook` | 1.0.9 |
 | [拼音搜索](/mods/entries/pinyinsearch) | 拼音搜索<br>`pinyinsearch` | 1.0.4 |
 | [拾取提示](/mods/entries/precisepickedup) | 精确拾取<br>`precisepickedup` | 1.1.6 |
-| [整合包汉化](/mods/entries/vscnlangpack) | VSCN Vintage Story 汉化包<br>`vscnlangpack` | 26.11.2 |
+| [整合包汉化](/mods/entries/vscnlangpack) | VSCN Vintage Story 汉化包<br>`vscnlangpack` | 26.11.7 |
 | [时钟显示补丁](/mods/entries/hudclockpatch) | HUD Clock<br>`hudclockpatch` | 4.5.0 |
 | [汉化更新](/mods/entries/vscnlangpackupdater) | VSCN 汉化包自动更新器<br>`vscnlangpackupdater` | 26.8.7 |
 | [界面工具](/mods/entries/gui) | Gui<br>`gui` | 4.0.0 |
@@ -169,6 +170,8 @@
 
 | 模组 | 原名与代码 | 版本 |
 | --- | --- | --- |
+| [Buildwright 服务端](/mods/entries/buildwrightserver) | Buildwright Server<br>`buildwrightserver` | 1.0.4 |
+| [Dear ImGui 界面依赖](/mods/entries/vsimgui) | Dear ImGui<br>`vsimgui` | 1.2.7 |
 | [串联水轮修复](/mods/entries/tandemwaterwheelfix) | Tandem Waterwheel Fix<br>`tandemwaterwheelfix` | 1.0.0 |
 | [启动器服务器桥接](/mods/entries/launchergoserverbridge) | LauncherGo Server Bridge<br>`launchergoserverbridge` | 2.2.0 |
 | [启动器认证](/mods/entries/launchergoauth) | ServerAuth<br>`launchergoauth` | 1.1.1 |
@@ -176,7 +179,7 @@
 | [屠宰与技能兼容](/mods/entries/butcheringseraphlevelingcompatibility) | Butchering + Seraph Leveling Compatibility<br>`butcheringseraphlevelingcompatibility` | 1.1.1 |
 | [搬运依赖库](/mods/entries/carryonlib) | CarryOnLib<br>`carryonlib` | 1.0.0-rc.1 |
 | [烟雾兼容补丁](/mods/entries/realsmokeqppatch) | Real Smoke QP&#x27;s Chisel Tools Patch<br>`realsmokeqppatch` | 1.0.1 |
-| [生存调试工具](/mods/entries/vsslssmoddebug) | 炽天使：生存模拟 - 调试工具<br>`vsslssmoddebug` | 1.0.1 |
+| [生存调试工具](/mods/entries/vsslssmoddebug) | 炽天使：生存模拟 - 调试工具<br>`vsslssmoddebug` | 1.0.3 |
 | [资源补丁依赖库](/mods/entries/jsonpatcheslib) | JSON Patches lib<br>`jsonpatcheslib` | 1.5.9 |
 | [遗传系统依赖库](/mods/entries/genelib) | Genelib<br>`genelib` | 3.2.1 |
 | [马车搬运兼容](/mods/entries/cartcarryonpatch) | Cartwrights Caravan and CarryOn Patch<br>`cartcarryonpatch` | 1.0.1 |

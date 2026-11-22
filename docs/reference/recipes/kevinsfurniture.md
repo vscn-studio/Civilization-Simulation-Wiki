@@ -45,9 +45,8 @@ SW
 W_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/angledwindows.json`
 
 ```json
 [
@@ -144,9 +143,8 @@ WNW
 WSW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/cabinets.json`
 
 ```json
 [
@@ -232,9 +230,8 @@ LCL
 MCM
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/canopy.json`
 
 ```json
 {
@@ -287,9 +284,8 @@ MCM
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/celticbed.json`
 
 ```json
 {
@@ -333,9 +329,8 @@ PPP
 P_P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/coffeetable.json`
 
 ```json
 {
@@ -386,9 +381,8 @@ T_T
 _L_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/cushion.json`
 
 ```json
 [
@@ -472,9 +466,8 @@ P_P
 _P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/furroll.json`
 
 ```json
 [
@@ -554,9 +547,8 @@ G_
 LS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/galileo.json`
 
 ```json
 [
@@ -609,9 +601,8 @@ _K
 W_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/knifeblock.json`
 
 ```json
 {
@@ -672,9 +663,8 @@ KL
 _L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/leatherflap.json`
 
 ```json
 {
@@ -721,9 +711,8 @@ WNW
 W_W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/nightstand.json`
 
 ```json
 {
@@ -1000,9 +989,8 @@ WNW
 WSW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/nightstandfancy.json`
 
 ```json
 [
@@ -1382,9 +1370,8 @@ _W_
 SKS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/primitivestool.json`
 
 ```json
 {
@@ -1450,9 +1437,8 @@ WWW
 S_S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/shoerack.json`
 
 ```json
 {
@@ -1502,9 +1488,8 @@ W
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/slidewindow.json`
 
 ```json
 {
@@ -1548,9 +1533,8 @@ S
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/smallwindows.json`
 
 ```json
 {
@@ -1600,9 +1584,8 @@ CFC
 CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/stove.json`
 
 ```json
 {
@@ -1645,9 +1628,8 @@ CCC
 W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/swingwindow.json`
 
 ```json
 {
@@ -1692,9 +1674,8 @@ W_W
 W_W
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/tallshelf.json`
 
 ```json
 {
@@ -2130,9 +2111,8 @@ R
 R
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/tallwindows.json`
 
 ```json
 [
@@ -2620,9 +2600,8 @@ sss
 K__
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/kevinsfurniture/recipes/grid/wardrobe.json`
 
 ```json
 {

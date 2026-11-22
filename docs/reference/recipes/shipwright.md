@@ -7,7 +7,6 @@
 
 ## 手册 1：船匠：建造船只
 
-来源：`assets/shipwright/config/handbook/shipwrightguide.json`。
 
 船匠建造
 
@@ -111,9 +110,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/barrel/dyes.json`
 
 ```json
 [
@@ -478,9 +476,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/barrel/tannin.json`
 
 ```json
 [
@@ -754,9 +751,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/barrel/woad.json`
 
 ```json
 [
@@ -1049,9 +1045,8 @@ KO_
 LL_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/grid/boatdeco.json`
 
 ```json
 [
@@ -1256,9 +1251,8 @@ K
 K
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/grid/dragonhorn.json`
 
 ```json
 [
@@ -1347,9 +1341,8 @@ LB
 LK
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/grid/drakkarflag.json`
 
 ```json
 [
@@ -1458,9 +1451,8 @@ TS
 TS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/grid/drakkartent.json`
 
 ```json
 [
@@ -1890,9 +1882,8 @@ LRS
 LRS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/grid/figurehead.json`
 
 ```json
 [
@@ -2908,9 +2899,8 @@ LS
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/grid/lanterns.json`
 
 ```json
 [
@@ -3622,9 +3612,8 @@ WSW
 WWW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/grid/oars.json`
 
 ```json
 [
@@ -3924,9 +3913,8 @@ WWW
 WOW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/grid/roller.json`
 
 ```json
 [
@@ -4212,9 +4200,8 @@ L
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/grid/ropeladderswap.json`
 
 ```json
 [
@@ -4731,9 +4718,8 @@ WLW
 WLW
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/grid/saillogos.json`
 
 ```json
 [
@@ -5822,9 +5808,8 @@ BSB
 BS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/grid/sailrecolor.json`
 
 ```json
 [
@@ -6632,9 +6617,8 @@ BS
 RCS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/shipwright/recipes/grid/schematics.json`
 
 ```json
 [

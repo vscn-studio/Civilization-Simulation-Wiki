@@ -28,9 +28,8 @@ SRS
 S_S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/scaffolding/recipes/grid/scaffolding.json`
 
 ```json
 {

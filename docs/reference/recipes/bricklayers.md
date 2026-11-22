@@ -7,7 +7,6 @@
 
 ## 手册 1：制作机制：陶瓷上釉
 
-来源：`assets/bricklayers/config/handbook/100-glazed_ceramics.json`。
 
 釉面陶瓷
 
@@ -161,7 +160,6 @@
 
 ## 手册 2：制作机制：彩色陶器与瓷器
 
-来源：`assets/bricklayers/config/handbook/110-colored_clay.json`。
 
 彩色陶器
 
@@ -195,7 +193,6 @@
 
 ## 手册 3：制作机制：有色玻璃
 
-来源：`assets/bricklayers/config/handbook/120-colored_glass.json`。
 
 有色玻璃
 
@@ -266,9 +263,8 @@ P
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/compatibility/blacksmiths/recipes/grid/polishing_sheetings.json`
 
 ```json
 [
@@ -339,9 +335,8 @@ W
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/compatibility/morecandles/recipes/grid/patterns.json`
 
 ```json
 [
@@ -440,9 +435,8 @@ BWF
 CLP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/compatibility/morecandles/recipes/grid/polishingset.json`
 
 ```json
 [
@@ -615,9 +609,8 @@ RF
 B 
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/compatibility/morecandles/recipes/grid/storagevessel_wax.json`
 
 ```json
 [
@@ -1130,9 +1123,8 @@ F
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/compatibility/morecandles/recipes/grid/vat_liquid_clay_soywax.json`
 
 ```json
 [
@@ -1971,9 +1963,8 @@ F
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/compatibility/morecandles/recipes/grid/vat_liquid_clay_wax.json`
 
 ```json
 [
@@ -2774,9 +2765,8 @@ F
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/compatibility/morecandles/recipes/grid/vat_liquid_porcelain_wax.json`
 
 ```json
 [
@@ -3200,9 +3190,8 @@ B
 HKV
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/compatibility/primitivesurvival/recipes/grid/bl_irrigationvessel.json`
 
 ```json
 [
@@ -3271,9 +3260,8 @@ BWF
 CLP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/compatibility/wildcrafttree/recipes/grid/polishingset.json`
 
 ```json
 [
@@ -3379,9 +3367,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/barrel/glazed_bricks.json`
 
 ```json
 [
@@ -3530,9 +3517,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/barrel/glazing_bowls.json`
 
 ```json
 [
@@ -3685,9 +3671,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/barrel/glazing_flowerpots.json`
 
 ```json
 [
@@ -3816,9 +3801,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/barrel/glazing_mugs.json`
 
 ```json
 [
@@ -3959,9 +3943,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/barrel/glazing_planters.json`
 
 ```json
 [
@@ -4130,9 +4113,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/barrel/glazing_tiles.json`
 
 ```json
 [
@@ -4370,9 +4352,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/barrel/glazingbase.json`
 
 ```json
 [
@@ -4476,9 +4457,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/barrel/glazings.json`
 
 ```json
 [
@@ -4579,9 +4559,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/barrel/malachite_clay.json`
 
 ```json
 [
@@ -4718,9 +4697,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/barrel/washing_patterns.json`
 
 ```json
 [
@@ -4923,9 +4901,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/bowl.json`
 
 ```json
 {
@@ -4973,9 +4950,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/clayrawtile.json`
 
 ```json
 {
@@ -5035,9 +5011,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/crock.json`
 
 ```json
 {
@@ -5120,9 +5095,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/eightclayrawtile.json`
 
 ```json
 {
@@ -5279,9 +5253,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/flowerpot.json`
 
 ```json
 {
@@ -5371,9 +5344,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/fourbowls.json`
 
 ```json
 {
@@ -5434,9 +5406,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/fourclayrawtile.json`
 
 ```json
 {
@@ -5537,9 +5508,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/fourcrock.json`
 
 ```json
 {
@@ -5672,9 +5642,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/fourflowerpot.json`
 
 ```json
 {
@@ -5821,9 +5790,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/fourmug.json`
 
 ```json
 {
@@ -5910,9 +5878,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/fourvatbase.json`
 
 ```json
 {
@@ -6158,9 +6125,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/fourvatspoutedlid.json`
 
 ```json
 {
@@ -6246,9 +6212,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/largepot.json`
 
 ```json
 {
@@ -6384,9 +6349,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/mug.json`
 
 ```json
 {
@@ -6447,9 +6411,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/ninemug.json`
 
 ```json
 {
@@ -6560,9 +6523,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/planter.json`
 
 ```json
 {
@@ -6722,9 +6684,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/shingle.json`
 
 ```json
 {
@@ -6775,9 +6736,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/storagevessel/base.json`
 
 ```json
 {
@@ -6996,9 +6956,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/storagevessel/fourrings.json`
 
 ```json
 {
@@ -7087,9 +7046,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/storagevessel/lid.json`
 
 ```json
 {
@@ -7154,9 +7112,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/storagevessel/ring.json`
 
 ```json
 {
@@ -7220,9 +7177,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/vatbase.json`
 
 ```json
 {
@@ -7363,9 +7319,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/vatspoutedlid.json`
 
 ```json
 {
@@ -7430,9 +7385,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/colored/wateringcan.json`
 
 ```json
 {
@@ -7565,9 +7519,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/patterns/checker.json`
 
 ```json
 {
@@ -7635,9 +7588,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/patterns/lines.json`
 
 ```json
 {
@@ -7705,9 +7657,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/bowl.json`
 
 ```json
 {
@@ -7763,9 +7714,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/crock.json`
 
 ```json
 {
@@ -7854,9 +7804,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/cup.json`
 
 ```json
 {
@@ -7916,9 +7865,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/flowerpot.json`
 
 ```json
 {
@@ -8014,9 +7962,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/fourbowl.json`
 
 ```json
 {
@@ -8087,9 +8034,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/fourcrock.json`
 
 ```json
 {
@@ -8228,9 +8174,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/fourcup.json`
 
 ```json
 {
@@ -8307,9 +8252,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/fourflowerpot.json`
 
 ```json
 {
@@ -8462,9 +8406,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/fourvatbase.json`
 
 ```json
 {
@@ -8713,9 +8656,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/fourvatspoutedlid.json`
 
 ```json
 {
@@ -8805,9 +8747,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/oillamp-genie.json`
 
 ```json
 {
@@ -8874,9 +8815,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/planter.json`
 
 ```json
 {
@@ -9042,9 +8982,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/smallpot.json`
 
 ```json
 {
@@ -9156,9 +9095,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/storagevessel/base.json`
 
 ```json
 {
@@ -9380,9 +9318,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/storagevessel/fourrings.json`
 
 ```json
 {
@@ -9474,9 +9411,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/storagevessel/lid.json`
 
 ```json
 {
@@ -9544,9 +9480,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/storagevessel/ring.json`
 
 ```json
 {
@@ -9613,9 +9548,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/sugarbowl.json`
 
 ```json
 {
@@ -9710,9 +9644,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/twolargepot.json`
 
 ```json
 {
@@ -9849,9 +9782,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/vatbase.json`
 
 ```json
 {
@@ -9995,9 +9927,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/vatspoutedlid.json`
 
 ```json
 {
@@ -10065,9 +9996,8 @@ CLP
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/clayforming/porcelain/wateringcan.json`
 
 ```json
 {
@@ -10328,9 +10258,8 @@ MC
 MC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/bandages.json`
 
 ```json
 [
@@ -10623,9 +10552,8 @@ BF
 BF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/bowl-dough.json`
 
 ```json
 [
@@ -10893,9 +10821,8 @@ SBS
 _P_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/bowl-healing.json`
 
 ```json
 [
@@ -11247,9 +11174,8 @@ BMB
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/bricks/glazedclaybricks.json`
 
 ```json
 [
@@ -11354,9 +11280,8 @@ LML
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/bricks/kimberlite/stonebricks.json`
 
 ```json
 [
@@ -11427,9 +11352,8 @@ BCB
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/bricks/mudbrick.json`
 
 ```json
 [
@@ -11510,9 +11434,8 @@ C
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/bricks/smallstonebrick.json`
 
 ```json
 [
@@ -11587,9 +11510,8 @@ LML
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/bricks/smallstonebricks.json`
 
 ```json
 [
@@ -11660,9 +11582,8 @@ C
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/bricks/suevite/stonebrick.json`
 
 ```json
 [
@@ -11721,9 +11642,8 @@ LML
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/bricks/suevite/stonebricks.json`
 
 ```json
 [
@@ -11775,9 +11695,8 @@ LLL
 MLC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/cement.json`
 
 ```json
 [
@@ -11872,9 +11791,8 @@ LC
 FF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/colored_clay.json`
 
 ```json
 [
@@ -11996,9 +11914,8 @@ SBS
 SSS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/drystone.json`
 
 ```json
 [
@@ -12811,9 +12728,8 @@ LYY
 QQB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/frit/frit.json`
 
 ```json
 [
@@ -14994,9 +14910,8 @@ LYY
 QQB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/frit/frit_fluorite.json`
 
 ```json
 [
@@ -17222,9 +17137,8 @@ LYY
 QQB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/frit/frit_lead.json`
 
 ```json
 [
@@ -18675,9 +18589,8 @@ LGT
 QQB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/frit/frit_lead_ruby.json`
 
 ```json
 [
@@ -18942,9 +18855,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch.json`
 
 ```json
 [
@@ -19677,9 +19589,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_dark.json`
 
 ```json
 [
@@ -20284,9 +20195,8 @@ LSF
 QQB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_fluorite.json`
 
 ```json
 [
@@ -20979,9 +20889,8 @@ LSF
 QQB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_fluorite_powder.json`
 
 ```json
 [
@@ -21674,9 +21583,8 @@ LSF
 QQB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_lead.json`
 
 ```json
 [
@@ -22407,9 +22315,8 @@ LPP
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_bright.json`
 
 ```json
 [
@@ -23061,9 +22968,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_bright_dark.json`
 
 ```json
 [
@@ -23442,9 +23348,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_bright_milky.json`
 
 ```json
 [
@@ -23613,9 +23518,8 @@ MQ
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_bright_opaque.json`
 
 ```json
 [
@@ -23860,9 +23764,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_bright_quartz.json`
 
 ```json
 [
@@ -23994,9 +23897,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_bright_smoky.json`
 
 ```json
 [
@@ -24360,9 +24262,8 @@ FPL
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_faint.json`
 
 ```json
 [
@@ -25043,9 +24944,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_faint_dark.json`
 
 ```json
 [
@@ -25424,9 +25324,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_faint_milky.json`
 
 ```json
 [
@@ -25595,9 +25494,8 @@ MQ
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_faint_opaque.json`
 
 ```json
 [
@@ -25842,9 +25740,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_faint_quartz.json`
 
 ```json
 [
@@ -25976,9 +25873,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_faint_smoky.json`
 
 ```json
 [
@@ -26338,9 +26234,8 @@ FPF
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_normal.json`
 
 ```json
 [
@@ -27001,9 +26896,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_normal_dark.json`
 
 ```json
 [
@@ -27382,9 +27276,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_normal_milky.json`
 
 ```json
 [
@@ -27553,9 +27446,8 @@ MQ
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_normal_opaque.json`
 
 ```json
 [
@@ -27800,9 +27692,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_normal_quartz.json`
 
 ```json
 [
@@ -27934,9 +27825,8 @@ RR
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_normal_smoky.json`
 
 ```json
 [
@@ -28261,9 +28151,8 @@ P
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_luminous_upgrading.json`
 
 ```json
 [
@@ -28636,9 +28525,8 @@ TQ
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_milky.json`
 
 ```json
 [
@@ -28965,9 +28853,8 @@ WQ
 BB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_opaque.json`
 
 ```json
 [
@@ -29514,9 +29401,8 @@ LSF
 QQB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_powder.json`
 
 ```json
 [
@@ -30189,9 +30075,8 @@ LSF
 QQB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_powder_lead.json`
 
 ```json
 [
@@ -30672,9 +30557,8 @@ AB
 QQ
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_quartz.json`
 
 ```json
 [
@@ -30863,9 +30747,8 @@ CP
 QQ
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/glassbatch/glassbatch_smoky.json`
 
 ```json
 [
@@ -31085,9 +30968,8 @@ QQ
 JF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/jug-dough.json`
 
 ```json
 [
@@ -31201,9 +31083,8 @@ _P_
 JB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/jug-healing.json`
 
 ```json
 [
@@ -31364,9 +31245,8 @@ C
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/obsidian/polishedrock-obsidian.json`
 
 ```json
 [
@@ -31426,9 +31306,8 @@ C
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/obsidian/polishedrockslab-obsidian.json`
 
 ```json
 [
@@ -31524,9 +31403,8 @@ LML
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/obsidian/stonebricks.json`
 
 ```json
 [
@@ -31762,9 +31640,8 @@ WP
 WP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/patterns/adding_patterns.json`
 
 ```json
 [
@@ -32071,9 +31948,8 @@ B
 P
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/patterns/patterns.json`
 
 ```json
 [
@@ -32154,9 +32030,8 @@ MC
 S_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/polishedrocks.json`
 
 ```json
 [
@@ -32271,9 +32146,8 @@ LA
 FF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/porcelain/crushed_ceramic.json`
 
 ```json
 [
@@ -32513,9 +32387,8 @@ RY
 YY
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/porcelain/porcelain.json`
 
 ```json
 [
@@ -32853,9 +32726,8 @@ BF
 BF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/porcelain/porcelainoillamps.json`
 
 ```json
 [
@@ -33315,9 +33187,8 @@ H
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/porcelain/smashing_ceramic.json`
 
 ```json
 [
@@ -33938,9 +33809,8 @@ SMS
 _C_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/poultices.json`
 
 ```json
 [
@@ -34592,9 +34462,8 @@ S
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_bambooroofing_to_stakes.json`
 
 ```json
 [
@@ -34881,9 +34750,8 @@ S
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_bamboostack_to_stakes.json`
 
 ```json
 [
@@ -34978,9 +34846,8 @@ H
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_brick_to_brick.json`
 
 ```json
 [
@@ -35077,9 +34944,8 @@ H
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_cobble_to_stone.json`
 
 ```json
 [
@@ -35180,9 +35046,8 @@ H
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_cobblestair_to_stone.json`
 
 ```json
 [
@@ -35585,9 +35450,8 @@ C
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_copperroofing.json`
 
 ```json
 [
@@ -36114,9 +35978,8 @@ H
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_drystone_to_stone.json`
 
 ```json
 [
@@ -36253,9 +36116,8 @@ H
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_drystonefence_to_stone.json`
 
 ```json
 [
@@ -36394,9 +36256,8 @@ S
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_glazedbrick_to_glazedbrick.json`
 
 ```json
 [
@@ -36527,9 +36388,8 @@ H
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_glazedbrickstairs_to_glazedbricks.json`
 
 ```json
 [
@@ -36653,9 +36513,8 @@ P
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_layerofsticks_to_sticks.json`
 
 ```json
 [
@@ -36929,9 +36788,8 @@ S
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_slateroofing_to_stones.json`
 
 ```json
 [
@@ -37314,9 +37172,8 @@ H
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_smallstonebrick_to_smallstonebrick.json`
 
 ```json
 [
@@ -37413,9 +37270,8 @@ H
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_smallstonebrickstairs_to_smallstonebrick.json`
 
 ```json
 [
@@ -37510,9 +37366,8 @@ H
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_stonebrickstairs_to_stonebrick.json`
 
 ```json
 [
@@ -37641,9 +37496,8 @@ H
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_tiles_to_tile.json`
 
 ```json
 [
@@ -37770,9 +37624,8 @@ S
 FS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_wood_fence.json`
 
 ```json
 [
@@ -37824,9 +37677,8 @@ FS
 FS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/block_wood_fencegate.json`
 
 ```json
 [
@@ -38340,9 +38192,8 @@ H
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/colored_glass.json`
 
 ```json
 [
@@ -39077,9 +38928,8 @@ H
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/dark_colored_glass.json`
 
 ```json
 [
@@ -39312,9 +39162,8 @@ P
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/glass_luminous_bright.json`
 
 ```json
 [
@@ -39747,9 +39596,8 @@ P
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/glass_luminous_bright_hammer.json`
 
 ```json
 [
@@ -40182,9 +40030,8 @@ P
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/glass_luminous_faint.json`
 
 ```json
 [
@@ -40617,9 +40464,8 @@ P
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/glass_luminous_faint_hammer.json`
 
 ```json
 [
@@ -41052,9 +40898,8 @@ P
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/glass_luminous_normal.json`
 
 ```json
 [
@@ -41487,9 +41332,8 @@ P
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/glass_luminous_normal_hammer.json`
 
 ```json
 [
@@ -41786,9 +41630,8 @@ H
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/milky_colored_glass.json`
 
 ```json
 [
@@ -41919,9 +41762,8 @@ H
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/opaque_colored_glass.json`
 
 ```json
 [
@@ -42068,9 +41910,8 @@ H
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/quartz_colored_glass.json`
 
 ```json
 [
@@ -42473,9 +42314,8 @@ H
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/quartz_glass.json`
 
 ```json
 [
@@ -46232,9 +46072,8 @@ H
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/roofing_to_shingles.json`
 
 ```json
 [
@@ -50705,9 +50544,8 @@ P
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/shingleblocks_to_shingles.json`
 
 ```json
 [
@@ -50988,9 +50826,8 @@ H
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/slab_brick_to_brick.json`
 
 ```json
 [
@@ -51085,9 +50922,8 @@ H
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/slab_cobble_to_stone.json`
 
 ```json
 [
@@ -51352,9 +51188,8 @@ H
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/slab_colored_glass.json`
 
 ```json
 [
@@ -51777,9 +51612,8 @@ S
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/slab_glazedbrick_to_glazedbrick.json`
 
 ```json
 [
@@ -51874,9 +51708,8 @@ H
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/slab_smallstonebrick_to_smallstonebrick.json`
 
 ```json
 [
@@ -51971,9 +51804,8 @@ H
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/recycle/smoky_colored_glass.json`
 
 ```json
 [
@@ -52134,9 +51966,8 @@ CC
 CC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/roofing/slantedrooing.json`
 
 ```json
 [
@@ -52344,9 +52175,8 @@ CH
 HH
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/roofing_slate.json`
 
 ```json
 [
@@ -52574,9 +52404,8 @@ S
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/slabmode/colored_glass.json`
 
 ```json
 [
@@ -52738,9 +52567,8 @@ S
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/slabmode/glazedbrick.json`
 
 ```json
 [
@@ -52817,9 +52645,8 @@ S
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/slabmode/hardenedclay.json`
 
 ```json
 [
@@ -52879,9 +52706,8 @@ S
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/slabmode/smallstonebrick.json`
 
 ```json
 [
@@ -53039,9 +52865,8 @@ GS
 GS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/slabs/glass_colored.json`
 
 ```json
 [
@@ -53288,9 +53113,8 @@ BMB
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/slabs/glazedclaybrickslab.json`
 
 ```json
 [
@@ -53394,9 +53218,8 @@ LML
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/slabs/kimberlite_stonebrickslab.json`
 
 ```json
 [
@@ -53448,9 +53271,8 @@ LML
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/slabs/smallstonebrickslab.json`
 
 ```json
 [
@@ -53518,9 +53340,8 @@ LML
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/slabs/suevite_stonebrickslab.json`
 
 ```json
 [
@@ -53593,9 +53414,8 @@ BMB
 BBB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/stairs/glazedbrickstairs.json`
 
 ```json
 [
@@ -53700,9 +53520,8 @@ LML
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/stairs/kimberlite_stonebrickstairs.json`
 
 ```json
 [
@@ -53755,9 +53574,8 @@ LML
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/stairs/smallstonebrickstairs.json`
 
 ```json
 [
@@ -53826,9 +53644,8 @@ LML
 LLL
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/stairs/suevite_stonebrickstairs.json`
 
 ```json
 [
@@ -53905,9 +53722,8 @@ RF
 B 
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/storagevessel.json`
 
 ```json
 [
@@ -54178,9 +53994,8 @@ C_
 RS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/tiles/claytile.json`
 
 ```json
 [
@@ -54316,9 +54131,8 @@ T
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/tiles/claytile_cement.json`
 
 ```json
 [
@@ -54367,9 +54181,8 @@ CCC
 CCC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/tiles/claytile_raw.json`
 
 ```json
 [
@@ -54483,9 +54296,8 @@ CTP
 CTP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/tiles/claytiles.json`
 
 ```json
 [
@@ -54632,9 +54444,8 @@ T
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/tiles/glazedtile_cement.json`
 
 ```json
 [
@@ -54765,9 +54576,8 @@ THT
 TTT
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/tiles/glazedtiles.json`
 
 ```json
 [
@@ -54920,9 +54730,8 @@ C_
 RS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/tiles/stonetile.json`
 
 ```json
 [
@@ -55084,9 +54893,8 @@ T
 C
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/tiles/stonetile_cement.json`
 
 ```json
 [
@@ -55177,9 +54985,8 @@ CTP
 CTP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/tiles/stonetile_shiny.json`
 
 ```json
 [
@@ -55288,9 +55095,8 @@ THT
 TTT
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/tiles/stonetiles.json`
 
 ```json
 [
@@ -55409,9 +55215,8 @@ BWF
 CLP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/tool/polishingset.json`
 
 ```json
 [
@@ -55627,9 +55432,8 @@ K
 L
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_bowl_meal.json`
 
 ```json
 [
@@ -55881,9 +55685,8 @@ L
 BS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_brick_to_slab.json`
 
 ```json
 [
@@ -55934,9 +55737,8 @@ BS
 BS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_claybrick_to_slab.json`
 
 ```json
 [
@@ -55990,9 +55792,8 @@ BS
 BS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_cobblestone_to_slab.json`
 
 ```json
 [
@@ -56065,9 +55866,8 @@ BS
 BS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_glazedclaybrick_to_slab.json`
 
 ```json
 [
@@ -56143,9 +55943,8 @@ BS
 CTP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_glazedtiles_dull_to_polished.json`
 
 ```json
 [
@@ -56221,9 +56020,8 @@ BS
 BS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_hardenedclay_to_slab.json`
 
 ```json
 [
@@ -56298,9 +56096,8 @@ BS
 BS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_mudbrick_to_slab.json`
 
 ```json
 [
@@ -56351,9 +56148,8 @@ BS
 PS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_path_to_slab.json`
 
 ```json
 [
@@ -56404,9 +56200,8 @@ PS
 PS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_pathstair_to_slab.json`
 
 ```json
 [
@@ -56457,9 +56252,8 @@ PS
 BS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_shingles_to_slabs.json`
 
 ```json
 [
@@ -56510,9 +56304,8 @@ BS
 PS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_shinglestair_to_slab.json`
 
 ```json
 [
@@ -56563,9 +56356,8 @@ PS
 BS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_smallstonebrick_to_slab.json`
 
 ```json
 [
@@ -56617,9 +56409,8 @@ BS
 CTP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/block_stonetiles_dull_to_polished.json`
 
 ```json
 [
@@ -56696,9 +56487,8 @@ P
 G
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/glass_dull_to_polished.json`
 
 ```json
 [
@@ -56776,9 +56566,8 @@ G
 CTP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/glazedtile_dull_to_polished.json`
 
 ```json
 [
@@ -56838,9 +56627,8 @@ M
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/slab_brick_to_block.json`
 
 ```json
 [
@@ -56894,9 +56682,8 @@ M
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/slab_claybrick_to_block.json`
 
 ```json
 [
@@ -56947,9 +56734,8 @@ S
 CC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/slab_clayshingles_to_block.json`
 
 ```json
 [
@@ -56995,9 +56781,8 @@ C
 CC
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/slab_clayshingles_to_stairs.json`
 
 ```json
 [
@@ -57101,9 +56886,8 @@ S S
 S S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/slab_cobble_to_block.json`
 
 ```json
 [
@@ -57255,9 +57039,8 @@ M
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/slab_glazedclaybrick_to_block.json`
 
 ```json
 [
@@ -57356,9 +57139,8 @@ C
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/slab_hardened_clay_to_block.json`
 
 ```json
 [
@@ -57453,9 +57235,8 @@ C
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/slab_mudbrick_to_block.json`
 
 ```json
 [
@@ -57522,9 +57303,8 @@ S
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/slab_path_to_block.json`
 
 ```json
 [
@@ -57570,9 +57350,8 @@ S
 PP
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/slab_pathslab_to_stairs.json`
 
 ```json
 [
@@ -57620,9 +57399,8 @@ M
 S
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/slab_smallstonebrick_to_block.json`
 
 ```json
 [
@@ -57674,9 +57452,8 @@ S
 BS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/transforming/vessel_colored.json`
 
 ```json
 [
@@ -57725,9 +57502,8 @@ BS
 VF
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/vat-dough.json`
 
 ```json
 [
@@ -57841,9 +57617,8 @@ _P_
 JB
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/vat-healing.json`
 
 ```json
 [
@@ -58253,9 +58028,8 @@ F
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/vat_liquid_clay.json`
 
 ```json
 [
@@ -59094,9 +58868,8 @@ F
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/vat_liquid_clay_wax.json`
 
 ```json
 [
@@ -59802,9 +59575,8 @@ F
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/vat_liquid_porcelain.json`
 
 ```json
 [
@@ -60181,9 +59953,8 @@ F
 B
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/bricklayers/recipes/grid/vat_liquid_porcelain_wax.json`
 
 ```json
 [

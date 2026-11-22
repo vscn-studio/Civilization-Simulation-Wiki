@@ -7,7 +7,6 @@
 
 ## 手册 1：浸制蜡烛
 
-来源：`assets/candela/config/handbook/60-candela-dipping.json`。
 
 浸制蜡烛
 
@@ -37,7 +36,6 @@
 
 ## 手册 2：蜡烛与维护
 
-来源：`assets/candela/config/handbook/61-candela-upkeep.json`。
 
 蜡烛与维护
 
@@ -71,9 +69,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/candela/recipes/clayforming/candlemould.json`
 
 ```json
 {
@@ -179,9 +176,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/candela/recipes/cooking/beeswax-molten.json`
 
 ```json
 [
@@ -634,9 +630,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/candela/recipes/cooking/stubs-molten.json`
 
 ```json
 [
@@ -1421,9 +1416,8 @@
 
 **操作顺序：** 准备上表投入，核对所属加工设备及条件，再检查产物。此文件未提供通用工作台摆放图；锻造、陶塑或特殊加工的形状见原始定义。
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/candela/recipes/cooking/tallow-molten.json`
 
 ```json
 [
@@ -1851,9 +1845,8 @@ SF
 KR
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/candela/recipes/grid/dippingrod.json`
 
 ```json
 [
@@ -2092,9 +2085,8 @@ _P_
 _L_
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/candela/recipes/grid/lantern-tallow.json`
 
 ```json
 [
@@ -2541,9 +2533,8 @@ _L_
 PPT
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/candela/recipes/grid/oilburner.json`
 
 ```json
 [
@@ -2672,9 +2663,8 @@ FS
 FS
 ```
 
-<details><summary>技术说明：完整配方与资源路径</summary>
+<details><summary>技术说明：完整配方</summary>
 
-来源：`assets/candela/recipes/grid/wick.json`
 
 ```json
 [
