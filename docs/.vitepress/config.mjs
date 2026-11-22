@@ -3,6 +3,8 @@ import { nav, sidebar, pagePresentation } from './navigation.mjs'
 export default defineConfig({
   lang: 'zh-CN', title: '炽天使文明模拟', description: '玩家教程、整合包百科与管理开发参考',
   base: process.env.WIKI_BASE || '/', cleanUrls: false,
+  // Limit peak memory while rendering the large reference tables.
+  buildConcurrency: 8,
   transformPageData: pagePresentation,
   themeConfig: {
     nav, sidebar,

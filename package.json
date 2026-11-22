@@ -20,6 +20,7 @@
     "check:content": "node scripts/check_content.mjs",
     "check:generation": "python scripts/check_generation.py",
     "test:browser": "playwright test wiki.spec.mjs",
+    "test:nutrition": "node --test tests/nutrition.test.mjs",
     "test:deployment": "playwright test deployment.spec.mjs"
   },
   "devDependencies": {

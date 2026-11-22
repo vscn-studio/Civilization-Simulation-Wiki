@@ -7,6 +7,7 @@ from pathlib import Path
 from wiki_content import write_generated
 from public_content import public_food_data
 from recipe_presentation import display_name, recipe_summary
+from nutrition_catalogue import build_catalogue, expand_variants, compact_catalogue
 
 ROOT = Path(__file__).resolve().parent.parent
 GAME = required_dir('SERAPH_GAME_DIR')
@@ -37,6 +38,10 @@ def selected(name):
         ['itemtypes','blocktypes','recipes','patches','lang','worldproperties','config/handbook'])
 
 def package_files(entry):
+    # Core survival documentation and its composition model must use the same current assets.
+    if entry['id'] == 'vsslssmod':
+        return [(f.relative_to(SURV).as_posix(), f.read_bytes())
+                for f in sorted((SURV/'assets').rglob('*.json')) if selected(f.as_posix())]
     p = PACK/entry['file']
     if p.is_dir():
         return [(f.relative_to(p).as_posix(),f.read_bytes()) for f in sorted(p.rglob('*.json')) if selected(f.as_posix())]
@@ -104,6 +109,9 @@ def main():
         if '/worldproperties/' in a['file'] and isinstance(a['data'],dict):
             key=a['file'].split('/worldproperties/',1)[1][:-5]
             worldprops[(a['domain'],key)]=a['data']
+    cache = ROOT/'scripts/generated/nutrition-assets.json'
+    cache.parent.mkdir(parents=True, exist_ok=True)
+    cache.write_text(json.dumps(parsed, ensure_ascii=False), encoding='utf-8')
     foods=[]; recipes=collections.defaultdict(list); manuals=collections.defaultdict(list); nutrition_patches=[]
     for a in parsed:
         data=a['data']; path=a['file']; domain=a['domain']; slug=a['mod']
@@ -125,18 +133,8 @@ def main():
             low={k.lower():v for k,v in obj.items()}
             base=low.get('code',Path(path).stem)
             if not isinstance(base,str): base=compact(base)
-            variants=[base]; unresolved=[]
-            for g in low.get('variantgroups',[]):
-                if not isinstance(g,dict): continue
-                states=g.get('states')
-                if states is None and 'loadFrom' in g:
-                    load=g['loadFrom']; dom,key=load.split(':',1) if ':' in load else (domain,load)
-                    states=[v.get('code') for v in worldprops.get((dom,key),{}).get('variants',[]) if isinstance(v,dict)]
-                if states and all(isinstance(s,str) for s in states) and len(variants)*len(states)<=50000:
-                    variants=[v+'-'+s for v in variants for s in states]
-                else: unresolved.append(g)
-            skip=low.get('skipvariants',[]); allow=low.get('allowedvariants',[])
-            variants=[v for v in variants if not any(match(v,p) for p in skip) and (not allow or any(match(v,p) for p in allow))]
+            expanded, unresolved = expand_variants(obj, domain, worldprops)
+            variants = [code for code, _ in expanded]
             allcodes=[v if ':' in v else domain+':'+v for v in variants]
             typ='item' if '/itemtypes/' in path else 'block'
             for pointer,value in walk(obj):
@@ -156,7 +154,8 @@ def main():
                     codes=codes,names=names,condition=condition,category=vals.get('foodcategory','—'),
                     satiety=vals.get('satiety'),health=vals.get('health'),nutrition=value,
                     file=path,unresolvedVariants=unresolved,liquidUnits=low.get('attributes',{}).get('waterTightContainerProps',{}).get('itemsPerLitre') if isinstance(low.get('attributes'),dict) else None))
-    calibrations=json.loads((SURV/'assets/vsslssmod/config/foods.json').read_text(encoding='utf-8-sig'))['Foods']
+    food_config=json.loads((SURV/'assets/vsslssmod/config/foods.json').read_text(encoding='utf-8-sig'))
+    calibrations=food_config['Foods']
     for row in foods:
         row['calibrations']=[i for i,f in enumerate(calibrations) if any(match(c,p) for c in row['codes'] for p in f.get('Codes',[]))]
     public=ROOT/'docs/public/data'; public.mkdir(parents=True,exist_ok=True)
@@ -171,6 +170,9 @@ def main():
         counts=dict(assets=len(raw),parsed=len(parsed),errors=len(errors),foodRows=len(foods),foodMods=len({x['mod'] for x in foods}),
             recipeFiles=sum(map(len,recipes.values())),handbookPages=sum(map(len,manuals.values()))))
     write('docs/public/data/food-catalogue.json',json.dumps(public_food_data(payload),ensure_ascii=False))
+    catalogue = build_catalogue(parsed, food_config, MANIFEST)
+    write('docs/public/data/nutrition-catalogue.json',json.dumps(compact_catalogue(catalogue),ensure_ascii=False,separators=(',', ':')))
+    print('Nutrition catalogue:', json.dumps(catalogue['counts'], ensure_ascii=False))
     write('scripts/asset-catalogue-errors.json',json.dumps(errors,ensure_ascii=False,indent=2)+'\n')
     write('scripts/asset-catalogue-manifest.json',json.dumps({k:v for k,v in payload.items() if k=='counts'},ensure_ascii=False,indent=2)+'\n')
     index=['# 整合包配方与手册资料库','','查询各模组的配方条件和手册正文。配方保留数量、网格、工具、时长、温度与变体限制；网格中的字母对应 ingredients 键，空格或下划线为空格。书中 itemstack 图片改为物品代码，正文未解析为网页脚本。','',

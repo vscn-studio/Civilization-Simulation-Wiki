@@ -69,6 +69,7 @@ npm run preview
 | `npm run dev` | 本地开发预览 |
 | `npm run build` | 生成静态网站 |
 | `npm run check:content` | 检查分类、数据覆盖与构建后的内部链接 |
+| `npm run test:nutrition` | 校验营养份量、烹饪、腐败、切片与配料计算 |
 | `npm run test:deployment` | 验证当前发布路径下的页面、数据与搜索 |
 | `npm run test:browser` | 根路径下的完整布局与交互检查，先以默认路径构建 |
 | `npm run check:generation` | 本地生成器的重复生成与正文保护检查，需要原始资料目录 |

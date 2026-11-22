@@ -1,4 +1,7 @@
 import { test, expect } from '@playwright/test'
+import fs from 'node:fs'
+const mods=JSON.parse(fs.readFileSync('docs/public/data/mod-catalogue.json','utf8'))
+const nutrition=JSON.parse(fs.readFileSync('docs/public/data/nutrition-catalogue.json','utf8'))
 
 const base = process.env.WIKI_BASE || '/'
 
@@ -14,11 +17,15 @@ test('发布路径下的导航、营养与模组数据', async ({ page }) => {
   await page.locator('.VPNavBarMenu').getByRole('link', { name: '资料查询', exact: true }).click()
   await expect.poll(() => new URL(page.url()).pathname).toBe(`${base}reference/`)
   await page.goto(`${base}guide/food-catalogue.html`)
-  await expect(page.getByText('找到 414 条记录', { exact: false })).toBeVisible()
+  await expect(page.getByText(`找到 ${nutrition.counts.records} 条记录`, { exact: false })).toBeVisible()
   await page.getByLabel('名称或代码').fill('胡萝卜')
   await expect(page.locator('.food-catalogue tbody tr').first()).toContainText('胡萝卜')
+  await page.getByRole('button', { name: '校准与原版分支', exact: true }).click()
+  await expect(page.getByText('找到 414 条记录', { exact: false })).toBeVisible()
+  await page.getByRole('button', { name: '自选配料计算', exact: true }).click()
+  await expect(page.locator('.meal-calculator .summary')).toBeVisible()
   await page.goto(`${base}mods/`)
-  await expect(page.getByText('132 个模组', { exact: true })).toBeVisible()
+  await expect(page.getByText(`${mods.length} 个模组`, { exact: true })).toBeVisible()
   const firstEntry = page.locator('.mod-catalogue tbody a').first()
   const entryTitle = await firstEntry.innerText()
   expect(await firstEntry.getAttribute('href')).toContain(`${base}mods/entries/`)

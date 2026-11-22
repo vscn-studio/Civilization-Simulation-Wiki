@@ -49,6 +49,7 @@
 | [乡野烹饪](/reference/recipes/rusticcookery) | 4 | 0 |
 | [脚手架](/reference/recipes/scaffolding) | 1 | 0 |
 | [书写](/reference/recipes/scribe) | 11 | 9 |
+| [生存模拟](/reference/recipes/vsslssmod) | 12 | 18 |
 | [技能成长](/reference/recipes/seraphleveling) | 0 | 1 |
 | [造船](/reference/recipes/shipwright) | 15 | 1 |
 | [锻造改进](/reference/recipes/smithingplusplus) | 9 | 1 |
@@ -68,6 +69,5 @@
 | [火箭矢](/reference/recipes/vscnfirearrows) | 0 | 1 |
 | [绳索交互](/reference/recipes/vscnroping) | 2 | 1 |
 | [乐器](/reference/recipes/vsinstrumentsredux) | 15 | 0 |
-| [生存模拟](/reference/recipes/vsslssmod) | 12 | 18 |
 | [野生种植](/reference/recipes/wildfarmingfork) | 12 | 1 |
 <!-- generated:end -->

@@ -602,6 +602,20 @@
     "file": "Seasonal Flowers-2.0.2.zip"
   },
   {
+    "slug": "vsslssmod",
+    "name": "Seraph A Living Survival Simulation",
+    "id": "vsslssmod",
+    "version": "1.0.3",
+    "file": "Seraph A Living Survival Simulation-1.0.3.zip"
+  },
+  {
+    "slug": "vsscpmod",
+    "name": "Seraph Civilization Patches",
+    "id": "vsscpmod",
+    "version": "1.0.1",
+    "file": "Seraph Civilization Patches-1.0.1.zip"
+  },
+  {
     "slug": "vsscsmod",
     "name": "Seraph Civilization Simulation",
     "id": "vsscsmod",
@@ -633,8 +647,8 @@
     "slug": "simplevoicechat",
     "name": "Simple Voice Chat",
     "id": "simplevoicechat",
-    "version": "1.3.7",
-    "file": "Simple Voice Chat-1.3.7.zip"
+    "version": "1.4.0",
+    "file": "Simple Voice Chat-1.4.0.zip"
   },
   {
     "slug": "slowtox",
@@ -826,39 +840,11 @@
     "file": "VSCN 汉化包自动更新器-26.8.7.zip"
   },
   {
-    "slug": "vsimgui",
-    "name": "Dear ImGui",
-    "id": "vsimgui",
-    "version": "1.2.7",
-    "file": "vsimgui_1.2.7.zip"
-  },
-  {
     "slug": "vsinstrumentsredux",
     "name": "VSInstrumentsRedux",
     "id": "vsinstrumentsredux",
     "version": "2.3.0",
     "file": "VSInstrumentsRedux-2.3.0.zip"
-  },
-  {
-    "slug": "vsscpmod",
-    "name": "Seraph Civilization Patches",
-    "id": "vsscpmod",
-    "version": "1.0.2",
-    "file": "vsscpmod_1.0.2.zip"
-  },
-  {
-    "slug": "vsslssmod",
-    "name": "Seraph A Living Survival Simulation",
-    "id": "vsslssmod",
-    "version": "1.0.3",
-    "file": "vsslssmod-1.0.3.zip"
-  },
-  {
-    "slug": "vsslssmoddebug",
-    "name": "炽天使：生存模拟 - 调试工具",
-    "id": "vsslssmoddebug",
-    "version": "1.0.3",
-    "file": "vsslssmoddebug-1.0.3.zip"
   },
   {
     "slug": "walkableentities",

@@ -11,7 +11,7 @@
 
 | 模组 | 原名与代码 | 版本 |
 | --- | --- | --- |
-| [文明兼容补丁](/mods/entries/vsscpmod) | Seraph Civilization Patches<br>`vsscpmod` | 1.0.2 |
+| [文明兼容补丁](/mods/entries/vsscpmod) | Seraph Civilization Patches<br>`vsscpmod` | 1.0.1 |
 | [文明模拟](/mods/entries/vsscsmod) | Seraph Civilization Simulation<br>`vsscsmod` | 1.0.0 |
 | [生存模拟](/mods/entries/vsslssmod) | Seraph A Living Survival Simulation<br>`vsslssmod` | 1.0.3 |
 
@@ -145,7 +145,7 @@
 | [束缚交互](/mods/entries/vsrestraints) | VS Restraints<br>`vsrestraints` | 1.0.0 |
 | [经济系统](/mods/entries/vinconomy) | Vinconomy<br>`vinconomy` | 6.0.3 |
 | [绘画画布](/mods/entries/vintagecanvas) | VintageCanvas<br>`vintagecanvas` | 1.4.2 |
-| [语音聊天](/mods/entries/simplevoicechat) | Simple Voice Chat<br>`simplevoicechat` | 1.3.7 |
+| [语音聊天](/mods/entries/simplevoicechat) | Simple Voice Chat<br>`simplevoicechat` | 1.4.0 |
 | [铸币](/mods/entries/coinage) | Coinage<br>`coinage` | 2.4.0 |
 
 ## 界面、汉化与客户端工具
@@ -171,7 +171,6 @@
 | 模组 | 原名与代码 | 版本 |
 | --- | --- | --- |
 | [Buildwright 服务端](/mods/entries/buildwrightserver) | Buildwright Server<br>`buildwrightserver` | 1.0.4 |
-| [Dear ImGui 界面依赖](/mods/entries/vsimgui) | Dear ImGui<br>`vsimgui` | 1.2.7 |
 | [串联水轮修复](/mods/entries/tandemwaterwheelfix) | Tandem Waterwheel Fix<br>`tandemwaterwheelfix` | 1.0.0 |
 | [启动器服务器桥接](/mods/entries/launchergoserverbridge) | LauncherGo Server Bridge<br>`launchergoserverbridge` | 2.2.0 |
 | [启动器认证](/mods/entries/launchergoauth) | ServerAuth<br>`launchergoauth` | 1.1.1 |
@@ -179,7 +178,6 @@
 | [屠宰与技能兼容](/mods/entries/butcheringseraphlevelingcompatibility) | Butchering + Seraph Leveling Compatibility<br>`butcheringseraphlevelingcompatibility` | 1.1.1 |
 | [搬运依赖库](/mods/entries/carryonlib) | CarryOnLib<br>`carryonlib` | 1.0.0-rc.1 |
 | [烟雾兼容补丁](/mods/entries/realsmokeqppatch) | Real Smoke QP&#x27;s Chisel Tools Patch<br>`realsmokeqppatch` | 1.0.1 |
-| [生存调试工具](/mods/entries/vsslssmoddebug) | 炽天使：生存模拟 - 调试工具<br>`vsslssmoddebug` | 1.0.3 |
 | [资源补丁依赖库](/mods/entries/jsonpatcheslib) | JSON Patches lib<br>`jsonpatcheslib` | 1.5.9 |
 | [遗传系统依赖库](/mods/entries/genelib) | Genelib<br>`genelib` | 3.2.1 |
 | [马车搬运兼容](/mods/entries/cartcarryonpatch) | Cartwrights Caravan and CarryOn Patch<br>`cartcarryonpatch` | 1.0.1 |

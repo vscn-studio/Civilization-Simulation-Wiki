@@ -10,6 +10,7 @@ RETIRED_PAGES = {
 
 
 def public_markdown(text):
+    text = re.sub(r'^正式版\s+\d+\.\d+(?:\.\d+)?\s*$', '正式版', text, flags=re.M)
     text = re.sub(r'<!-- package-evidence:start -->.*?<!-- package-evidence:end -->', '', text, flags=re.S)
     # These lines describe extraction locations, not infection/food origins.
     text = re.sub(r'^(?:> )?来源：[^\n]*\n?', '', text, flags=re.M)

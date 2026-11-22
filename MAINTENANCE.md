@@ -29,3 +29,7 @@ generated:start/end 标记内由生成器维护，标记外的正文由人工维
 模组清单中的版本反映实际安装包；教程和 API 应标明适用的当前版本。更新功能时直接修订相应页面，不累计旧版本说明或提交日志。模组源码仍用于核实机制，公开网页不展示源码文件定位、安装包哈希或维护者目录。
 
 运行 npm run check:generation 验证重复生成稳定性及人工正文保护，再执行 README 中的构建、内容和浏览器检查。公开数据保留食品数值、适用条件和模组名称，不包含提取文件、校准引用或包证据字段。
+
+营养检索由 asset_catalogue.py 同时生成 food-catalogue.json（完整校准和条件分支）与 nutrition-catalogue.json（具体变体、烹饪选项及派配方）。后者共享食材数据，浏览器展开组合，避免重复下载大量相同成分。提取器解析 loadFromProperties、条件分支优先级、普通 JSON 补丁、手册可见性和模组依赖；代码模组运行时修改仍需游戏核对。
+
+营养计算回归检查：npm run test:nutrition；提取器测试：python -m unittest discover -s tests -p test_nutrition.py。变更生成规则时同时运行 check:generation，确保公开数据不会恢复本机目录或来源定位。不要为凑数量生成不存在的物品或重复方向变体。

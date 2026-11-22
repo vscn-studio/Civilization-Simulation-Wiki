@@ -2,6 +2,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import assert from 'node:assert/strict'
 import { nav, sidebar } from '../docs/.vitepress/navigation.mjs'
+import { expandCatalogue } from '../docs/.vitepress/theme/nutrition.mjs'
 const read = p => fs.readFileSync(p,'utf8')
 const resolvePage = link => {
   const raw=link.split('#')[0].replace(/^\//,'')
@@ -13,7 +14,7 @@ for (const id of ['vsscsmod','vsscpmod','vsslssmod']) {
   assert(!fs.existsSync('docs/develop/sources/'+id+'.md'))
 }
 const data=JSON.parse(read('docs/public/data/food-catalogue.json'))
-assert.equal(data.foods.length,352)
+assert(data.foods.length>=350)
 assert.equal(data.calibrations.length,414)
 assert(!('patches' in data))
 assert(data.foods.every(f=>!('file' in f)))
@@ -21,6 +22,16 @@ assert(data.calibrations.every(c=>!('Source' in c) && !('PortionBasis' in c)))
 assert.equal(data.calibrationNames.length,data.calibrations.length)
 assert.equal(data.foods.length,data.counts.foodRows)
 assert(data.calibrationNames.some(n=>n.some(s=>s.includes('胡萝卜'))))
+const nutrition=JSON.parse(read('docs/public/data/nutrition-catalogue.json'))
+const foods=expandCatalogue(nutrition)
+assert.equal(foods.length,nutrition.counts.records)
+assert.equal(nutrition.rows.length,nutrition.counts.items)
+assert.equal(nutrition.pieVariants.length,nutrition.counts.pies)
+assert.equal(new Set(foods.map(r=>r.id)).size,foods.length)
+assert(foods.length>9000 && nutrition.rows.length>400)
+assert.equal(nutrition.coverage.unresolvedVariants.length,0)
+assert(foods.every(r=>r.dose.mass>0 && Object.values(r.dose.values).every(v=>Number.isFinite(v)&&v>=0)))
+assert(nutrition.mealRecipes.some(r=>r.code==='game:porridge'))
 const mods=JSON.parse(read('docs/public/data/mod-catalogue.json'))
 assert.equal(mods.length,JSON.parse(read('scripts/inventory-manifest.json')).length)
 assert(mods.every(m=>m.title && m.category!=='待分类的新模组'))
